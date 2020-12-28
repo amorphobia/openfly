@@ -80,7 +80,7 @@ simplification:
   tips: all
 
 reverse_lookup:
-  dictionary: openfly
+  dictionary: flypydz
   comment_format:
     - xform/ / /
 
