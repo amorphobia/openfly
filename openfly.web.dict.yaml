@@ -1,0 +1,15 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Credit: 何海峰 <flypy@qq.com>
+# 原词库中的直通车，保留了三个小鹤网址，命名为 web
+
+---
+name: openfly.web
+version: "9.9j"
+sort: by_weight
+use_preset_vocabulary: false
+...
+https://bbs.flypy.com	xhlt
+http://xhrm.flypy.com	xhrm
+http://flypy.ys168.com	xhwp

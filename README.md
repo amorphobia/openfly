@@ -1,2 +1,3 @@
-# openfly
-开放小鹤 Rime 配置
+# Openfly
+
+开放词库的小鹤音形 Rime 配置

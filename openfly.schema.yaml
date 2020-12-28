@@ -1,0 +1,101 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: openfly
+  name: 开放小鹤
+  version: "9.9j"
+  author:
+    - 方案设计：何海峰 <flypy@qq.com>
+  description:
+    小鹤音形
+
+punctuator:
+  import_preset: default
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+  - name: simplification
+    reset: 0
+  - name: ascii_punct
+    reset: 0
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+    - lua_translator@date_translator
+    - lua_translator@time_translator
+    - reverse_lookup_translator
+    - history_translator@history
+  filters:
+    - simplifier
+    - simplifier@simplification
+    - uniquifier
+
+speller:
+  alphabet: '/;zyxwvutsrqponmlkjihgfedcba'
+  initials: 'abcdefghijklmnopqrstuvwxyz;'
+  finals: '/'
+  max_code_length: 4
+  auto_select: true
+  auto_select_pattern: ^;.$|^\w{4}$
+  auto_clear: max_length # manual | auto | max_length
+
+translator:
+  dictionary: openfly
+  enable_charset_filter: false
+  enable_sentence: false
+  enable_completion: false
+  enable_user_dict: false
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+
+history:
+  input: ;f
+  size: 1
+  initial_quality: 1
+
+simplification:
+  opencc_config: s2tw.json
+  option_name: simplification
+  tips: all
+
+reverse_lookup:
+  dictionary: openfly
+  comment_format:
+    - xform/ / /
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    uppercase: ""
+    reverse_lookup: "[a-z`]*`+[a-z`]*"
+    punct: ""
+
+menu:
+  page_size: 5
+
+style:
+  horizontal: false

@@ -1,0 +1,23 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Credit: 何海峰 <flypy@qq.com>
+
+---
+name: openfly
+version: "9.9j"
+
+import_tables:
+  - 'openfly.user.top'
+  - 'openfly.fast.symbols'
+  - 'openfly.primary'
+  - 'openfly.secondary.short.code'
+  - 'openfly.secondary.word'
+  - 'openfly.secondary.char'
+  - 'openfly.off-table'
+  - 'openfly.whimsicality'
+  - 'openfly.symbols'
+  - 'openfly.web'
+  - 'openfly.uncommon'
+  - 'openfly.user'
+...
