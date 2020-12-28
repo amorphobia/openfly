@@ -1,0 +1,3 @@
+__patch:
+  - patch/+:
+      __include: xmoji:/patch
