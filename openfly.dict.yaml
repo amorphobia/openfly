@@ -14,6 +14,7 @@ import_tables:
   - 'openfly.secondary.short.code'
   - 'openfly.secondary.word'
   - 'openfly.secondary.char'
+  - 'openfly.embedded.hint'
   - 'openfly.off-table'
   - 'openfly.whimsicality'
   - 'openfly.symbols'
