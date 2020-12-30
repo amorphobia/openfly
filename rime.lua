@@ -19,7 +19,7 @@ function openfly_hint_filter(input)
         local last = string.sub(cand.text, -1)
         if (last >= 'a' and last <= 'z') then
             local word = string.sub(cand.text, 1, -2)
-            yield(Candidate("text", cand.start, cand._end, word, last))
+            yield(Candidate(cand.type, cand.start, cand._end, word, last))
         else
             yield(cand)
         end
