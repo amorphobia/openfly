@@ -46,6 +46,7 @@ engine:
     - reverse_lookup_translator
     - history_translator@history
   filters:
+    - lua_filter@openfly_hint_filter
     - simplifier
     - simplifier@simplification
     - uniquifier
