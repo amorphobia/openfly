@@ -10,6 +10,6 @@ version: "9.9j"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-https://bbs.flypy.com	xhlt
-http://xhrm.flypy.com	xhrm
-http://flypy.ys168.com	xhwp
+https://bbs.flypy.com/	xhlt
+http://xhrm.flypy.com/	xhrm
+http://flypy.ys168.com/	xhwp
