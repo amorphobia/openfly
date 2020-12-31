@@ -24,3 +24,4 @@ $ cp *.yaml *.lua <Rime 用户目录>
 
 1. 缺少部分内嵌编码 [#3](https://github.com/amorphobia/openfly/issues/3)
 2. 暂时无法经部署生成反查文件 [#4](https://github.com/amorphobia/openfly/issues/4)
+3. 部分编码可更优化 [#6](https://github.com/amorphobia/openfly/issues/6)
