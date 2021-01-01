@@ -2,6 +2,7 @@
 # encoding: utf-8
 #
 # Credit: 何海峰 <flypy@qq.com>
+# 快符号
 # 缺失：
 # ;f 重复上屏，在 schema 里使用 history_translator 设置
 # ;n End 键
