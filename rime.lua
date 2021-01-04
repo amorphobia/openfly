@@ -22,7 +22,11 @@ function openfly_hint_filter(input)
         else
             local word = string.sub(cand.text, 1, delimiter - 1)
             local comment = string.sub(cand.text, delimiter + 1)
-            yield(Candidate(cand.type, cand.start, cand._end, word, comment))
+            if (word == "" or comment == "") then
+                yield(cand)
+            else
+                yield(Candidate(cand.type, cand.start, cand._end, word, comment))
+            end
         end
     end
 end
