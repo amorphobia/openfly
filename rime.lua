@@ -16,12 +16,13 @@ end
 
 function openfly_hint_filter(input)
     for cand in input:iter() do
-        local last = string.sub(cand.text, -1)
-        if (last >= 'a' and last <= 'z') then
-            local word = string.sub(cand.text, 1, -2)
-            yield(Candidate(cand.type, cand.start, cand._end, word, last))
-        else
+        local delimiter = string.find(cand.text, "`")
+        if (delimiter == nil) then
             yield(cand)
+        else
+            local word = string.sub(cand.text, 1, delimiter - 1)
+            local comment = string.sub(cand.text, delimiter + 1)
+            yield(Candidate(cand.type, cand.start, cand._end, word, comment))
         end
     end
 end
