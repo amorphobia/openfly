@@ -9,6 +9,8 @@ schema:
     - 方案设计：何海峰 <flypy@qq.com>
   description:
     小鹤音形
+  dependencies:
+    - openfly_reverse
 
 punctuator:
   import_preset: default
@@ -80,7 +82,7 @@ simplification:
   tips: all
 
 reverse_lookup:
-  dictionary: flypydz
+  dictionary: openfly_reverse
   comment_format:
     - xform/ / /
 
