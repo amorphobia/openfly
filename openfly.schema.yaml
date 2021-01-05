@@ -43,8 +43,8 @@ engine:
   translators:
     - punct_translator
     - table_translator
-    - lua_translator@date_translator
-    - lua_translator@time_translator
+    - lua_translator@openfly_date_translator
+    - lua_translator@openfly_time_translator
     - reverse_lookup_translator
     - history_translator@history
   filters:
