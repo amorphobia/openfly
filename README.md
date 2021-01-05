@@ -11,7 +11,7 @@
 1. 将所需文件复制（或软链）到 Rime 的用户目录
 ```shell
 $ git clone https://github.com/amorphobia/openfly
-$ cp *.yaml *.lua <Rime 用户目录>
+$ cp *.yaml <Rime 用户目录>
 ```
 
 2. 根据需要新建用户词典 `openfly.user.dict.yaml` 和 `openfly.user.top.dict.yaml` 或者在 `openfly.dict.yaml` 里删除相应行
