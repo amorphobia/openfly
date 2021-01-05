@@ -37,4 +37,4 @@ $ cp *.yaml *.lua <Rime 用户目录>
 ## 已知问题
 
 1. 缺少部分内嵌编码 [#3](https://github.com/amorphobia/openfly/issues/3)
-3. 部分编码可更优化 [#6](https://github.com/amorphobia/openfly/issues/6)
+2. 部分编码可更优化 [#6](https://github.com/amorphobia/openfly/issues/6)
