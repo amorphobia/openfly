@@ -18,7 +18,7 @@ $ cp *.yaml *.lua <Rime 用户目录>
 
 3. 根据需要新建自定义设置 `openfly.custom.yaml`
 
-4. 将 `lua` 目录中的所有 `*.lua` 文件复制（或软链）到 Rime 的用户目录中的 `lua` 目录下，若无次目录需要新建，并在用户目录中的 `rime.lua` 文件后添加以下代码
+4. 将 `lua` 目录中的所有 `*.lua` 文件复制（或软链）到 Rime 的用户目录中的 `lua` 目录下，若无此目录需要新建，并在用户目录中的 `rime.lua` 文件后添加以下代码
 ```lua
 openfly_date_translator = require("openfly_date_translator")
 openfly_time_translator = require("openfly_time_translator")
