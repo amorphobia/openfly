@@ -43,5 +43,4 @@ openfly_hint_filter = require("openfly_hint_filter")
 
 ## 已知问题
 
-1. 缺少部分内嵌编码 [#3](https://github.com/amorphobia/openfly/issues/3)
-2. 部分编码可更优化 [#6](https://github.com/amorphobia/openfly/issues/6)
+1. 部分编码可更优化 [#6](https://github.com/amorphobia/openfly/issues/6)
