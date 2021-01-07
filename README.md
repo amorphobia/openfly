@@ -1,12 +1,13 @@
-# Openfly
+# 开源小鹤
 
-开放词库的小鹤音形 Rime 配置
+配方： ℞ **openfly**
+词库开源的[小鹤音形](https://flypy.com) [Rime](https://rime.im) 输入方案
 
-## 小鹤音形
+## 用法
 
-[官网](https://flypy.com/)
+参考[小鹤入门](http://xhrm.flypy.com)
 
-## 安装方法
+## 安装
 
 1. 将所需文件复制（或软链）到 Rime 的用户目录
 ```shell
@@ -35,7 +36,7 @@ openfly_hint_filter = require("openfly_hint_filter")
 - **表外字** openfly.off-table.dict.yaml
 - **符号编码** openfly.symbols.dict.yaml
 - **快符号** openfly.fast.symbols.dict.yaml
-- **直通车** 尚未实现，三个网址放在 openfly.web.dict.yaml 里
+- **直通车** 小部分实现，四个网址放在 openfly.web.dict.yaml 里
 - **随心所欲** openfly.whimsicality.dict.yaml
 - **隐藏全码** 未收录
 - **二重简码** openfly.secondary.short.code.dict.yaml

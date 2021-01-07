@@ -3,12 +3,12 @@
 
 schema:
   schema_id: openfly_reverse
-  name: '开放小鹤反查'
+  name: 开源小鹤反查
   version: "9.9j"
   author:
     - amorphobia <xu350n9@gmail.com>
   description: |
-    开放小鹤的反查词库
+    开源小鹤的反查词库
 
 switches:
   - name: ascii_mode

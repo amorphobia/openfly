@@ -1,0 +1,11 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 此用户词库的词语如遇重码则置底
+
+---
+name: openfly.user
+version: "9.9j"
+sort: by_weight
+use_preset_vocabulary: false
+...

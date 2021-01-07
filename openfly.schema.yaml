@@ -3,12 +3,12 @@
 
 schema:
   schema_id: openfly
-  name: 开放小鹤
+  name: 开源小鹤
   version: "9.9j"
   author:
     - 方案设计：何海峰 <flypy@qq.com>
   description:
-    小鹤音形
+    词库开源的小鹤音形 Rime 配方
   dependencies:
     - openfly_reverse
 
