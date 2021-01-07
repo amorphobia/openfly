@@ -10,24 +10,39 @@
 
 ## 安装
 
-1. 将所需文件复制（或软链）到 Rime 的用户目录
-```shell
-$ git clone https://github.com/amorphobia/openfly
-$ cp *.yaml <Rime 用户目录>
+### 最新版本
+[东风破](https://github.com/rime/plum) 安装口令：
+```bash
+$ bash rime-install amorphobia/openfly@main:openfly
 ```
 
-2. 根据需要新建用户词典 `openfly.user.dict.yaml` 和 `openfly.user.top.dict.yaml` 或者在 `openfly.dict.yaml` 里删除相应行
-
-3. 根据需要新建自定义设置 `openfly.custom.yaml`
-
-4. 将 `lua` 目录中的所有 `*.lua` 文件复制（或软链）到 Rime 的用户目录中的 `lua` 目录下，若无此目录需要新建，并在用户目录中的 `rime.lua` 文件后添加以下代码
+由于 plum 不能自动为 lua 脚本打补丁，因此还需手动在 `rime.lua` 文件中添加以下代码：
 ```lua
 openfly_date_translator = require("openfly_date_translator")
 openfly_time_translator = require("openfly_time_translator")
 openfly_hint_filter = require("openfly_hint_filter")
 ```
 
-5. 在 `defult.custom.yaml` 里启用此方案，然后重新部署
+注意：
+- 默认分支版本为 `main` 而非 `master`，当前 plum 不支持更新默认分支为 main 的仓库 [plum/issues/43](https://github.com/rime/plum/issues/43), 因此更新时务必添加 `@main`
+- 请添加 `:openfly`, 否则将不会复制 lua 脚本
+
+### 特定版本
+东风破 安装口令：
+```bash
+$ bash rime-install amorphobia/openfly@<tag>:openfly
+```
+
+注意：
+- [版本列表](https://github.com/amorphobia/openfly/releases)
+- v9.9j 版本不支持自动复制 lua 脚本，不能使用 `:openfly` 选项，需手动复制，并且在 `rime.lua` 中添加补丁代码
+
+### 手动安装
+1. 将所需文件复制（或软链）到 Rime 的用户目录
+
+2. 将 `lua` 目录中的所有 `*.lua` 文件复制（或软链）到 Rime 的用户目录中的 `lua` 目录下，若无此目录需要新建，并在用户目录中的 `rime.lua` 文件后添加补丁代码
+
+3. 在 `defult.custom.yaml` 里启用此方案，然后重新部署
 
 ## 词典分类
 
@@ -45,4 +60,18 @@ openfly_hint_filter = require("openfly_hint_filter")
 
 ## 已知问题
 
-1. 部分编码可更优化 [#6](https://github.com/amorphobia/openfly/issues/6)
+- 部分编码可更优化 [#6](https://github.com/amorphobia/openfly/issues/6)
+
+## 许可和授权条款
+
+### 小鹤音形官方词库和原始配置文件
+
+见 [小鹤音形输入法最终用户许可协议](flypy-eula.md)
+
+### 其他整理词库和配置文件
+
+[`BY-NC`](by-nc.md)
+
+### 程序代码部分
+
+[`MIT`](LICENSE)

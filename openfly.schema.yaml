@@ -7,6 +7,7 @@ schema:
   version: "9.9j"
   author:
     - 方案设计：何海峰 <flypy@qq.com>
+    - 修改：amorphobia <xu350n9@gmail.com>
   description:
     词库开源的小鹤音形 Rime 配方
   dependencies:
