@@ -1,6 +1,7 @@
 # 开源小鹤
 
 配方： ℞ **openfly**
+
 词库开源的[小鹤音形](https://flypy.com) [Rime](https://rime.im) 输入方案
 
 ## 用法
