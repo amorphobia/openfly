@@ -3,7 +3,7 @@
 recipe:
   Rx: openfly
   description: >-
-    开放词库的小鹤音形 Rime 配方
+    词库开源的小鹤音形 Rime 配方
 
 install_files: >-
   openfly*.yaml
