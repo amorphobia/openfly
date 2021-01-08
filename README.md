@@ -13,7 +13,7 @@
 ### 最新版本
 [东风破](https://github.com/rime/plum) 安装口令：
 ```bash
-$ bash rime-install amorphobia/openfly@main:openfly
+$ bash rime-install amorphobia/openfly@main
 ```
 
 由于 plum 不能自动为 lua 脚本打补丁，因此还需手动在 `rime.lua` 文件中添加以下代码：
@@ -25,17 +25,16 @@ openfly_hint_filter = require("openfly_hint_filter")
 
 注意：
 - 默认分支版本为 `main` 而非 `master`，当前 plum 不支持更新默认分支为 main 的仓库 [plum/issues/43](https://github.com/rime/plum/issues/43), 因此更新时务必添加 `@main`
-- 请添加 `:openfly`, 否则将不会复制 lua 脚本
 
 ### 特定版本
 东风破 安装口令：
 ```bash
-$ bash rime-install amorphobia/openfly@<tag>:openfly
+$ bash rime-install amorphobia/openfly@<tag>
 ```
 
 注意：
 - [版本列表](https://github.com/amorphobia/openfly/releases)
-- v9.9j 版本不支持自动复制 lua 脚本，不能使用 `:openfly` 选项，需手动复制，并且在 `rime.lua` 中添加补丁代码
+- v9.9j 版本不支持自动复制 lua 脚本，需手动复制，并且在 `rime.lua` 中添加补丁代码
 
 ### 手动安装
 1. 将所需文件复制（或软链）到 Rime 的用户目录
