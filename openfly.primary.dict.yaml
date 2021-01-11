@@ -10,6 +10,7 @@ version: "9.9j"
 sort: by_weight
 use_preset_vocabulary: false
 ...
+# a
 啊	a
 阿	aa
 阿爸	aaba
@@ -138,7 +139,6 @@ AA制	aavi
 爱戴	aidd
 隘	aie
 挨饿	aiee
-𬮿	aiej
 隘	aiem
 叆	aiey
 挨	aif
@@ -203,7 +203,6 @@ AA制	aavi
 爱听	aitk
 哀痛	aits
 埃	aitu
-堨	aitv
 矮	aiu
 毐	aiua
 碍	aiuc
@@ -560,6 +559,7 @@ AA制	aavi
 暗通款曲	atkq
 按图索骥	atsj
 安徒生	atug
+安土重迁	atvq
 哀痛欲绝	atyj
 凹凸有致	atyv
 按时	au
@@ -614,6 +614,7 @@ AA制	aavi
 腌臜泼才	azpc
 暗自庆幸	azqx
 爱咋咋地	azzd
+# b
 不	b
 把	ba
 鲅	baa
