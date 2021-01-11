@@ -6,7 +6,7 @@
 
 ---
 name: openfly.secondary.word
-version: "9.9j"
+version: "v9.9k"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -164,7 +164,6 @@ use_preset_vocabulary: false
 独具匠心	djjx
 都江堰	djy
 单元	djyr
-低开高走	dkgz
 点播	dmbo
 独门独户	dmdh
 独门独院	dmdy
@@ -216,6 +215,7 @@ use_preset_vocabulary: false
 浮标	fubn
 肥水不流外人田	fubt
 分身乏术	fufu
+妇女	funv
 付钱	fuqm
 粉饰太平	futp
 放射性	fux
@@ -291,6 +291,7 @@ use_preset_vocabulary: false
 各自为战	gzwv
 何必当初	hbdi
 毫不留情	hblq
+胡编乱造	hblz
 湖北省	hbug
 恨不相逢未嫁时	hbxu
 耗电	hcdm
@@ -593,6 +594,7 @@ use_preset_vocabulary: false
 连蒙带猜	lmdc
 两面三刀	lmsd
 老年人	lnr
+螺蛳	losi
 两全其美	lqqm
 留宿	lqsu
 流血	lqxt
@@ -695,6 +697,7 @@ use_preset_vocabulary: false
 契约	qiyt
 情况	qk
 轻敌	qkdi
+清淡	qkdj
 旗开得胜	qkdu
 轻浮	qkfu
 清除	qkiu
@@ -703,6 +706,7 @@ use_preset_vocabulary: false
 巧克力	qkl
 穷困潦倒	qkld
 轻灵	qklk
+蜻蜓	qktk
 情商	qkuh
 轻视	qkui
 情况下	qkx
@@ -782,6 +786,7 @@ use_preset_vocabulary: false
 松树	ssuu
 丧失殆尽	sudj
 似水流年	suln
+四书五经	suwj
 随着	sv
 三月份	syf
 铁案如山	taru
@@ -966,6 +971,7 @@ use_preset_vocabulary: false
 支出	viiu
 纸巾	vijb
 致敬	vijk
+指甲	vijx
 争长论短	vild
 智力	vili
 知名	vimk
@@ -1021,6 +1027,7 @@ use_preset_vocabulary: false
 支支吾吾	vvww
 这些	vx
 直系亲属	vxqu
+直性子	vxz
 主意	vy
 只要功夫深	vygu
 睁一只眼，闭一只眼	vyvy
@@ -1045,7 +1052,7 @@ use_preset_vocabulary: false
 为数不多	wubd
 无商不奸	wubj
 误导	wudc
-务工	wugs
+蜈蚣	wugs
 无故	wugu
 卫生间	wuj
 无理	wuli
@@ -1126,6 +1133,7 @@ use_preset_vocabulary: false
 吓了一跳	xlyt
 下面	xm
 显露	xmlu
+献身	xmuf
 现实	xmui
 下马威	xmw
 小蛮腰	xmy
@@ -1137,6 +1145,7 @@ use_preset_vocabulary: false
 懈怠	xpdd
 血盆大口	xpdk
 亵玩	xpwj
+蝎子	xpzi
 贤妻良母	xqlm
 小桥流水	xqlu
 心如刀绞	xrdj
@@ -1147,7 +1156,9 @@ use_preset_vocabulary: false
 小时	xu
 心神不宁	xubn
 心神恍惚	xuhh
+洗手间	xuj
 酗酒	xujq
+喜上眉梢	xumu
 学术性	xux
 修身养性	xuyx
 修正	xv
@@ -1362,6 +1373,7 @@ use_preset_vocabulary: false
 摇摇欲坠	yyyv
 一言一行	yyyx
 犹犹豫豫	yyyy
+邮编	yzbm
 优点	yzdm
 忧愁	yziz
 右键	yzjm
