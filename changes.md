@@ -1,0 +1,166 @@
+# v9.9k
+## 首选字词
+```diff
+# a
+-𬮿	aiej
+-堨	aitv
++安土重迁	atvq
+# b
+-哱	bakz
++奔涌	bfys
+-堋	bgt
+-堋	bgto
+-彭	bhup
+-睥	bio
+-睥	biou
+-纰	bis
+-纰	bisb
++逼仄	bize
++不绝如缕	bjrl
++病体	bkti
++辩难	bmnj
++镖客	bnke
++薄产	boij
+-榑	bomc
++薄田	botm
+-磻	bout
++补妆	buvl
++不知所谓	bvsw
+-勃	bwul
+# c
+-拆	caf
++擦	caf
+-拆	cafi
+-才不至于	cbvy
++操切	ccqp
+-玱	chw
+-玱	chwv
++雌蕊	cirv
++草木一春	cmyi
++搓弄	cons
++攒动	crds
++酂	crne
+-崒	cveu
+```
+## 次选字
+```diff
+-笕	jmv
+-吖	yak
+```
+
+## 次选词
+```diff
+-低开高走	dkgz
++妇女	funv
++胡编乱造	hblz
++螺蛳	losi
++清淡	qkdj
++蜻蜓	qktk
++四书五经	suwj
++指甲	vijx
++直性子	vxz
+-务工	wugs
++蜈蚣	wugs
++献身	xmuf
++蝎子	xpzi
++洗手间	xuj
++喜上眉梢	xumu
++邮编	yzbm
+```
+
+## 表外字
+```diff
++尛	moxx
+-㞎	pau
+-㞎	paub
++玊	suw
+```
+
+## 符号编码
+```diff
+-%	ob
++：	ob
+-‰	oq
++：“	oq
+```
+
+## 随心所欲
+```diff
++床前明月光，疑是地上霜。举头望明月，低头思故乡。	jysi
+```
+
+## 隐藏全码
+```diff
+-蚄	bhif
+-祕	bipb
+-惮	daxl
+-浟	didw
+-𬤊	diyr
+-𬊤	djhl
+-磹	dmuu
+-佚	dpru
+-䓛	fuci
+-䓛	guci
+-旱	hjog
+-濩	hudy
+-惙	ivxy
+-畴	iztc
++㴔	jidx
+-嶲	jrev
+-矞	jtsk
+-埆	jtty
+-𫖳	jyyr
+-铪	kejk
+-矼	ksug
+-竘	kzlk
+-崚	lkew
+-龙	lsud
+-鞔	mfgv
+-帑	nunj
+-澎	pgdp
+-沛	pwdl
+-觭	qidk
+-𬮿	qiej
+-啐	qiku
+-恓	qixx
+-矼	qlug
+-切	qpqd
+-汋	qtdu
+-傕	qtrf
+-𬙋	rhsy
+-洓	sedn
++埫	thtk
+-栝	tmmk
+-铫	tnjd
+-畤	uitc
++爽	uldx
+-琡	uuwy
+-痓	vibt
+-祇	vipu
+-𨙸	viue
+-汋	vodu
+-澍	vudc
+-忞	wfwx
+-碏	xiuo
+-郄	xixe
+-硍	xmug
+-暅	xroa
++㳚	xudu
+-吖	yaky
+-焆	yeho
+-楪	yemm
+-㴔	yidx
+-叕	yiyy
+-掞	yjfh
+-梴	yjmz
+-埏	yjtz
+-歅	yjxr
+-桯	ykmw
+-汩	yudo
+-㳚	yudu
+-隃	yued
+-琟	yuwf
+-蕰	yycm
+-仄	zeir
+-洓	zidn
+```
