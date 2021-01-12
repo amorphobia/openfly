@@ -6,7 +6,7 @@
 
 ---
 name: openfly.off-table
-version: "9.9j"
+version: "v9.9k"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -71,6 +71,7 @@ use_preset_vocabulary: false
 冇	mcu
 冇	mcuk
 擝	mgfm
+尛	moxx
 搣	mpfh
 槑	mwk
 槑	mwkm
@@ -88,8 +89,6 @@ use_preset_vocabulary: false
 惗	nmxx
 嬲	nnt
 嬲	nntl
-㞎	pau
-㞎	paub
 榀	pbm
 呯	pkk
 呯	pkkp
@@ -109,6 +108,7 @@ use_preset_vocabulary: false
 嗮	sdkx
 𪨊	ssu
 𪨊	ssur
+玊	suw
 祂	tapy
 劏	thxd
 薙	ticf

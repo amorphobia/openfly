@@ -6,12 +6,12 @@
 
 ---
 name: openfly.symbols
-version: "9.9j"
+version: "v9.9k"
 sort: by_weight
 use_preset_vocabulary: false
 ...
 ！	oa
-%	ob
+：	ob
 一	oba	100
 鱼	oba	99
 冖	obb	100
@@ -808,7 +808,7 @@ $	ofhb	99
 〕	om
 〔	on
 ～	op
-‰	oq
+：“	oq
 /doge	oqaj
 /am	oqam
 /aini	oqan

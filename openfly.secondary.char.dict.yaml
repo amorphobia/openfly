@@ -6,7 +6,7 @@
 
 ---
 name: openfly.secondary.char
-version: "9.9j"
+version: "v9.9k"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -81,7 +81,6 @@ use_preset_vocabulary: false
 监	jml
 槛	jmm
 僭	jmr
-笕	jmv
 戬	jmy
 醮	jny
 诘	jpy
@@ -191,7 +190,6 @@ use_preset_vocabulary: false
 呷	xxkj
 醺	xyy
 衙	yai
-吖	yak
 讶	yay
 龈	ybv
 漾	yhd
