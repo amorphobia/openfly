@@ -79,6 +79,13 @@
 -忳	dyxt
 # e
 +耳垢	ergz
+# f
++分体	ffti
+-祊	fhp
+-祊	fhpf
++妇女节	fnjp
+-妇女	funv
++父女	funv
 ```
 ## 次选字
 ```diff
