@@ -86,6 +86,31 @@
 +妇女节	fnjp
 -妇女	funv
 +父女	funv
+# g
++高走	gczz
++根系	gfxi
++暅	ggo
++暅	ggoa
++归功于	ggyu
+-𬕂	gjvr
+-高开低走	gkdz
+-高开高走	gkgz
+-潢	gldb
+-𬕂	gsvr
+-嶲	gvev
+-匮	gvkr
+-眭	gvot
+-郐	gvre
+-傀	gvrg
+-硊	gvuv
+-括	gxf
++挂	gxf
+-括	gxfk
+-呙	gxkn
+-硍	gyug
+-拘	gzf
+-拘	gzfk
+-觏	gzje
 ```
 ## 次选字
 ```diff
