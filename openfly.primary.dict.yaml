@@ -16972,7 +16972,6 @@ GDP	gdp
 插槽	iacc
 茶	iacm
 差错	iaco
-苴	iacq
 茬	iact
 汊	iad
 岔道	iadc
@@ -17030,7 +17029,6 @@ GDP	gdp
 查	iam
 楂	iama
 槎	iamg
-梌	iamh
 杈	iami
 查明	iamk
 檫	iamx
@@ -17210,7 +17208,6 @@ GDP	gdp
 抄录	iclu
 超卖	icm
 超买	icmd
-槱	icmh
 炒米	icmi
 炒面	icmm
 吵闹	icnc
@@ -17538,7 +17535,6 @@ GDP	gdp
 衬裙	ifqy
 伧	ifr
 趁热	ifre
-偁	ifrr
 沉入	ifru
 伧	ifrv
 沉思	ifsi
@@ -17626,7 +17622,6 @@ GDP	gdp
 成佛	igfo
 成果斐然	igfr
 城府	igfu
-抢	igfv
 撑杆	iggj
 成果	iggo
 城管	iggr
@@ -17650,6 +17645,7 @@ GDP	gdp
 城池	igii
 盛	igim
 乘船	igir
+成虫	igis
 蛏	igit
 惩处	igiu
 惩	igix
@@ -17798,6 +17794,7 @@ GDP	gdp
 鲿	ihas
 唱本	ihbf
 钗横鬓乱	ihbl
+长波	ihbo
 常备	ihbw
 苌	ihc
 场次	ihci
@@ -17811,7 +17808,6 @@ GDP	gdp
 长凳	ihdg
 场地	ihdi
 趁火打劫	ihdj
-淌	ihdk
 长短	ihdr
 长度	ihdu
 嫦娥	ihee
@@ -17985,6 +17981,7 @@ GDP	gdp
 赤膊	iibo
 吃瘪	iibp
 踌躇不前	iibq
+痓	iibt
 瘛	iibx
 茌	iic
 吃草	iicc
@@ -18001,7 +17998,6 @@ GDP	gdp
 褫夺	iido
 楚楚动人	iidr
 尺度	iidu
-奓	iidx
 迟钝	iidy
 耻	iie
 耻	iiev
@@ -18067,7 +18063,6 @@ GDP	gdp
 齿轮	iily
 驰	iim
 尺码	iima
-柢	iimd
 痴迷	iimi
 驰名	iimk
 初出茅庐	iiml
@@ -18084,7 +18079,6 @@ GDP	gdp
 插翅难逃	iint
 匙	iio
 匙	iiob
-眙	iiok
 眵	iiox
 胣	iioy
 斥	iip
@@ -18381,7 +18375,6 @@ GDP	gdp
 赤裸裸	illo
 闯	ilm
 出了名的	ilmd
-橦	ilml
 创面	ilmm
 处理品	ilpb
 触类旁通	ilpt
@@ -18402,10 +18395,10 @@ GDP	gdp
 创痛	ilts
 垂帘听政	iltv
 床头	iltz
-床上	ilu
+创伤	ilu
 窗纱	ilua
 创设	ilue
-创伤	iluh
+床上	iluh
 创始	ilui
 创收	iluz
 床罩	ilvc
@@ -18492,8 +18485,6 @@ GDP	gdp
 常年在外	inzw
 戳	io
 辍笔	iobi
-淖	iod
-淖	iodu
 绰号	iohc
 辍	ioi
 戳穿	ioir
@@ -18620,8 +18611,6 @@ IP地址	ipdv
 串门	irmf
 椽	irmu
 传媒	irmw
-䏝	iro
-䏝	irov
 川	irp
 川	irpl
 船票	irpn
@@ -18774,7 +18763,6 @@ IP地址	ipdv
 重塑	issu
 重孙	issy
 重提	isti
-埫	istk
 冲天	istm
 冲突	istu
 冲杀	isua
@@ -19046,6 +19034,7 @@ IP地址	ipdv
 出师未捷	iuwj
 畜	iuwt
 储物	iuwu
+琡	iuwy
 怵	iux
 初心	iuxb
 纯属虚构	iuxg
@@ -19156,7 +19145,6 @@ IP地址	ipdv
 成者王侯败者寇	ivwk
 吃着碗里，望着锅里	ivwl
 垂危	ivww
-惙	ivx
 吹响	ivxl
 垂涎	ivxm
 吹箫	ivxn
@@ -19322,10 +19310,6 @@ IP地址	ipdv
 崇洋媚外	iymw
 彻夜难眠	iynm
 出淤泥而不染	iynr
-朐	iyo
-朐	iyok
-肫	iyot
-䏝	iyov
 淳朴	iypu
 穿云破雾	iypw
 纯情	iyqk
@@ -19426,15 +19410,12 @@ IP地址	ipdv
 丑陋	izlz
 杻	izm
 筹码	izma
-梼	izmc
 愁闷	izmf
 稠密	izmi
 椆	izmk
 筹募	izmu
 臭美	izmw
 筹谋	izmz
-婤	izn
-婤	iznk
 瞅	izo
 瞅	izoh
 筹拍	izpd
@@ -19452,7 +19433,7 @@ IP地址	ipdv
 绸	izsk
 筹算	izsr
 畴	izt
-畤	iztc
+畴	iztc
 丑态	iztd
 抽屉	izti
 仇杀	izua
