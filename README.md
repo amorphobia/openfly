@@ -13,18 +13,16 @@
 ### 最新版本
 [东风破](https://github.com/rime/plum) 安装口令：
 ```bash
-$ bash rime-install amorphobia/openfly@main
+$ bash rime-install amorphobia/openfly
 ```
 
 由于 plum 不能自动为 lua 脚本打补丁，因此还需手动在 `rime.lua` 文件中添加以下代码：
+<span id="patch"></span>
 ```lua
 openfly_date_translator = require("openfly_date_translator")
 openfly_time_translator = require("openfly_time_translator")
 openfly_hint_filter = require("openfly_hint_filter")
 ```
-
-注意：
-- 默认分支版本为 `main` 而非 `master`，当前 plum 不支持更新默认分支为 main 的仓库 [plum/issues/43](https://github.com/rime/plum/issues/43), 因此更新时务必添加 `@main`
 
 ### 特定版本
 东风破 安装口令：
@@ -34,12 +32,13 @@ $ bash rime-install amorphobia/openfly@<tag>
 
 注意：
 - [版本列表](https://github.com/amorphobia/openfly/releases)
-- v9.9j 版本不支持自动复制 lua 脚本，需手动复制，并且在 `rime.lua` 中添加补丁代码
+- v9.9j 版本不支持自动复制 lua 脚本，需手动复制
+- 需要在 `rime.lua` 中添加[补丁代码](#patch)
 
 ### 手动安装
 1. 将所需文件复制（或软链）到 Rime 的用户目录
 
-2. 将 `lua` 目录中的所有 `*.lua` 文件复制（或软链）到 Rime 的用户目录中的 `lua` 目录下，若无此目录需要新建，并在用户目录中的 `rime.lua` 文件后添加补丁代码
+2. 将 `lua` 目录中的所有 `*.lua` 文件复制（或软链）到 Rime 的用户目录中的 `lua` 目录下，若无此目录需要新建，并在用户目录中的 `rime.lua` 文件后添加[补丁代码](#patch)
 
 3. 在 `defult.custom.yaml` 里启用此方案，然后重新部署
 
