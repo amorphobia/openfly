@@ -111,6 +111,27 @@
 -拘	gzf
 -拘	gzfk
 -觏	gzje
+# h
+-胡编乱造	hblz
++合不拢嘴	hblz
+-呙	hekn
+-哏	hfkg
+-桁	hhmi
+-珩	hhwi
+-旰	hjog
++旱	hjog
+-垸	hrte
+-浲	hsdf
+-唝	hskr
+-芴	hucw
+-隺	hudf
+-姱	hunk
+-廆	hvgg
+-睢	hvof
++硊	hvuv
++划清	hxqk
+-湣	hydo
+-婫	hynb
 ```
 ## 次选字
 ```diff
