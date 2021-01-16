@@ -419,6 +419,23 @@
 -𬙋	rhs
 +仁义君子	ryjz
 +肉脯	rzfu
+# s
+-㴔	sedx
++色光	segl
+-槭	sem
+-槭	semx
++漦	siw
+-四五	siwu
++漦	siwu
+-潵	sjdw
+-参	sjsp
++散射	sjue
+-些	sov
+-些	sove
+-四书五经	suw
+-缞	svsy
++碎嘴	svzv
++所为何来	swhl
 ```
 ## 次选字
 ```diff
