@@ -436,6 +436,21 @@
 -缞	svsy
 +碎嘴	svzv
 +所为何来	swhl
+# t
+-天干：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥 地支：甲、乙、丙、丁、戊、己、庚、辛、壬、癸	tgdv
++提纲挈领	tgql
+-棣	timn
+-媂	tinj
+-禔	tipr
++磹	tjuu
++贪睡	tjuv
+-啁	tnkk
+-㕮	tnkx
+-啴	tokl
++圫	totq
+-揣	trfe
++忒	twy
++忒	twyx
 ```
 ## 次选字
 ```diff
