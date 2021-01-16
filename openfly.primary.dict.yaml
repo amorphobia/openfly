@@ -30245,6 +30245,7 @@ IP地址	ipdv
 哪点	nad
 拿到	nadc
 那点	nadm
+拿掉	nadn
 那段	nadr
 哪儿	nae
 那儿	naer
@@ -30406,11 +30407,10 @@ IP地址	ipdv
 脑力	ncli
 闹铃	nclk
 瑙鲁	nclu
-桡	ncm
+闹	ncm
 脑门	ncmf
 闹	ncmj
 脑膜	ncmo
-桡	ncmw
 男才女貌	ncnm
 恼怒	ncnu
 脑	nco
@@ -30600,10 +30600,8 @@ IP地址	ipdv
 囊	nha
 囊	nhay
 哪壶不开提哪壶	nhbh
-瀼	nhd
 霓虹灯	nhdg
 那还得了	nhdl
-瀼	nhdy
 那会儿	nher
 攮	nhf
 攮	nhfy
@@ -30637,9 +30635,7 @@ IP地址	ipdv
 鲵	nia
 鲵	niae
 溺爱	niai
-疑	nib
 泥巴	niba
-疑	nibr
 薿	nic
 薿	nicr
 溺	nid
@@ -30681,6 +30677,7 @@ IP地址	ipdv
 匿名	nimk
 妮	nin
 妮	ninb
+泥淖	ninc
 能吃能喝	ninh
 呢喃	ninj
 泥泞	nink
@@ -31191,9 +31188,8 @@ IP地址	ipdv
 颞	nper
 陧	npet
 聂	npey
-摄	npf
+捏	npf
 捏	npft
-摄	npfy
 孽根	npgf
 啮合	nphe
 捏成	npig
@@ -31328,6 +31324,7 @@ IP地址	ipdv
 暖和	nrho
 暖壶	nrhu
 暖床	nril
+暖脚	nrjn
 拿人家的手软	nrjr
 暖流	nrlq
 暖炉	nrlu
@@ -31342,6 +31339,8 @@ IP地址	ipdv
 暖融融	nrrs
 暖色	nrse
 能人所不能	nrsn
+暖身	nruf
+暖手	nruz
 女人味	nrw
 暖胃	nrww
 耐人寻味	nrxw
@@ -31754,6 +31753,7 @@ IP地址	ipdv
 泥足深陷	nzux
 农作物	nzwu
 念兹在兹	nzzz
+# o
 哦	o
 藕断丝连	odsl
 偶尔	oe

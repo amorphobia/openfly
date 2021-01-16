@@ -326,6 +326,22 @@
 -𬇕	mjdw
 +没事没事	mumu
 # 官方安装版本中“没找着”的拼音依然没有修复，但在挂载版中已变成 mvv
+# n
++拿掉	nadn
+-桡	ncm
++闹	ncm
+-桡	ncmw
+-瀼	nhd
+-瀼	nhdy
+-疑	nib
+-疑	nibr
++泥淖	ninc
+-摄	npf
++捏	npf
+-摄	npfy
++暖脚	nrjn
++暖身	nruf
++暖手	nruz
 ```
 ## 次选字
 ```diff
