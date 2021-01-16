@@ -412,6 +412,13 @@
 -匼	qxk
 -匼	qxkk
 +群落	qylo
+# r
+-菍	rfcx
++人祸	rfho
++人精	rfjk
+-𬙋	rhs
++仁义君子	ryjz
++肉脯	rzfu
 ```
 ## 次选字
 ```diff
