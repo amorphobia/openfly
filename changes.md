@@ -312,6 +312,20 @@
 +勒紧	lwjb
 +累卵	lwlr
 +累年	lwnm
+# m
+-唛	makw
+-汶	mfdw
+-鞔	mfg
+-惛	mfxo
+-蟒	mgic
+-黾	mgk
++𫑡	mgk
+-黾	mgkd
++没齿不忘	mibw
++谋朝篡位	micw
+-𬇕	mjdw
++没事没事	mumu
+# 官方安装版本中“没找着”的拼音依然没有修复，但在挂载版中已变成 mvv
 ```
 ## 次选字
 ```diff
