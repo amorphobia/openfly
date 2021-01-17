@@ -720,3 +720,48 @@
 -仄	zeir
 -洓	zidn
 ```
+
+## 空码提示
+```diff
++崩塌`a	bgt
++比赛`d	bis
++仓位`w	chw
++倒卖`d	dcm
++代码`a	ddm
++待业`e	ddy
++跌入`u	dpr
++对子`i	dvz
++放屁`i	fhp
++购房`h	gzf
++垂涎`m	ivx
++进行`k	jbx
++戛然而止`v	jre
++卷毛`c	jrm
++掘土`u	jtt
++肯为`w	kfw
++扩大`a	kod
++揽客`e	ljk
++门规`v	mfg
++霓虹灯`g	nhd
++泥巴`a	nib
++判罚`a	pjf
++晴天`m	qkt
++强势`i	qlu
++缺德`e	qtd
++卡壳`e	qxk
++如花似玉`y	rhs
++色盲`h	sem
+-思维`w	siw
++所长`h	sov
+-天外有天`t	twy
+-生物`u	ugw
++榨取`u	vaq
++扎心`b	vax
+-找寻`y	vcx
++忠臣`f	vsi
+-文采`d	wfc
++窝火`o	woh
++笑纳`a	xnn
++喧闹`c	xrn
++子孙后代`d	zsh
+```

@@ -2,6 +2,7 @@
 # encoding: utf-8
 #
 # https://github.com/amorphobia/openfly/issues/2
+# 空码提示
 
 ---
 name: openfly.embedded.hint
@@ -252,6 +253,7 @@ AA制`i	aav
 帮个忙`h	bgm
 绷起`i	bgq
 不过如此`c	bgr
+崩塌`a	bgt
 半个钟`s	bgv
 不高兴`k	bgx
 半个月`t	bgy
@@ -266,6 +268,7 @@ AA制`i	aav
 绑在`d	bhz
 比方`h	bif
 比例`i	bil
+比赛`d	bis
 办案`n	bja
 半仓`h	bjc
 半场`h	bji
@@ -581,6 +584,7 @@ AA制`i	aav
 沧桑`h	chs
 苍天`m	cht
 藏书`u	chu
+仓位`w	chw
 苍蝇`k	chy
 藏在`d	chz
 刺耳`r	cie
@@ -788,14 +792,17 @@ AA制`i	aav
 带不走`z	dbz
 稻草`c	dcc
 导购`z	dcg
+倒卖`d	dcm
 悼念`m	dcn
 倒退`v	dct
 到位`w	dcw
 导演`j	dcy
 代词`i	ddc
+代码`a	ddm
 电灯泡`c	ddp
 对得起`i	ddq
 代谢`p	ddx
+待业`e	ddy
 第二遍`m	deb
 第二次`i	dec
 得到`c	ded
@@ -927,6 +934,7 @@ AA制`i	aav
 大屏幕`u	dpm
 爹娘`l	dpn
 跌去`u	dpq
+跌入`u	dpr
 跌至`i	dpv
 肚皮舞`u	dpw
 地平线`m	dpx
@@ -995,6 +1003,7 @@ AA制`i	aav
 等着瞧`n	dvq
 对人`f	dvr
 道之所存`c	dvs
+对子`i	dvz
 大为不同`t	dwb
 断无此理`l	dwc
 独往独来`l	dwd
@@ -1271,6 +1280,7 @@ Excel`e	exc
 风味`w	fgw
 方便`m	fhb
 放过`o	fhg
+放屁`i	fhp
 防火墙`l	fhq
 放心`b	fhx
 放在`d	fhz
@@ -1756,6 +1766,7 @@ Excel`e	exc
 滚珠`u	gyv
 归因于`u	gyy
 棍子`i	gyz
+购房`h	gzf
 够好`c	gzh
 构成`g	gzi
 够了`e	gzl
@@ -2286,6 +2297,7 @@ Excel`e	exc
 吹头`z	ivt
 吹哨`c	ivu
 垂直`i	ivv
+垂涎`m	ivx
 出主意`i	ivy
 吹奏`z	ivz
 成王败寇`k	iwb
@@ -2350,6 +2362,7 @@ Excel`e	exc
 金额`e	jbe
 加班费`w	jbf
 尽头`z	jbt
+进行`k	jbx
 局促不安`a	jcb
 急匆匆`s	jcc
 仅此而已`y	jce
@@ -2477,9 +2490,11 @@ Excel`e	exc
 纠正`g	jqv
 救灾`d	jqz
 见人矮三分`f	jra
+戛然而止`v	jre
 眷顾`u	jrg
 卷尺`i	jri
 眷恋`m	jrl
+卷毛`c	jrm
 酒肉朋友`y	jrp
 吉人天相`x	jrt
 假如说`o	jru
@@ -2506,6 +2521,7 @@ Excel`e	exc
 晶体管`r	jtg
 决裂`p	jtl
 九头鸟`n	jtn
+掘土`u	jtt
 寄生虫`s	jui
 几十年`m	jun
 沮丧`h	jus
@@ -2640,6 +2656,7 @@ Excel`e	exc
 狂风怒号`h	kfn
 恳谈`j	kft
 开发商`h	kfu
+肯为`w	kfw
 开放性`k	kfx
 口服液`e	kfy
 孔夫子`i	kfz
@@ -2736,6 +2753,7 @@ Excel`e	exc
 可能性`k	knx
 肯尼亚`a	kny
 阔别`p	kob
+扩大`a	kod
 括号`c	koh
 扩建`m	koj
 扩孔`s	kok
@@ -2968,6 +2986,7 @@ Excel`e	exc
 浪子`i	lhz
 栏杆`j	ljg
 龙井茶`a	lji
+揽客`e	ljk
 烂泥`i	ljn
 立交桥`n	ljq
 懒人`f	ljr
@@ -3165,6 +3184,7 @@ Excel`e	exc
 马耳他`a	met
 卖儿鬻女`n	mey
 门边`m	mfb
+门规`v	mfg
 门窗`l	mfi
 门口`z	mfk
 麻烦了`e	mfl
@@ -3504,6 +3524,7 @@ Excel`e	exc
 能用`s	ngy
 那个字`i	ngz
 哪壶不开提哪壶`h	nhb
+霓虹灯`g	nhd
 那会儿`r	nhe
 南回归线`x	nhg
 黏糊糊`u	nhh
@@ -3514,6 +3535,7 @@ Excel`e	exc
 囊肿`s	nhv
 怒火万丈`v	nhw
 那还用说`u	nhy
+泥巴`a	nib
 尼姑`u	nig
 你好`c	nih
 昵称`g	nii
@@ -3842,6 +3864,7 @@ Excel`e	exc
 平常心`b	pix
 痞子`i	piz
 盘存`y	pjc
+判罚`a	pjf
 判官`r	pjg
 盘活`o	pjh
 判决`t	pjj
@@ -4129,11 +4152,13 @@ Excel`e	exc
 情况`l	qkk
 清明`k	qkm
 青年`m	qkn
+晴天`m	qkt
 清早`c	qkz
 千里鹅毛`m	qle
 强烈`p	qll
 强求`q	qlq
 千里送鹅毛`m	qls
+强势`i	qlu
 牵挂`x	qmg
 乾坤`y	qmk
 前面`m	qmm
@@ -4188,6 +4213,7 @@ Excel`e	exc
 轻松写意`y	qsx
 穷游`z	qsy
 轻松自如`r	qsz
+缺德`e	qtd
 缺钙`d	qtg
 情同姐妹`m	qtj
 缺口`z	qtk
@@ -4240,6 +4266,7 @@ Excel`e	exc
 趣闻轶事`u	qwy
 其心必异`y	qxb
 情绪化`x	qxh
+卡壳`e	qxk
 取消了`e	qxl
 前些年`m	qxn
 恰恰`x	qxq
@@ -4370,6 +4397,7 @@ Excel`e	exc
 让路`u	rhl
 如何呢`e	rhn
 让其`i	rhq
+如花似玉`y	rhs
 任何事`i	rhu
 如获至宝`b	rhv
 让贤`m	rhx
@@ -4664,6 +4692,7 @@ Excel`e	exc
 色差`a	sei
 色块`k	sek
 色狼`h	sel
+色盲`h	sem
 色情`k	seq
 色弱`o	ser
 色素`u	ses
@@ -4718,7 +4747,6 @@ Excel`e	exc
 私奔`f	sib
 四次`i	sic
 四个`e	sig
-思维`w	siw
 私自`i	siz
 私家菜`d	sjc
 伺机而动`d	sje
@@ -4787,6 +4815,7 @@ Excel`e	exc
 索取`u	soq
 索然`j	sor
 所提`i	sot
+所长`h	sov
 所在`d	soz
 四平八稳`w	spb
 撒泼打滚`g	spd
@@ -5181,7 +5210,6 @@ Excel`e	exc
 台湾省`g	twu
 体无完肤`f	tww
 天文学`t	twx
-天外有天`t	twy
 贪心不足`z	txb
 天下苍生`u	txc
 剃须刀`c	txd
@@ -5298,7 +5326,6 @@ Excel`e	exc
 声卡`a	ugk
 生日`i	ugr
 摔跟头`z	ugt
-生物`u	ugw
 剩下`x	ugx
 绳子`i	ugz
 上岸`n	uha
@@ -5539,9 +5566,11 @@ Excel`e	exc
 榨菜`d	vac
 扎根`f	vag
 炸了`e	val
+榨取`u	vaq
 炸死`i	vas
 渣土`u	vat
 炸窝`o	vaw
+扎心`b	vax
 皱巴巴`a	vbb
 真不错`o	vbc
 找不到`c	vbd
@@ -5567,7 +5596,6 @@ Excel`e	exc
 朝气`i	vcq
 找人`f	vcr
 斩草为马`m	vcw
-找寻`y	vcx
 罩子`i	vcz
 摘菜`d	vdc
 正大光明`m	vdg
@@ -5721,6 +5749,7 @@ Excel`e	exc
 中俄`e	vse
 中方`h	vsf
 中国`o	vsg
+忠臣`f	vsi
 中肯`f	vsk
 中美`w	vsm
 中年`m	vsn
@@ -5865,7 +5894,6 @@ Excel`e	exc
 万恶之源`y	wev
 望而兴叹`t	wex
 莞尔一笑`x	wey
-文采`d	wfc
 闻风而动`d	wfe
 问过`o	wfg
 紊乱`r	wfl
@@ -5982,6 +6010,7 @@ wifi`i	wif
 无能为力`l	wnw
 玩弄于股掌之中`v	wny
 我国`o	wog
+窝火`o	woh
 我俩`x	wol
 我们`f	wom
 窝囊`h	won
@@ -6250,6 +6279,7 @@ wifi`i	wif
 线条`n	xmt
 销案`n	xna
 消费`w	xnf
+笑纳`a	xnn
 猇`j	xnq
 笑容`s	xnr
 小偷`z	xnt
@@ -6268,6 +6298,7 @@ wifi`i	wif
 悬案`n	xra
 选购`z	xrg
 旋律`v	xrl
+喧闹`c	xrn
 选题`i	xrt
 旋转`r	xrv
 选择`e	xrz
@@ -6809,6 +6840,7 @@ wifi`i	wif
 总得`w	zsd
 总额`e	zse
 总分`f	zsf
+子孙后代`d	zsh
 总称`g	zsi
 总括`o	zsk
 总理`i	zsl
