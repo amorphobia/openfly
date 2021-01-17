@@ -584,6 +584,19 @@
 -圫	yutq
 -菀	yycv
 +𫖳	yyyr
+# z
++咂摸	zamo
++仄	zeir
++怎办	zfbj
+-怎办	zgbj
++曾辉	zghv
+-孖	zizz
++左近	zojb
++坐蜡	zola
+-熜	zsh
+-熜	zshx
++最笨	zvbf
++最乖	zvgk
 ```
 ## 次选字
 ```diff
