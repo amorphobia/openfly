@@ -6,7 +6,7 @@
 
 ---
 name: openfly.primary
-version: "9.9j"
+version: "v9.9k"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -44740,8 +44740,6 @@ txt文件	txtj
 乍	vapa
 炸平	vapk
 诈骗	vapm
-猹	vaq
-猹	vaqa
 榨取	vaqu
 炸死	vasi
 渣土	vatu
@@ -44758,10 +44756,8 @@ txt文件	txtj
 扎帐	vavh
 榨汁	vavi
 炸窝	vawo
-怍	vax
 扎心	vaxb
 诈降	vaxl
-怍	vaxv
 诈	vay
 鲝	vaya
 炸药	vayc
@@ -44944,12 +44940,13 @@ txt文件	txtj
 招赘	vcvv
 找准	vcvy
 斩草为马	vcwm
+朝霞	vcx
 朝夕	vcxi
 照相	vcxl
 招贤	vcxm
 找些	vcxp
 昭雪	vcxt
-朝霞	vcxx
+找下	vcxx
 找寻	vcxy
 诏	vcy
 爪牙	vcya
@@ -44988,7 +44985,6 @@ txt文件	txtj
 窄幅	vdfu
 正当防卫	vdfw
 抓大放小	vdfx
-擿	vdfz
 正大光明	vdgm
 直捣黄龙	vdhl
 这段话	vdhx
@@ -45132,7 +45128,6 @@ txt文件	txtj
 褶	vepb
 这批	vepi
 这篇	vepm
-褚	vepo
 这期	veqi
 哲人	verf
 折让	verh
@@ -45467,7 +45462,6 @@ txt文件	txtj
 争宠	vgis
 整除	vgiu
 征	vgiv
-徵	vgiw
 铮	vgj
 追根究底	vgjd
 征集	vgji
@@ -45528,7 +45522,6 @@ txt文件	txtj
 中国人民大学	vgrx
 蒸肉	vgrz
 正色	vgse
-𬘬	vgso
 整肃	vgsu
 追根溯源	vgsy
 正途	vgt
@@ -45579,7 +45572,6 @@ txt文件	txtj
 政委	vgww
 中国文学	vgwx
 怔	vgx
-憕	vgxa
 征信	vgxb
 朝过夕改	vgxg
 整形	vgxk
@@ -45869,7 +45861,7 @@ txt文件	txtj
 锧	vijr
 直觉	vijt
 终成眷属	viju
-指甲	vijx
+支架	vijx
 知耻近乎勇	vijy
 吱	vik
 只	vikb
@@ -45884,7 +45876,6 @@ txt文件	txtj
 止	vil
 止	vila
 舟车劳顿	vild
-郦	vile
 制冷	vilg
 治理	vili
 指令	vilk
@@ -46086,8 +46077,6 @@ txt文件	txtj
 战斗	vjdz
 崭	vje
 崭	vjej
-嶦	vjek
-嵁	vjev
 搌	vjf
 战法	vjfa
 旃	vjfd
@@ -46137,6 +46126,7 @@ txt文件	txtj
 占领	vjlk
 中坚力量	vjll
 粘连	vjlm
+蘸料	vjln
 绽裂	vjlp
 战乱	vjlr
 战略	vjlt
@@ -46190,6 +46180,7 @@ txt文件	txtj
 只见树木	vjum
 展	vjun
 战术	vjuu
+蘸水	vjuv
 斩首	vjuz
 知己知彼	vjvb
 站着	vjve
@@ -46269,7 +46260,6 @@ txt文件	txtj
 装懂	vlds
 竹篮打水	vldu
 中流砥柱	vldv
-漴	vldx
 装	vldy
 撞	vlf
 种类繁多	vlfd
@@ -46478,7 +46468,7 @@ txt文件	txtj
 浊	vodi
 涿	vodn
 浞	vodr
-淖	vodu
+汋	vodu
 捉对	vodv
 捉	vof
 擢	voff
@@ -46486,7 +46476,6 @@ txt文件	txtj
 𬸦	vofn
 捉	vofr
 灼	voh
-燋	vohh
 焯	vohu
 捉虫	vois
 镯	voj
@@ -46505,12 +46494,11 @@ txt文件	txtj
 着落	volo
 拙劣	volp
 着陆	volu
-棹	vom
+椓	vom
 棁	vome
 桌面	vomm
 椓	vomn
 琢磨	vomo
-棹	vomu
 捉拿	vona
 捉弄	vons
 晫	voo
@@ -46817,12 +46805,10 @@ txt文件	txtj
 中华	vshx
 忠魂	vshy
 忠厚	vshz
-蚣	vsi
 忠臣	vsif
 忠诚	vsig
 中场	vsih
 重创	vsil
-蚣	vsis
 仲春	vsiy
 众筹	vsiz
 钟	vsj
@@ -47493,7 +47479,7 @@ txt文件	txtj
 众星云集	vxyj
 只限于	vxyu
 只羡鸳鸯不羡仙	vxyx
-直性子	vxz
+这下子	vxz
 爪子	vxzi
 抓贼	vxzw
 这样	vy
@@ -47517,7 +47503,6 @@ txt文件	txtj
 中原地区	vydq
 中央电视台	vydt
 这样都行	vydx
-淳	vydz
 扎伊尔	vyer
 障眼法	vyfa
 找一个	vyge
@@ -47568,7 +47553,6 @@ txt文件	txtj
 𬘯	vysz
 这一套	vytc
 这一天	vytm
-圫	vytq
 重于泰山	vytu
 准头	vytz
 主要是	vyu
@@ -47599,7 +47583,6 @@ txt文件	txtj
 准星	vyxk
 知易行难	vyxn
 这样下去	vyxq
-忳	vyxt
 准许	vyxu
 睁眼瞎	vyxx
 谆	vyy
@@ -47660,7 +47643,6 @@ txt文件	txtj
 咒骂	vzma
 知子莫若父	vzmf
 周密	vzmi
-椆	vzmk
 骤	vzmn
 周末	vzmo
 皱眉	vzmw
@@ -47726,6 +47708,7 @@ txt文件	txtj
 周遭	vzzc
 骤增	vzzg
 肘子	vzzi
+# w
 我	w
 挖	wa
 瓦	waa
@@ -47749,7 +47732,6 @@ txt文件	txtj
 挖开	wakd
 挖坑	wakg
 挖矿	wakl
-呙	wakn
 挖空	waks
 哇	wakt
 挖苦	waku
@@ -47759,7 +47741,6 @@ txt文件	txtj
 挖煤	wamw
 娃	wan
 我爱你	wani
-婠	wank
 娲	wann
 娃	want
 腽	wao
@@ -47874,7 +47855,6 @@ txt文件	txtj
 外科	wdke
 外快	wdkk
 外框	wdkl
-呙	wdkn
 完蛋了	wdl
 外来	wdld
 歪了	wdle
@@ -47976,8 +47956,10 @@ txt文件	txtj
 吻别	wfbp
 为富不仁	wfbr
 稳步	wfbu
+芠	wfc
 文采	wfcd
 文辞	wfci
+蕰	wfcm
 文萃	wfcv
 芠	wfcw
 温存	wfcy
@@ -48073,7 +48055,6 @@ txt文件	txtj
 闻风丧胆	wfsd
 微服私访	wfsf
 文思	wfsi
-缊	wfsm
 纹	wfsw
 文体	wft
 问题	wfti
@@ -48102,7 +48083,6 @@ txt文件	txtj
 问问	wfwf
 无法挽回	wfwh
 温婉	wfwj
-韫	wfwm
 无法无天	wfwt
 文物	wfwu
 玟	wfww
@@ -48419,7 +48399,6 @@ wifi	wifi
 晚点	wjdm
 万端	wjdr
 弯度	wjdu
-涴	wjdv
 𬇕	wjdw
 万吨	wjdy
 豌豆	wjdz
@@ -48464,7 +48443,6 @@ wifi	wifi
 完结	wjjp
 挽救	wjjq
 玩具	wjju
-鿏	wjjw
 玩家	wjjx
 晚课	wjke
 无家可归	wjkg
@@ -48519,7 +48497,6 @@ wifi	wifi
 宛若	wjro
 宛如	wjru
 纨	wjs
-𬘫	wjse
 危机四伏	wjsf
 绾	wjsk
 五局三胜	wjsu
@@ -48544,7 +48521,6 @@ wifi	wifi
 玩耍	wjux
 未尽事宜	wjuy
 玩转	wjv
-毌	wjva
 无价之宝	wjvb
 挽着	wjve
 完整	wjvg
@@ -48770,8 +48746,6 @@ wifi	wifi
 挝	wofz
 我国	wogo
 卧轨	wogv
-馧	woh
-馧	wohm
 窝火	woho
 卧	woi
 卧	woib
@@ -48783,7 +48757,6 @@ wifi	wifi
 幄	wojt
 蜗居	woju
 喔	wok
-呙	wokn
 喔	wokt
 倭寇	wokz
 窝里	woli
@@ -49481,7 +49454,6 @@ Word	word
 为万世开太平	wwup
 文武双全	wwuq
 尾数	wwuu
-硊	wwuv
 慰	wwux
 望文生义	wwuy
 为首	wwuz
@@ -49700,6 +49672,7 @@ Word	word
 文字游戏	wzyx
 妄自尊大	wzzd
 畏罪自杀	wzzu
+# x
 小	x
 西安	xa
 西安交大	xajd
@@ -50439,7 +50412,6 @@ Word	word
 细想	xixl
 细小	xixn
 惜	xixo
-忾	xixq
 吸血	xixt
 唏嘘	xixu
 西夏	xixx
@@ -50874,7 +50846,6 @@ Word	word
 相容	xlrs
 祥瑞	xlrv
 熙来攘往	xlrw
-儴	xlry
 相思	xls
 相思	xlsd
 相似	xlsi
@@ -51010,7 +50981,6 @@ Word	word
 先锋	xmfg
 现房	xmfh
 闲饭	xmfj
-掺	xmfp
 掀	xmfr
 血脉偾张	xmfv
 弦	xmg
@@ -51061,6 +51031,7 @@ Word	word
 现况	xmkl
 现款	xmkr
 贤	xml
+先来	xmld
 闲了	xmle
 先例	xmli
 县令	xmlk
@@ -51089,7 +51060,6 @@ Word	word
 嫌	xmnn
 仙女	xmnv
 显	xmo
-盷	xmod
 𪾢	xmoe
 㬎	xmoh
 腺	xmou
@@ -51124,7 +51094,6 @@ Word	word
 线索	xmso
 纤	xmsq
 限速	xmsu
-𫄧	xmsz
 仙桃	xmtc
 纤体	xmti
 闲谈	xmtj
@@ -51253,7 +51222,6 @@ Word	word
 小孩	xnhd
 小鹤	xnhe
 小巷	xnhh
-熇	xnhk
 小伙	xnho
 销户	xnhu
 销毁	xnhv
@@ -51317,16 +51285,13 @@ Word	word
 枵	xnmv
 小妹	xnmw
 校	xnmx
-姣	xnn
 笑纳	xnna
 效能	xnng
 小年	xnnm
 小鸟	xnnn
 小妞	xnnq
 校内	xnnw
-姣	xnnx
 晓	xno
-睄	xnoo
 晓	xnow
 枭	xnp
 小品	xnpb
@@ -51440,7 +51405,6 @@ Word	word
 协定	xpdk
 鞋垫	xpdm
 卸掉	xpdn
-觟	xpdt
 亵渎	xpdu
 泻	xpdy
 械斗	xpdz
@@ -51628,7 +51592,7 @@ Word	word
 羞红	xqhs
 修护	xqhu
 绣花	xqhx
-小汽车	xqie
+修车	xqie
 修长	xqih
 羞耻	xqii
 䗛	xqio
@@ -51815,11 +51779,9 @@ Word	word
 炫目	xrmu
 选美	xrmw
 𫠊	xrmy
-嬛	xrn
 喧闹	xrnc
 悬念	xrnm
 旋钮	xrnq
-嬛	xrny
 眩	xro
 暄	xroa
 暶	xror
@@ -51923,6 +51885,7 @@ Word	word
 凶悍	xshj
 胸怀	xshk
 险死还生	xshu
+胸花	xshx
 雄浑	xshy
 雄厚	xshz
 胸襟	xsjb
@@ -51955,6 +51918,7 @@ Word	word
 吓死人	xsrf
 心素如简	xsrj
 心丧若死	xsrs
+雄蕊	xsrv
 熊	xss
 兄嫂	xssc
 熊	xssh
@@ -52207,7 +52171,7 @@ Word	word
 行善积德	xujd
 续集	xuji
 学术交流	xujl
-洗手间	xujm
+形神俱灭	xujm
 旭	xujo
 续借	xujp
 许久	xujq
@@ -52245,6 +52209,7 @@ Word	word
 煦	xuo
 煦	xuoh
 昫	xuok
+勖	xuol
 盱	xuoy
 须	xup
 续聘	xupb
@@ -52271,7 +52236,6 @@ Word	word
 续	xus
 续	xusd
 𦈡	xuse
-矞	xusk
 绪	xuso
 刑事诉讼	xuss
 学生宿舍	xusu
@@ -52738,7 +52702,6 @@ Word	word
 降妖除魔	xyim
 徇	xyio
 相映成趣	xyiq
-蟫	xyiu
 胸有成竹	xyiv
 相沿成习	xyix
 夕阳产业	xyiy
@@ -52899,6 +52862,7 @@ Word	word
 雄姿英发	xzyf
 仙姿玉貌	xzym
 西藏自治区	xzzq
+# y
 一	y
 亚	ya
 牙	yaa
@@ -52941,6 +52905,7 @@ Word	word
 压	yai
 压	yaid
 押车	yaie
+牙碜	yaif
 牙齿	yaii
 牙床	yail
 蚜虫	yais
@@ -52972,7 +52937,6 @@ Word	word
 阴暗面	yamm
 桠	yamy
 娅	yan
-姶	yank
 衙内	yanw
 娅	yany
 睚	yao
@@ -53008,7 +52972,6 @@ Word	word
 鸭舌	yaue
 因爱生恨	yauh
 雅士	yaui
-碣	yauv
 牙刷	yaux
 砑	yauy
 压榨	yava
@@ -53021,7 +52984,6 @@ Word	word
 琊	yawe
 押往	yawh
 压弯	yawj
-𤩽	yawq
 玡	yawy
 雅兴	yaxk
 牙线	yaxm
@@ -53215,7 +53177,6 @@ Word	word
 衣不如新	ybrx
 也不容易	ybry
 阴柔	ybrz
-𬙂	ybsb
 𬘡	ybsd
 银色	ybse
 阴森	ybsf
@@ -53355,7 +53316,6 @@ Word	word
 滧	ycdw
 以词定字	ycdz
 崾	yce
-隃	yced
 一蹴而就	ycej
 由此而来	ycel
 崾	ycen
@@ -53709,7 +53669,6 @@ Word	word
 也快	yekk
 夜空	yeks
 叶	yeku
-喝	yekv
 业	yel
 业	yela
 也来	yeld
@@ -53757,9 +53716,7 @@ Word	word
 液体	yeti
 也挺	yetk
 野兔	yetu
-堨	yetv
-射	yeu
-射	yeuc
+馌	yeu
 有二说二	yeue
 野生	yeug
 也是	yeui
@@ -53779,7 +53736,6 @@ Word	word
 夜晚	yewj
 夜	yewn
 腋窝	yewo
-𤩽	yewq
 业务	yewu
 野味	yeww
 言而无信	yewx
@@ -54101,7 +54057,6 @@ Word	word
 旸	yhop
 样品	yhpb
 洋炮	yhpc
-卬	yhpe
 羊皮	yhpi
 阳平	yhpk
 样片	yhpm
@@ -54438,7 +54393,6 @@ Word	word
 壹	yiu
 一霎	yiua
 一传十十传百	yiub
-射	yiuc
 一身	yiuf
 医生	yiug
 以上	yiuh
@@ -55055,6 +55009,7 @@ Word	word
 一两个钟	ylgv
 与狼共舞	ylgw
 一两个月	ylgy
+一两个字	ylgz
 娱乐活动	ylhd
 远来和尚好看经	ylhj
 一路货	ylho
@@ -55338,6 +55293,7 @@ Word	word
 邀请函	yqhj
 逸趣横生	yqhu
 怨气冲天	yqit
+一骑绝尘	yqji
 元器件	yqjm
 一切皆有可能	yqjn
 一切尽在不言中	yqjv
@@ -55404,13 +55360,11 @@ Word	word
 渊博	yrbo
 一日不见如隔三秋	yrbq
 遇人不淑	yrbu
-宛	yrbv
 仰人鼻息	yrbx
 用人不疑	yrby
 苑	yrc
 芫	yrce
 苑	yrcv
-薳	yrcz
 源	yrd
 远大	yrda
 远道	yrdc
@@ -55673,6 +55627,7 @@ Word	word
 拥	ysf
 用法	ysfa
 因私废公	ysfg
+用饭	ysfj
 云散风流	ysfl
 拥	ysfy
 庸	ysg
@@ -55917,7 +55872,6 @@ Word	word
 一潭死水	ytsu
 越	ytt
 月台	yttd
-趯	yttf
 迎头痛击	yttj
 一条条	yttn
 乐团	yttr
@@ -56004,6 +55958,7 @@ Word	word
 一手策划	yuch
 鱼刺	yuci
 蓣	yucr
+菀	yucv
 渔村	yucy
 鱼	yud
 渔	yuda
@@ -56205,7 +56160,6 @@ Word	word
 预提	yuti
 雨天	yutm
 堉	yuto
-圫	yutq
 一视同仁	yutr
 一手托天	yutt
 玉兔	yutu
@@ -56618,7 +56572,6 @@ Word	word
 有一次	yyci
 蕴	yycm
 芸	yycs
-菀	yycv
 殒	yyd
 以一敌百	yydb
 晕倒	yydc
@@ -56832,6 +56785,7 @@ Word	word
 运营	yyyk
 愈演愈烈	yyyl
 有勇有谋	yyym
+𫖳	yyyr
 运用	yyys
 燕语莺啼	yyyt
 孕育	yyyu
@@ -57117,6 +57071,7 @@ Word	word
 游资	yzzi
 有罪	yzzv
 游走	yzzz
+# z
 在	z
 咋	za
 咋办	zabj
@@ -57152,6 +57107,7 @@ Word	word
 杂乱	zalr
 杂类	zalw
 杂毛	zamc
+咂摸	zamo
 杂念	zanm
 臜	zao
 臜	zaor
@@ -57482,6 +57438,7 @@ Word	word
 责怪	zegk
 仄	zei
 责成	zeig
+仄	zeir
 帻	zej
 择机	zeji
 帻	zejr
@@ -57516,6 +57473,7 @@ Word	word
 啧啧	zeze
 迮	zezv
 怎	zf
+怎办	zfbj
 怎敢	zfgj
 怎好	zfhc
 怎会	zfhv
@@ -57541,7 +57499,6 @@ Word	word
 曾	zgb
 增白	zgbd
 鄫	zgbe
-怎办	zgbj
 增兵	zgbk
 曾	zgbo
 怎敢不低头	zgbt
@@ -57561,6 +57518,7 @@ Word	word
 增高	zggc
 增光	zggl
 憎恨	zghf
+曾辉	zghv
 走过场	zgih
 增持	zgii
 增产	zgij
@@ -57919,7 +57877,6 @@ Word	word
 自足	zizu
 孜	zizw
 自尊	zizy
-孖	zizz
 自己	zj
 暂按	zjan
 暂别	zjbp
@@ -58159,6 +58116,7 @@ Word	word
 坐船	zoir
 作出	zoiu
 作假	zoj
+左近	zojb
 座机	zoji
 左键	zojm
 左脚	zojn
@@ -58169,6 +58127,7 @@ Word	word
 唑	zokt
 嘬	zoky
 做了	zol
+坐蜡	zola
 坐牢	zolc
 作乐	zole
 佐料	zoln
@@ -58340,14 +58299,12 @@ Word	word
 总管	zsgr
 总共	zsgs
 总归	zsgv
-熜	zsh
 子孙后代	zshd
 综合	zshe
 纵横	zshg
 总行	zshh
 纵火	zsho
 总会	zshv
-熜	zshx
 总称	zsig
 总厂	zsih
 踪迹	zsj
@@ -58594,6 +58551,7 @@ Word	word
 最爱	zvai
 罪案	zvan
 嘴巴	zvba
+最笨	zvbf
 最棒	zvbh
 锱铢必较	zvbj
 阻止不了	zvbl
@@ -58615,6 +58573,7 @@ Word	word
 在这方面	zvfm
 载舟覆舟	zvfv
 最高	zvgc
+最乖	zvgk
 罪过	zvgo
 最贵	zvgv
 最好	zvhc
