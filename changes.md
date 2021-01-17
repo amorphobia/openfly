@@ -536,6 +536,29 @@
 -馧	wohm
 -呙	wokn
 -硊	wwuv
+# x
+-忾	xixq
+-儴	xlry
+-掺	xmfp
++先来	xmld
+-盷	xmod
+-𫄧	xmsz
+-熇	xnhk
+-姣	xnn
+-姣	xnnx
+-睄	xnoo
+-觟	xpdt
+-小汽车	xqie
++修车	xqie
+-嬛	xrn
+-嬛	xrny
++胸花	xshx
++雄蕊	xsrv
+-洗手间	xujm
++形神俱灭	xujm
++勖	xuol
+-矞	xusk
+-蟫	xyiu
 ```
 ## 次选字
 ```diff
