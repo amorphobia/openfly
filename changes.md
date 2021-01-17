@@ -520,6 +520,22 @@
 -圫	vytq
 -忳	vyxt
 -椆	vzmk
+# w
+-呙	wakn
+-婠	wank
+-呙	wdkn
++芠	wfc
++蕰	wfcm
+-缊	wfsm
+-韫	wfwm
+-涴	wjdv
+-鿏	wjjw
+-𬘫	wjse
+-毌	wjva
+-馧	woh
+-馧	wohm
+-呙	wokn
+-硊	wwuv
 ```
 ## 次选字
 ```diff
