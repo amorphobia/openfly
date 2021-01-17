@@ -6,13 +6,12 @@
 
 ---
 name: openfly.uncommon
-version: "9.9j"
+version: "v9.9k"
 sort: by_weight
 use_preset_vocabulary: false
 ...
 嶅	aof/
 鲌	baa/
-蚄	bhi/
 皕	bib/
 芘	bic/
 苾	bic/
@@ -20,7 +19,6 @@ use_preset_vocabulary: false
 沘	bid/
 馝	bih/
 咇	bik/
-祕	bip/
 襞	biu/
 舭	biv/
 跸	biz/
@@ -39,6 +37,7 @@ use_preset_vocabulary: false
 邶	bwl/
 棓	bwm/
 褙	bwp/
+鹎	bwp/
 孛	bwu/
 琲	bww/
 粢	cid/
@@ -47,16 +46,12 @@ use_preset_vocabulary: false
 𨱏	daj/
 鿎	dau/
 筜	dhv/
-浟	did/
 杕	dim/
 禘	dip/
 玓	diw/
 羝	diy/
-𬤊	diy/
 澹	djd/
-𬊤	djh/
 箪	djv/
-磹	dmu/
 汈	dnd/
 饳	dou/
 𬭊	duj/
@@ -72,7 +67,6 @@ use_preset_vocabulary: false
 氾	fjd/
 𫔍	fjj/
 𬸪	fjp/
-䓛	fuc/
 㕮	fuk/
 祓	fup/
 垺	fut/
@@ -81,8 +75,7 @@ use_preset_vocabulary: false
 馃	gou/
 筦	grv/
 䢼	gsc/
-蓇	guc/	30
-䓛	guc/	20
+蓇	guc/
 觚	gud/
 蛄	gui/
 牿	gun/
@@ -108,7 +101,6 @@ use_preset_vocabulary: false
 镮	hrj/
 翃	hsu/
 冱	hud/
-濩	hud/
 烀	huh/
 觳	huu/
 縠	huu/
@@ -131,7 +123,6 @@ use_preset_vocabulary: false
 襜	ijp/
 摏	isf/
 艟	isv/
-翀	isx/
 斶	iuj/
 樗	ium/
 楮	ium/
@@ -140,13 +131,14 @@ use_preset_vocabulary: false
 赆	jbk/
 瑨	jbw/
 琎	jbw/
-蒺	jic/
-芰	jic/
+蒺	jic/	100
+芰	jic/	90
 殛	jid/
 剞	jid/
 瀱	jid/
 觭	jid/
 鹡	jid/
+㴔	jid/
 𬶨	jig/
 穄	jih/
 𫓹	jij/
@@ -160,6 +152,7 @@ use_preset_vocabulary: false
 璥	jkw/
 謇	jmb/
 楗	jmm/
+笕	jmv/
 篯	jmv/
 𬣡	jmy/
 敫	jnb/
@@ -180,14 +173,13 @@ use_preset_vocabulary: false
 㵐	jtd/
 𫔎	jtj/
 𫘝	jtm/
-矞	jts/
 蒟	juc/
 澽	jud/
 枸	jum/
 椐	jum/
+瘕	jxb/
 泇	jxd/
 𬂩	jxm/
-𫖳	jyy/
 闿	kdm/
 匼	kek/
 𫠆	kvu/
@@ -211,7 +203,6 @@ use_preset_vocabulary: false
 悝	lix/
 漤	ljd/
 澪	lkd/
-崚	lke/
 倞	llr/
 蠃	low/
 碌	lqu/
@@ -232,7 +223,6 @@ use_preset_vocabulary: false
 渼	mwd/
 郿	mwv/
 糵	npc/
-帑	nun/
 舥	pav/
 簰	pdv/
 嚭	piu/
@@ -241,14 +231,11 @@ use_preset_vocabulary: false
 帡	pkj/
 蒱	puc/
 吣	qbk/
-觭	qid/
 洓	qid/
 汔	qid/
 欹	qid/
-𬮿	qie/
 綮	qih/
 𬨂	qii/
-啐	qik/
 桤	qim/
 槭	qim/
 祇	qip/
@@ -256,7 +243,6 @@ use_preset_vocabulary: false
 埼	qit/
 庼	qkg/
 綮	qkh/
-𬒈	qkx/
 褰	qmb/
 汧	qmd/
 鹐	qmd/
@@ -265,13 +251,10 @@ use_preset_vocabulary: false
 慊	qpx/
 蝤	qqi/
 𨱇	qqj/
-傕	qtr/
 碏	qtu/
 焌	quh/
 讱	rfy/
 颥	ruy/
-洓	sed/
-𬙋	shs/
 凘	sid/
 飔	sij/
 凇	ssd/
@@ -285,8 +268,6 @@ use_preset_vocabulary: false
 遆	tiz/
 烶	tkh/
 䗴	tki/
-栝	tmm/
-铫	tnj/
 哃	tsk/
 煺	tvh/
 忳	tyx/
@@ -300,6 +281,7 @@ use_preset_vocabulary: false
 眚	ugu/
 汤	uhd/
 埫	uht/
+埫	tht/
 䴓	uia/
 浉	uid/
 湜	uid/
@@ -307,7 +289,6 @@ use_preset_vocabulary: false
 鼫	uij/
 襫	uip/
 祏	uip/
-畤	uit/
 芟	ujc/
 钐	ujj/
 鄯	ujy/
@@ -317,7 +298,6 @@ use_preset_vocabulary: false
 𬬸	uuj/
 殳	uuj/
 鄃	uur/
-琡	uuw/
 艏	uzv/
 咤	vak/
 柞	vam/
@@ -327,7 +307,6 @@ use_preset_vocabulary: false
 禛	vfp/
 瑧	vfw/
 鄣	vhl/
-痓	vib/
 茋	vic/
 泜	vid/
 滍	vid/
@@ -336,23 +315,19 @@ use_preset_vocabulary: false
 轾	vii/
 铚	vij/
 禔	vip/
-祇	vip/
 氏	vip/
 卮	vip/
-𨙸	viu/
 黹	viy/
 跱	viz/
 跖	viz/
 汋	vod/
 舯	vsv/
-澍	vud/
 潴	vud/
 蠋	vui/
 橥	vuq/
 邾	vuv/
 𬣞	vuy/
 赒	vzk/
-忞	wfw/
 痦	wub/
 鋈	wud/
 洿	wud/
@@ -394,11 +369,9 @@ use_preset_vocabulary: false
 俙	xir/
 歙	xir/
 豨	xiu/
-碏	xiu/
 屃	xiu/
 憙	xiu/
 饻	xiu/
-郄	xix/
 恓	xix/
 钘	xkj/
 骍	xkm/
@@ -409,7 +382,6 @@ use_preset_vocabulary: false
 崄	xme/
 𬀪	xmo/
 缐	xms/
-硍	xmu/
 燹	xmu/
 筅	xmv/
 渫	xpd/
@@ -421,9 +393,8 @@ use_preset_vocabulary: false
 痃	xrb/
 烜	xrh/
 晅	xro/
-暅	xro/
 琄	xrw/
-𫍽	xry/
+谖	xry/
 诇	xsy/
 湑	xud/
 欻	xuh/
@@ -432,7 +403,6 @@ use_preset_vocabulary: false
 醑	xuy/
 𬣙	xuy/
 翈	xxj/
-𬊈	xyh/
 𬘓	xys/
 蟫	ybi/
 骃	ybm/
@@ -440,14 +410,11 @@ use_preset_vocabulary: false
 龂	ybv/
 𬤇	yby/
 㙘	yct/
-焆	yeh/
-楪	yem/
 邪	yey/
 蛘	yhi/
 鹝	yia/
 鹢	yib/
 潩	yid/
-㴔	yid/
 洢	yid/
 𫖮	yie/
 燚	yih/	30
@@ -462,12 +429,11 @@ use_preset_vocabulary: false
 佁	yir/
 勚	yiu/
 裛	yiw/
+怿	yix/	90
+刈	yix/
 悒	yix/
-怿	yix/
-叕	yiy/
 酏	yiy/
 劓	yiz/
-掞	yjf/
 剡	yjh/
 扊	yjh/
 虤	yjh/
@@ -476,15 +442,11 @@ use_preset_vocabulary: false
 厣	yji/
 郾	yjk/
 阏	yjm/
-梴	yjm/
 嬿	yjn/
 𫄧	yjs/
-埏	yjt/
-歅	yjx/
 谳	yjy/
 潆	ykd/
 锳	ykj/
-桯	ykm/
 媖	ykn/
 涴	yrd/
 螈	yri/
@@ -492,9 +454,7 @@ use_preset_vocabulary: false
 窬	yub/
 瘐	yub/
 潏	yud/
-汩	yud/
-㳚	yud/
-隃	yue/
+㳚	xud/
 隩	yue/
 嵎	yue/
 髃	yug/
@@ -509,11 +469,9 @@ use_preset_vocabulary: false
 熨	yuu/
 艅	yuv/
 瑀	yuw/	80
-琟	yuw/	70
 敔	yuw/	60
 邘	yuy/
 鄅	yuy/
-蕰	yyc/
 涢	yyd/
 沄	yyd/
 馧	yyh/
@@ -524,6 +482,5 @@ use_preset_vocabulary: false
 羑	yzy/
 䎖	zgb/
 粢	zid/
-洓	zid/
 虸	zii/
 赀	ziv/

@@ -720,3 +720,119 @@
 -仄	zeir
 -洓	zidn
 ```
+
+## 空码提示
+```diff
++崩塌`a	bgt
++比赛`d	bis
++仓位`w	chw
++倒卖`d	dcm
++代码`a	ddm
++待业`e	ddy
++跌入`u	dpr
++对子`i	dvz
++放屁`i	fhp
++购房`h	gzf
++垂涎`m	ivx
++进行`k	jbx
++戛然而止`v	jre
++卷毛`c	jrm
++掘土`u	jtt
++肯为`w	kfw
++扩大`a	kod
++揽客`e	ljk
++门规`v	mfg
++霓虹灯`g	nhd
++泥巴`a	nib
++判罚`a	pjf
++晴天`m	qkt
++强势`i	qlu
++缺德`e	qtd
++卡壳`e	qxk
++如花似玉`y	rhs
++色盲`h	sem
+-思维`w	siw
++所长`h	sov
+-天外有天`t	twy
+-生物`u	ugw
++榨取`u	vaq
++扎心`b	vax
+-找寻`y	vcx
++忠臣`f	vsi
+-文采`d	wfc
++窝火`o	woh
++笑纳`a	xnn
++喧闹`c	xrn
++子孙后代`d	zsh
+```
+
+## 临时生僻字
+```diff
+-蚄	bhi/
+-祕	bip/
++鹎	bwp/
+-浟     did/
+-𬤊     diy/
+-𬊤     djh/
+-磹     dmu/
+-䓛     fuc/
+-蓇     guc/    30
+-䓛     guc/    20
++蓇     guc/
+-濩     hud/
+-翀     isx/
+-蒺     jic/
+-芰     jic/
++蒺     jic/    100
++芰     jic/    90
++㴔     jid/
++笕     jmv/
+-矞     jts/
++瘕     jxb/
+-𫖳     jyy/
+-崚     lke/
+-帑     nun/
+-觭     qid/
+-𬮿     qie/
+-啐     qik/
+-𬒈     qkx/
+-傕     qtr/
+-洓     sed/
+-𬙋     shs/
+-栝     tmm/
+-铫     tnj/
++埫     tht/
+-畤     uit/
+-琡     uuw/
+-痓     vib/
+-祇     vip/
+-𨙸     viu/
+-澍     vud/
+-忞     wfw/
+-碏     xiu/
+-郄     xix/
+-硍     xmu/
+-暅     xro/
+-𫍽     xry/
++谖     xry/
+-𬊈     xyh/
+-焆     yeh/
+-楪     yem/
+-㴔     yid/
++怿     yix/    90
++刈     yix/
+-怿     yix/
+-叕     yiy/
+-掞     yjf/
+-梴     yjm/
+-埏     yjt/
+-歅     yjx/
+-桯     ykm/
+-汩     yud/
+-㳚     yud/
+-隃     yue/
++㳚     xud/
+-琟     yuw/    70
+-蕰     yyc/
+-洓     zid/
+```
