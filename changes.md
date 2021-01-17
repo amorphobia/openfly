@@ -765,3 +765,74 @@
 +喧闹`c	xrn
 +子孙后代`d	zsh
 ```
+
+## 临时生僻字
+```diff
+-蚄	bhi/
+-祕	bip/
++鹎	bwp/
+-浟     did/
+-𬤊     diy/
+-𬊤     djh/
+-磹     dmu/
+-䓛     fuc/
+-蓇     guc/    30
+-䓛     guc/    20
++蓇     guc/
+-濩     hud/
+-翀     isx/
+-蒺     jic/
+-芰     jic/
++蒺     jic/    100
++芰     jic/    90
++㴔     jid/
++笕     jmv/
+-矞     jts/
++瘕     jxb/
+-𫖳     jyy/
+-崚     lke/
+-帑     nun/
+-觭     qid/
+-𬮿     qie/
+-啐     qik/
+-𬒈     qkx/
+-傕     qtr/
+-洓     sed/
+-𬙋     shs/
+-栝     tmm/
+-铫     tnj/
++埫     tht/
+-畤     uit/
+-琡     uuw/
+-痓     vib/
+-祇     vip/
+-𨙸     viu/
+-澍     vud/
+-忞     wfw/
+-碏     xiu/
+-郄     xix/
+-硍     xmu/
+-暅     xro/
+-𫍽     xry/
++谖     xry/
+-𬊈     xyh/
+-焆     yeh/
+-楪     yem/
+-㴔     yid/
++怿     yix/    90
++刈     yix/
+-怿     yix/
+-叕     yiy/
+-掞     yjf/
+-梴     yjm/
+-埏     yjt/
+-歅     yjx/
+-桯     ykm/
+-汩     yud/
+-㳚     yud/
+-隃     yue/
++㳚     xud/
+-琟     yuw/    70
+-蕰     yyc/
+-洓     zid/
+```
