@@ -559,6 +559,31 @@
 +勖	xuol
 -矞	xusk
 -蟫	xyiu
+# y
++牙碜	yaif
+-姶	yank
+-碣	yauv
+-𤩽	yawq
+-𬙂	ybsb
+-隃	yced
+-喝	yekv
+-堨	yetv
+-射	yeu
++馌	yeu
+-射	yeuc
+-𤩽	yewq
+-卬	yhpe
+-射	yiuc
++一两个字	ylgz
++一骑绝尘	yqji
+-宛	yrbv
+-薳	yrcz
++用饭	ysfj
+-趯	yttf
++菀	yucv
+-圫	yutq
+-菀	yycv
++𫖳	yyyr
 ```
 ## 次选字
 ```diff
