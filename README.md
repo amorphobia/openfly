@@ -65,15 +65,17 @@ $ bash rime-install amorphobia/openfly@<tag>
 
 直通车中打开外部程序的命令通过 `lua_processor` 实现。由于 [librime-lua 只支持 `SimpleCandidate`](https://github.com/hchunhui/librime-lua/issues/11#issuecomment-504748077)，暂时无法实现原版小鹤音形中显示为候选项、再选择候选项运行命令，只能在输入编码后直接运行命令。另外，由于 [Lua 中 `os.execute` 的限制](https://stackoverflow.com/a/6365296/6676742)，在 Windows 中运行命令时会闪现一个命令提示符窗口。
 
+在 macOS 中输入编码之后需要再按任意一个键才能运行命令，暂不知道原因。（推荐按下 <kbd>Shift</kbd>）
+
 已实现的快捷指令（括号内标注已实现平台）：
 
 - `oav` 打开 Rime 安装目录 (Windows)
-- `ocm` 命令提示符 (Windows)
-- `odn` 文件管理器 (Windows)
+- `ocm` 打开命令提示符或终端 (Windows/macOS)
+- `odn` 文件管理器 (Windows/macOS)
 - `oec` Excel (Windows)
-- `ogj` 高级设置，即打开 Rime 用户目录 (Windows)
+- `ogj` 高级设置，即打开 Rime 用户目录 (Windows/macOS)
 - `oht` 画图软件 (Windows)
-- `ojs` 计算器 (Windows)
+- `ojs` 计算器 (Windows/macOS)
 - `owd` Word (Windows)
 
 ## 已知问题
