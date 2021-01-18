@@ -8,7 +8,7 @@ local function processor(key, env)
     if (sep == "\\") then
         -- Windows
         if context.input == "oav" then
-            os.execute('start "path" %ProgramFiles(x86)%\\Rime\\weasel-0.14.3')
+            os.execute('start "path" "%ProgramFiles(x86)%\\Rime\\weasel-0.14.3"')
             context:clear()
         elseif context.input == "ocm" then
             os.execute('start "cmd" "cmd.exe"')
