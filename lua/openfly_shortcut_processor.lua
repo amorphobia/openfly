@@ -3,43 +3,50 @@ local function processor(key, env)
     local context = engine.context
     local kNoop = 2
 
-    local sep = package.config:sub(1,1)
+    local cmd = ''
+    local sys = ''
     -- https://stackoverflow.com/a/14425862/6676742
+    local sep = package.config:sub(1,1)
     if (sep == "\\") then
         -- Windows
         if context.input == "oav" then
-            os.execute('start "path" "%ProgramFiles(x86)%\\Rime\\weasel-0.14.3"')
-            context:clear()
+            cmd = 'start "" "%ProgramFiles(x86)%\\Rime\\weasel-0.14.3"'
         elseif context.input == "ocm" then
-            os.execute('start "cmd" "cmd.exe"')
-            context:clear()
+            cmd = 'start "" "cmd.exe"'
         elseif context.input == "odn" then
-            os.execute('start "pc" "::{20D04FE0-3AEA-1069-A2D8-08002B30309D}"')
-            context:clear()
+            cmd = 'start "" "::{20D04FE0-3AEA-1069-A2D8-08002B30309D}"'
         elseif context.input == "oec" then
-            os.execute('start "excel" "excel.exe"')
-            context:clear()
+            cmd = 'start "" "excel.exe"'
         elseif context.input == "ogj" then
-            os.execute('start "path" %appdata%\\Rime')
-            context:clear()
+            cmd = 'start "" "%appdata%\\Rime"'
         elseif context.input == "oht" then
-            os.execute('start "paint" "mspaint.exe"')
-            context:clear()
+            cmd = 'start "" "mspaint.exe"'
         elseif context.input == "ojs" then
-            os.execute('start "calc" "calc.exe"')
-            context:clear()
+            cmd = 'start "" "calc.exe"'
         elseif context.input == "owd" then
-            os.execute('start "word" "winword.exe"')
-            context:clear()
+            cmd = 'start "" "winword.exe"'
         end
-        return kNoop
+    else
+        sys = io.popen("uname -s"):read("*l")
     end
 
-    local sys = io.popen("uname -s"):read("*l")
     if (sys == "Darwin") then
         -- macOS
+        if context.input == "ocm" then
+            cmd = 'open -a Terminal.app'
+        elseif context.input == "odn" then
+            cmd = 'open -a Finder.app'
+        elseif context.input == "ogj" then
+            cmd = 'open ~/Library/Rime'
+        elseif context.input == "ojs" then
+            cmd = 'open -a Calculator.app'
+        end
     elseif (sys == "Linux") then
         -- Linux
+    end
+    if (cmd ~= "") then
+        os.execute(cmd)
+        context:clear()
     end
     return kNoop
 end
