@@ -27,6 +27,7 @@ switches:
 
 engine:
   processors:
+    - lua_processor@openfly_shortcut_processor
     - ascii_composer
     - recognizer
     - key_binder

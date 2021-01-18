@@ -50,11 +50,30 @@ $ bash rime-install amorphobia/openfly@<tag>
 - **表外字** openfly.off-table.dict.yaml
 - **符号编码** openfly.symbols.dict.yaml
 - **快符号** openfly.fast.symbols.dict.yaml
-- **直通车** 小部分实现，四个网址放在 openfly.web.dict.yaml 里
+- **直通车** 部分实现，见[直通车](#直通车)部分
 - **随心所欲** openfly.whimsicality.dict.yaml
-- **隐藏全码** 未收录
+- **隐藏全码** 未直接收录，反查词典是基于全码首选的单字和隐藏全码的单字生成
 - **二重简码** openfly.secondary.short.code.dict.yaml
 - **内嵌提示** 官方未单独显示此词库 openfly.embedded.hint.dict.yaml
+
+## 直通车
+
+[官方版 Rime 挂载配方](http://flypy.ys168.com/)已通过 `lua_translator` 实现时间和日期的输入，本配方稍作修改，使其与官方安装版输出一致。
+
+四个小鹤的网址放在 openfly.web.dict.yaml 里，与官方安装版不同的是，网址是作为上屏词组输出，而非直接运行浏览器打开。
+
+直通车中打开外部程序的命令通过 `lua_processor` 实现。由于 [librime-lua 只支持 `SimpleCandidate`](https://github.com/hchunhui/librime-lua/issues/11#issuecomment-504748077)，暂时无法实现原版小鹤音形中显示为候选项、再选择候选项运行命令，只能在输入编码后直接运行命令。另外，由于 [Lua 中 `os.execute` 的限制](https://stackoverflow.com/a/6365296/6676742)，在 Windows 中运行命令时会闪现一个命令提示符窗口。
+
+已实现的快捷指令（括号内标注已实现平台）：
+
+- `oav` 打开 Rime 安装目录 (Windows)
+- `ocm` 命令提示符 (Windows)
+- `odn` 文件管理器 (Windows)
+- `oec` Excel (Windows)
+- `ogj` 高级设置，即打开 Rime 用户目录 (Windows)
+- `oht` 画图软件 (Windows)
+- `ojs` 计算器 (Windows)
+- `owd` Word (Windows)
 
 ## 已知问题
 
