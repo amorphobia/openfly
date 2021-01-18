@@ -19,6 +19,7 @@ $ bash rime-install amorphobia/openfly
 由于 plum 不能自动为 lua 脚本打补丁，因此还需手动在 `rime.lua` 文件中添加以下代码：
 <span id="patch"></span>
 ```lua
+openfly_shortcut_processor = require("openfly_shortcut_processor")
 openfly_date_translator = require("openfly_date_translator")
 openfly_time_translator = require("openfly_time_translator")
 openfly_hint_filter = require("openfly_hint_filter")
