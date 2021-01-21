@@ -27,7 +27,16 @@ local function processor(key, env)
             cmd = 'start "" "winword.exe"'
         end
     else
-        sys = io.popen("uname -s"):read("*l")
+        local f = io.open("/usr/bin/uname", "r")
+        local h = os.getenv("HOME")
+        if f ~= nil then
+            io.close(f)
+            sys = io.popen("uname -s"):read("*l")
+        elseif (string.find(h, "/private/var/mobile/") ~= nil) then
+            sys = "iOS"
+        else
+            sys = "Others"
+        end
     end
 
     if (sys == "Darwin") then
@@ -43,6 +52,10 @@ local function processor(key, env)
         end
     elseif (sys == "Linux") then
         -- Linux
+    elseif (sys == "iOS") then
+        -- iOS
+    elseif (sys == "Others") then
+        -- other operating systems
     end
     if (cmd ~= "") then
         os.execute(cmd)
