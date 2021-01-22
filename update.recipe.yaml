@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 recipe:
-  Rx: openfly
+  Rx: update
   description: >-
     词库开源的小鹤音形 Rime 配方
 
