@@ -27,6 +27,7 @@ openfly_shortcut_processor = require("openfly_shortcut_processor")
 openfly_date_translator = require("openfly_date_translator")
 openfly_time_translator = require("openfly_time_translator")
 openfly_hint_filter = require("openfly_hint_filter")
+openfly_deletion_filter = require("openfly_deletion_filter")
 ```
 
 ### 特定版本
@@ -58,7 +59,7 @@ $ bash rime-install amorphobia/openfly@<tag>
 - **直通车** 部分实现，见[直通车](#直通车)部分
 - **随心所欲** openfly.whimsicality.dict.yaml
 - **隐藏全码** 未直接收录，反查词典是基于全码首选的单字和隐藏全码的单字生成
-- **二重简码** openfly.secondary.short.code.dict.yaml
+- **二重简码** openfly.secondary.short.code.dict.yaml, 默认开启，可在 `openfly.dict.yaml` 里注释掉以关闭
 - **内嵌提示** 官方未单独显示此词库 openfly.embedded.hint.dict.yaml
 
 ## 直通车
@@ -81,6 +82,26 @@ $ bash rime-install amorphobia/openfly@<tag>
 - `oht` 画图软件 (Windows)
 - `ojs` 计算器 (Windows/macOS)
 - `owd` Word (Windows)
+
+## 删词功能
+
+从 [6ee1bac](https://github.com/amorphobia/openfly/commit/6ee1bacdcc20fdf93f10793f8c5c942fb42b4425) 起，支持在用户词典中加入编码来删除词库中（包括内嵌编码提示词库）的词条，使用方式是在用户词典 `openfly.user.dict.yaml` 或 `openfly.user.top.dict.yaml` 中添加如下格式的词条
+
+```
+词语`[删]	编码
+```
+
+其实在任意一个词典里添加都可以，不过建议不修改配方中的词典，这也是为什么推出删词功能的原因——删词的时候可以不修改配方中的词典，避免更新的时候改动被覆盖。
+
+需要注意的是，词语后的撇号是键盘上数字 <kbd>1</kbd> 左边的符号；撇号后面的“删”字前后有半角的方括号，和编码之间是制表符而不是空格。
+
+例如，想要删除“鹤	eh”这个不规则的编码，可以在用户词典里加上：
+
+```
+鹤`[删]	eh
+```
+
+如此一来，“鹤”字就只能通过 `hedn` 这个编码打出，而 `eh` 就可以放入你想要的词了。
 
 ## 已知问题
 
