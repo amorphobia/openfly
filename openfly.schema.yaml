@@ -51,6 +51,7 @@ engine:
     - history_translator@history
   filters:
     - lua_filter@openfly_hint_filter
+    - lua_filter@openfly_deletion_filter
     - simplifier
     - simplifier@simplification
     - uniquifier

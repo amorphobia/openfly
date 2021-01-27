@@ -18,4 +18,21 @@ local function detect_os()
     return sys
 end
 
-return { detect_os = detect_os }
+local function status(context)
+    local stat = {}
+    local composition = context.composition
+    stat.always = true
+    stat.composing = context:is_composing()
+    stat.empty = not stat.composing
+    stat.has_menu = context:has_menu()
+    stat.paging = not composition.empty() and composition:back():has_tag("paging")
+    return stat
+end
+
+return {
+    detect_os = detect_os,
+    status = status,
+    kRejected = 0,
+    kAccepted = 1,
+    kNoop = 2
+}

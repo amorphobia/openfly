@@ -22,7 +22,6 @@ local command = {
 local function processor(key, env)
     local engine = env.engine
     local context = engine.context
-    local kNoop = 2
 
     local sys = common.detect_os()
     local cmd = command[sys][context.input]
@@ -30,7 +29,7 @@ local function processor(key, env)
         os.execute(cmd)
         context:clear()
     end
-    return kNoop
+    return common.kNoop
 end
 
 return processor
