@@ -13,11 +13,17 @@
 ### 最新版本
 [东风破](https://github.com/rime/plum) 安装口令：
 ```bash
+# 默认版本，词典分为多个文件
 $ bash rime-install amorphobia/openfly
+# 词典合并版本，除用户词典以外，合并为一个文件
+$ bash rime-install amorphobia/openfly@merged_dict
 ```
 更新口令（在安装口令后加 `:update`, 可以不覆盖 `openfly.user.dict.yaml` 和 `openfly.user.top.dict.yaml` 两个文件）：
 ```bash
+# 默认版本
 $ bash rime-install amorphobia/openfly:update
+# 词典合并版本
+$ bash rime-install amorphobia/openfly@merged_dict:update
 ```
 
 由于 plum 不能自动为 lua 脚本打补丁，因此还需手动在 `rime.lua` 文件中添加以下代码：
