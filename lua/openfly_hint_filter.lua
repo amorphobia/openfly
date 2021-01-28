@@ -9,7 +9,8 @@ local function filter(input)
       if (word == "" or comment == "") then
         yield(cand)
       else
-        yield(Candidate(cand.type, cand.start, cand._end, word, comment))
+        local original_comment = cand:get_genuine().comment
+        yield(Candidate(cand.type, cand.start, cand._end, word, original_comment .. comment))
       end
     end
   end
