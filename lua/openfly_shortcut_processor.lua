@@ -9,7 +9,8 @@ local command = {
     ["ogj"] = 'start "" "%appdata%\\Rime"',
     ["oht"] = 'start "" "mspaint.exe"',
     ["ojs"] = 'start "" "calc.exe"',
-    ["owd"] = 'start "" "winword.exe"'
+    ["owd"] = 'start "" "winword.exe"',
+    ["owt"] = 'start "" "wt.exe'
   },
   ["Darwin"] = {
     ["ocm"] = 'open -a Terminal.app',
