@@ -1,11 +1,5 @@
 local function filter(input, env)
-  local engine = env.engine
-  local context = engine.context
-  local inp = context.input
-  local skip = false
-  if inp:sub(1, 1) == "`" then
-    skip = true
-  end
+  local skip = env.engine.context.input:sub(1,1) == "`"
   local candidates = {}
   local del_text = {}
   local index_text = {}
