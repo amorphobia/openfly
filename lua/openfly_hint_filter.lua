@@ -1,6 +1,6 @@
 local function filter(input)
   for cand in input:iter() do
-    local delimiter = string.find(cand.text, "`")
+    local delimiter = string.find(cand.text, "`[^`]*$")
     if (delimiter == nil) then
       yield(cand)
     else
