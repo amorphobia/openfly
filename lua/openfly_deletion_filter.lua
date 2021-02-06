@@ -1,12 +1,17 @@
-local function filter(input)
+local function filter(input, env)
+  local skip = env.engine.context.input:sub(1,1) == "`"
   local candidates = {}
   local del_text = {}
   local index_text = {}
   for cand in input:iter() do
-    table.insert(index_text, cand.text)
-    candidates[cand.text] = cand
-    if cand:get_genuine().comment == "[删]" then
-      table.insert(del_text, cand.text)
+    if not skip then
+      table.insert(index_text, cand.text)
+      candidates[cand.text] = cand
+      if cand:get_genuine().comment == "[删]" then
+        table.insert(del_text, cand.text)
+      end
+    else
+      yield(cand)
     end
   end
   for i, t in pairs(del_text) do

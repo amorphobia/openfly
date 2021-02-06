@@ -4,9 +4,19 @@
 
 词库开源的[小鹤音形](https://flypy.com) [Rime](https://rime.im) 输入方案
 
-## 用法
+## 问题和资源
 
-参考[小鹤入门](http://xhrm.flypy.com)
+### 小鹤音形的使用相关
+
+请参考[小鹤入门](http://xhrm.flypy.com)和[小鹤论坛](https://bbs.flypy.com)，也欢迎在[讨论页面](https://github.com/amorphobia/openfly/discussions)参与讨论。
+
+### Rime 引擎的配置相关
+
+请参考 [Rime 官方帮助页面](https://rime.im/docs/), 以及网上也能搜索到许多教程。如果还是有问题，也可以在[讨论页面](https://github.com/amorphobia/openfly/discussions)提出。
+
+### 本配方相关
+
+请先参考本文，如果是本文没有提到的使用上的问题，可以在[讨论页面](https://github.com/amorphobia/openfly/discussions)提出；如果怀疑是程序错误、词库错误、配置错误等，可以在[议题页面](https://github.com/amorphobia/openfly/issues)提出；如果想要贡献代码或修改词库，也可以提交[拉取请求](https://github.com/amorphobia/openfly/pulls)。
 
 ## 安装
 
@@ -108,10 +118,6 @@ $ bash rime-install amorphobia/openfly@<tag>
 ```
 
 如此一来，“鹤”字就只能通过 `hedn` 这个编码打出，而 `eh` 就可以放入你想要的词了。
-
-## 已知问题
-
-- 部分编码可更优化 [#6](https://github.com/amorphobia/openfly/issues/6)
 
 ## 许可和授权条款
 

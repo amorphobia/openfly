@@ -18,7 +18,8 @@ local function detect_os()
   return sys
 end
 
-local function status(context)
+local function status(env)
+  local context = env.engine.context
   local stat = {}
   local composition = context.composition
   stat.always = true
@@ -29,9 +30,31 @@ local function status(context)
   return stat
 end
 
+local function get_option_bool(env, opt)
+  return env.engine.schema.config:get_bool(opt)
+end
+
+local function get_option_int(env, opt)
+  return env.engine.schema.config:get_int(opt)
+end
+
+local function get_option_double(env, opt)
+  return env.engine.schema.config:get_double(opt)
+end
+
+local function get_option_string(env, opt)
+  return env.engine.schema.config:get_string(opt)
+end
+
 return {
   detect_os = detect_os,
   status = status,
+  rime_option = {
+    get_bool = get_option_bool,
+    get_int = get_option_int,
+    get_double = get_option_double,
+    get_string = get_option_string
+  },
   kRejected = 0,
   kAccepted = 1,
   kNoop = 2

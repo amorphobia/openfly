@@ -4,7 +4,7 @@
 schema:
   schema_id: openfly
   name: 开源小鹤
-  version: "v9.9k"
+  version: "v9.9l"
   author:
     - 方案设计：何海峰 <flypy@qq.com>
     - 修改：amorphobia <xu350n9@gmail.com>

@@ -1,6 +1,6 @@
 local function filter(input)
   for cand in input:iter() do
-    local delimiter = string.find(cand.text, "`")
+    local delimiter = string.find(cand.text, "`[^`]*$")
     if (delimiter == nil) then
       yield(cand)
     else
@@ -9,7 +9,8 @@ local function filter(input)
       if (word == "" or comment == "") then
         yield(cand)
       else
-        yield(Candidate(cand.type, cand.start, cand._end, word, comment))
+        local original_comment = cand:get_genuine().comment
+        yield(Candidate(cand.type, cand.start, cand._end, word, original_comment .. comment))
       end
     end
   end
