@@ -6,7 +6,7 @@
 
 ---
 name: openfly.uncommon
-version: "v9.9k"
+version: "v9.9l"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -51,7 +51,6 @@ use_preset_vocabulary: false
 玓	diw/
 羝	diy/
 澹	djd/
-箪	djv/
 汈	dnd/
 饳	dou/
 𬭊	duj/
@@ -98,8 +97,8 @@ use_preset_vocabulary: false
 艎	hlv/
 瑝	hlw/
 漷	hod/
+锪	hoj/
 镮	hrj/
-翃	hsu/
 冱	hud/
 烀	huh/
 觳	huu/
@@ -320,7 +319,6 @@ use_preset_vocabulary: false
 黹	viy/
 跱	viz/
 跖	viz/
-汋	vod/
 舯	vsv/
 潴	vud/
 蠋	vui/
@@ -348,6 +346,7 @@ use_preset_vocabulary: false
 隈	wwe/
 峗	wwe/
 煟	wwh/
+硙	wwu/
 螱	wwu/
 琟	www/
 亹	www/

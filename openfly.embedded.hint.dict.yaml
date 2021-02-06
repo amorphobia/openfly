@@ -6,7 +6,7 @@
 
 ---
 name: openfly.embedded.hint
-version: "v9.9k"
+version: "v9.9l"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -349,7 +349,6 @@ AA制`i	aav
 不确定`k	bqd
 不期而至`v	bqe
 避其锋芒`m	bqf
-毕其功于一役`y	bqg
 不求回报`b	bqh
 不清楚`u	bqi
 冰淇淋`b	bql
@@ -436,6 +435,7 @@ AA制`i	aav
 白雪皑皑`a	bxa
 不虚此行`x	bxc
 不晓得`e	bxd
+败兴而归`g	bxe
 不相符`u	bxf
 不习惯`r	bxg
 不喜欢`r	bxh
@@ -1858,7 +1858,6 @@ Excel`e	exc
 合格证`g	hgv
 衡阳`h	hgy
 横在`d	hgz
-还好吧`a	hhb
 浑浑噩噩`e	hhe
 何海峰`g	hhf
 行规`v	hhg
@@ -2029,7 +2028,6 @@ Excel`e	exc
 嘿嘿`w	hwh
 黑车`e	hwi
 𬭶`h	hwj
-好无聊`n	hwl
 黑马`a	hwm
 哈瓦那`a	hwn
 黑屏`k	hwp
@@ -2574,6 +2572,7 @@ Excel`e	exc
 君臣`f	jyi
 均可`e	jyk
 均能`g	jyn
+机缘巧合`h	jyq
 交易所`o	jys
 加一下`x	jyx
 君子爱财`c	jza
@@ -2835,7 +2834,6 @@ Excel`e	exc
 扩展名`k	kvm
 窥破`o	kvp
 亏损`y	kvs
-溃逃`c	kvt
 魁梧`u	kvw
 溃疡`h	kvy
 勘误表`n	kwb
@@ -2926,12 +2924,12 @@ Excel`e	exc
 来了`e	ldl
 老大难`j	ldn
 赖皮`i	ldp
-来去`u	ldq
 来头`z	ldt
 来往`h	ldw
 流动性`k	ldx
 老掉牙`a	ldy
 来自`i	ldz
+来而不往非礼也`y	leb
 乐呵`e	leh
 乐见`m	lej
 勒令`k	lel
@@ -3429,7 +3427,6 @@ Excel`e	exc
 摸一摸`o	mym
 每一年`m	myn
 慢一拍`d	myp
-牧羊犬`r	myq
 没意思`i	mys
 每一天`m	myt
 名义上`h	myu
@@ -3722,7 +3719,6 @@ Excel`e	exc
 内幕`u	nwm
 能文能武`w	nwn
 内聘`b	nwp
-难为情`k	nwq
 内容`s	nwr
 内退`v	nwt
 内外`d	nww
@@ -3740,6 +3736,7 @@ Excel`e	exc
 哪些问题`t	nxw
 怒形于色`s	nxy
 那小子`i	nxz
+捏一把汗`h	nyb
 哪一点`m	nyd
 年夜饭`j	nyf
 哪一个`e	nyg
@@ -4984,6 +4981,7 @@ Excel`e	exc
 胎儿`r	tde
 太好`c	tdh
 太长`h	tdi
+太难`j	tdn
 太平`k	tdp
 太热`e	tdr
 太重`s	tdv
@@ -5214,6 +5212,7 @@ Excel`e	exc
 天下苍生`u	txc
 剃须刀`c	txd
 谈笑风生`u	txf
+体现出`u	txi
 退休金`b	txj
 通讯录`u	txl
 同学们`f	txm
@@ -5463,7 +5462,6 @@ Excel`e	exc
 收容所`o	urs
 涮涮`r	uru
 拴住`u	urv
-视若无睹`d	urw
 深入细致`v	urx
 山人自有妙计`j	urz
 生死不渝`y	usb
@@ -5900,6 +5898,7 @@ Excel`e	exc
 温暖`r	wfn
 温泉`r	wfq
 温柔`z	wfr
+问题`i	wft
 问下`x	wfx
 乌干达`a	wgd
 温故而知新`x	wge
@@ -6340,6 +6339,7 @@ wifi`i	wif
 心直口快`k	xvk
 下周六`q	xvl
 闲着没事`u	xvm
+下周三`j	xvs
 下周日`i	xvr
 虚张声势`u	xvu
 寻章摘句`j	xvv
@@ -6417,6 +6417,7 @@ wifi`i	wif
 亚丁湾`j	ydw
 运动鞋`p	ydx
 一大早`c	ydz
+野草`c	yec
 也该`d	yeg
 也难`j	yen
 也怕`a	yep
@@ -6647,6 +6648,7 @@ wifi`i	wif
 有所`o	yzs
 犹太`d	yzt
 有无`u	yzw
+柚子`i	yzz
 咋办`j	zab
 杂草`c	zac
 咋地`i	zad
@@ -6683,6 +6685,7 @@ wifi`i	wif
 早死`i	zcs
 糟蹋`a	zct
 早上`h	zcu
+簉`z	zcv
 造型`k	zcx
 再次`i	zdc
 再多`o	zdd
@@ -6758,7 +6761,6 @@ wifi`i	wif
 赞歌`e	zjg
 暂缓`r	zjh
 咱就`q	zjj
-总经理`i	zjl
 暂缺`t	zjq
 自即日起`q	zjr
 赞颂`s	zjs

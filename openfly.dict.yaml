@@ -4,15 +4,15 @@
 
 ---
 name: openfly
-version: "v9.9k"
+version: "v9.9l"
 
 import_tables:
   - 'openfly.user.top'
   - 'openfly.fast.symbols'
   - 'openfly.primary'
   - 'openfly.secondary.short.code'
-  - 'openfly.secondary.word'
-  - 'openfly.secondary.char'
+  - 'openfly.secondary'
+  # - 'openfly.completion'
   - 'openfly.embedded.hint'
   - 'openfly.off-table'
   - 'openfly.whimsicality'

@@ -12,9 +12,8 @@ install_files: >-
   openfly.off-table.dict.yaml
   openfly.primary.dict.yaml
   openfly.schema.yaml
-  openfly.secondary.char.dict.yaml
+  openfly.secondary.dict.yaml
   openfly.secondary.short.code.dict.yaml
-  openfly.secondary.word.dict.yaml
   openfly.symbols.dict.yaml
   openfly.uncommon.dict.yaml
   openfly.web.dict.yaml
