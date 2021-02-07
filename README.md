@@ -42,6 +42,7 @@ $ bash rime-install amorphobia/openfly@merged_dict:update
 openfly_shortcut_processor = require("openfly_shortcut_processor")
 openfly_date_translator = require("openfly_date_translator")
 openfly_time_translator = require("openfly_time_translator")
+openfly_shortcut_translator = require("openfly_shortcut_translator")
 openfly_hint_filter = require("openfly_hint_filter")
 openfly_deletion_filter = require("openfly_deletion_filter")
 ```
@@ -84,7 +85,7 @@ $ bash rime-install amorphobia/openfly@<tag>
 
 四个小鹤的网址放在 openfly.web.dict.yaml 里，与官方安装版不同的是，网址是作为上屏词组输出，而非直接运行浏览器打开。
 
-直通车中打开外部程序的命令通过 `lua_processor` 实现。由于 [librime-lua 只支持 `SimpleCandidate`](https://github.com/hchunhui/librime-lua/issues/11#issuecomment-504748077)，暂时无法实现原版小鹤音形中显示为候选项、再选择候选项运行命令，只能在输入编码后直接运行命令。另外，由于 [Lua 中 `os.execute` 的限制](https://stackoverflow.com/a/6365296/6676742)，在 Windows 中运行命令时会闪现一个命令提示符窗口。
+直通车中打开外部程序的命令通过 `lua_processor` 实现。<del>由于 [librime-lua 只支持 `SimpleCandidate`](https://github.com/hchunhui/librime-lua/issues/11#issuecomment-504748077)，暂时无法实现原版小鹤音形中显示为候选项、再选择候选项运行命令，只能在输入编码后直接运行命令。</del>已通过 `openfly_shortcut_translator` 和 `openfly_shortcut_processor` 搭配实现。由于 [Lua 中 `os.execute` 的限制](https://stackoverflow.com/a/6365296/6676742)，在 Windows 中运行命令时会闪现一个命令提示符窗口。
 
 在 macOS 中输入编码之后需要再按任意一个键才能运行命令，暂不知道原因。（推荐按下 <kbd>Shift</kbd>）
 
@@ -98,6 +99,7 @@ $ bash rime-install amorphobia/openfly@<tag>
 - `oht` 画图软件 (Windows)
 - `ojs` 计算器 (Windows/macOS)
 - `owd` Word (Windows)
+- `owt` Windows Terinal (Windows)
 
 ## 删词功能
 

@@ -47,6 +47,7 @@ engine:
     - table_translator
     - lua_translator@openfly_date_translator
     - lua_translator@openfly_time_translator
+    - lua_translator@openfly_shortcut_translator
     - reverse_lookup_translator
     - history_translator@history
   filters:

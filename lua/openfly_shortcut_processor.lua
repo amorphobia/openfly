@@ -10,7 +10,7 @@ local command = {
     ["oht"] = 'start "" "mspaint.exe"',
     ["ojs"] = 'start "" "calc.exe"',
     ["owd"] = 'start "" "winword.exe"',
-    ["owt"] = 'start "" "wt.exe'
+    ["owt"] = 'start "" "wt.exe"'
   },
   ["Darwin"] = {
     ["ocm"] = 'open -a Terminal.app',
@@ -21,14 +21,14 @@ local command = {
 }
 
 local function processor(key, env)
-  local engine = env.engine
-  local context = engine.context
-
+  local context = env.engine.context
   local sys = common.detect_os()
   local cmd = command[sys][context.input]
-  if cmd ~= nil then
+  // 当按下的键是空格 (0x0020) 或者数字 1 (0x0031)
+  if (key.keycode == 0x0020 or key.keycode == 0x0031) and cmd ~= nil then
     os.execute(cmd)
     context:clear()
+    return common.kAccepted
   end
   return common.kNoop
 end
