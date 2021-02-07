@@ -25,7 +25,7 @@ local function processor(key, env)
   local sys = common.detect_os()
   local cmd = command[sys][context.input]
   -- 当按下的键是空格 (0x0020) 或者数字 1 (0x0031)
-  if (key.keycode == 0x0020 or key.keycode == 0x0031) and cmd ~= nil then
+  if key.modifier == 0 and (key.keycode == 0x0020 or key.keycode == 0x0031) and cmd ~= nil then
     os.execute(cmd)
     context:clear()
     return common.kAccepted
