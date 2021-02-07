@@ -20,10 +20,9 @@ local labels = {
   }
 }
 
-local function translator(input, seg, env)
-  local context = env.engine.context
+local function translator(input, seg)
   local sys = common.detect_os()
-  local label = labels[sys][context.input]
+  local label = labels[sys][input]
   if label ~= nil then
     yield(Candidate("shortcut", seg.start, seg._end, " ", label))
   end
