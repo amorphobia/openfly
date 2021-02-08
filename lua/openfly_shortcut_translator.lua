@@ -19,9 +19,10 @@ local labels = {
   }
 }
 
-local function translator(input, seg, env)
+local function translator(input, seg)
   local sys = common.detect_os()
   local lbls = labels[sys][input]
+  if lbls == nil then return end
   for i, lbl in pairs(lbls) do
     yield(Candidate("shortcut", seg.start, seg._end, lbl, ""))
   end

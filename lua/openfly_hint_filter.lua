@@ -10,7 +10,11 @@ local function filter(input)
         yield(cand)
       else
         local original_comment = cand:get_genuine().comment
-        yield(Candidate(cand.type, cand.start, cand._end, word, original_comment .. comment))
+        if word:sub(1,1) ~= "$" then
+          yield(Candidate(cand.type, cand.start, cand._end, word, original_comment .. comment))
+        else
+          yield(Candidate(word, cand.start, cand._end, original_comment .. comment, ""))
+        end
       end
     end
   end

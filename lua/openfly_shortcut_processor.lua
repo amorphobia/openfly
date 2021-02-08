@@ -30,15 +30,32 @@ local function processor(key, env)
   local context = env.engine.context
   local sys = common.detect_os()
   if key:release() or key:alt() then return common.kNoop end
-  local index = common.select_index(env, key) + 1
-  if index <= 0 then return common.kNoop end
-  local cmd = command[sys][context.input][index]
-  if cmd ~= nil then
-    os.execute(cmd)
-    context:clear()
-    return common.kAccepted
+  local index = common.select_index(env, key)
+  if index < 0 then return common.kNoop end
+  if command[sys][context.input] ~= nil then
+    local cmd = command[sys][context.input][index+1]
+    if cmd ~= nil then
+      os.execute(cmd)
+      context:clear()
+      return common.kAccepted
+    end
   end
-  return common.kNoop
+
+  local comp = context.composition
+  if comp.empty == nil then return common.kNoop end
+  if comp:empty() then return common.kNoop end
+  local seg = comp:back()
+  if seg == nil or seg.menu == nil or seg:has_tag("raw") then return common.kNoop end
+  local page_size = env.engine.schema.page_size
+  if index >= page_size then return common.kNoop end
+  local page_start = math.floor(seg.selected_index / page_size) * page_size
+  local cand = seg:get_candidate_at(page_start + index)
+  if cand == nil then return common.kNoop end
+  if cand.type:sub(1,1) ~= "$" then return common.kNoop end
+  local new_input = string.match(cand.type, "%$(%w+)")
+  if new_input == nil or new_input == "" then return common.kNoop end
+  context.input = new_input
+  return common.kAccepted
 end
 
 return processor
