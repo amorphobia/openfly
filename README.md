@@ -99,7 +99,6 @@ $ bash rime-install amorphobia/openfly@<tag>
 - `oht` 画图软件 (Windows)
 - `ojs` 计算器 (Windows/macOS)
 - `owd` Word (Windows)
-- `owt` Windows Terinal (Windows)
 
 ## 删词功能
 
