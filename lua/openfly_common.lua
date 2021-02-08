@@ -26,7 +26,9 @@ local function status(env)
   stat.composing = context:is_composing()
   stat.empty = not stat.composing
   stat.has_menu = context:has_menu()
-  stat.paging = not composition.empty() and composition:back():has_tag("paging")
+  if composition.empty ~= nil then
+    stat.paging = not composition:empty() and composition:back():has_tag("paging")
+  end
   return stat
 end
 
@@ -46,6 +48,23 @@ local function get_option_string(env, opt)
   return env.engine.schema.config:get_string(opt)
 end
 
+local function select_index(env, key)
+  local ch = key.keycode
+  local index = -1
+  local select_keys = env.engine.schema.select_keys
+  if select_keys ~= nil and select_keys ~= "" and not key.ctrl() and ch >= 0x20 and ch < 0x7f then
+    local pos = string.find(select_keys, string.char(ch))
+    if pos ~= nil then index = pos end
+  elseif ch >= 0x30 and ch <= 0x39 then
+    index = (ch - 0x30 + 9) % 10
+  elseif ch >= 0xffb0 and ch < 0xffb9 then
+    index = (ch - 0xffb0 + 9) % 10
+  elseif ch == 0x20 then
+    index = 0
+  end
+  return index
+end
+
 return {
   detect_os = detect_os,
   status = status,
@@ -55,6 +74,7 @@ return {
     get_double = get_option_double,
     get_string = get_option_string
   },
+  select_index = select_index,
   kRejected = 0,
   kAccepted = 1,
   kNoop = 2

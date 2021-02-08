@@ -2,29 +2,28 @@ local common = require("openfly_common")
 
 local labels = {
   ["Windows"] = {
-    ["oav"] = "[安装目录]",
-    ["ocm"] = "[命令提示符]",
-    ["odn"] = "[文件管理器]",
-    ["oec"] = "[Excel]",
-    ["ogj"] = "[Rime 用户目录]",
-    ["oht"] = "[画图]",
-    ["ojs"] = "[计算器]",
-    ["owd"] = "[Word]",
-    ["owt"] = "[Windows Terminal]"
+    ["oav"] = {"[安装目录]"},
+    ["ocm"] = {"[命令提示符]", "[Windows Terminal]"},
+    ["odn"] = {"[文件管理器]"},
+    ["oec"] = {"[Excel]"},
+    ["ogj"] = {"[Rime 用户目录]"},
+    ["oht"] = {"[画图]"},
+    ["ojs"] = {"[计算器]"},
+    ["owd"] = {"[Word]"}
   },
   ["Darwin"] = {
-    ["ocm"] = "[终端]",
-    ["odn"] = "[访达]",
-    ["ogj"] = "[Rime 用户目录]",
-    ["ojs"] = "[计算器]"
+    ["ocm"] = {"[终端]"},
+    ["odn"] = {"[访达]"},
+    ["ogj"] = {"[Rime 用户目录]"},
+    ["ojs"] = {"[计算器]"}
   }
 }
 
-local function translator(input, seg)
+local function translator(input, seg, env)
   local sys = common.detect_os()
-  local label = labels[sys][input]
-  if label ~= nil then
-    yield(Candidate("shortcut", seg.start, seg._end, " ", label))
+  local lbls = labels[sys][input]
+  for i, lbl in pairs(lbls) do
+    yield(Candidate("shortcut", seg.start, seg._end, lbl, ""))
   end
 end
 
