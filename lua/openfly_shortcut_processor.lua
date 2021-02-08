@@ -29,6 +29,7 @@ local command = {
 local function processor(key, env)
   local context = env.engine.context
   local sys = common.detect_os()
+  if key:release() or key:alt() then return common.kNoop end
   local index = common.select_index(env, key) + 1
   if index <= 0 then return common.kNoop end
   local cmd = command[sys][context.input][index]
