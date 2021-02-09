@@ -124,7 +124,7 @@ $ bash rime-install amorphobia/openfly@<tag>
 
 原版小鹤音形基于多多输入法，可以使用命令生成特殊的候选，选择之后并非上屏词语，而是展开新的输入。比如输入 ofb, 显示的候选是「d(标点)、，。」，但选择之后输入码变成了 ofbd, 候选也变成了相应的。
 
-从 [5e5af69](https://github.com/amorphobia/openfly/commit/5e5af6944285efcda2296bd09bebe7f661674608) 起，本配方使用 lua 脚本实现了这个功能。
+从 [626d100](https://github.com/amorphobia/openfly/commit/626d100fe941a472f4f49e841ce116f62ac9b574) 起，本配方使用 lua 脚本实现了这个功能。
 
 ### 候选格式
 
