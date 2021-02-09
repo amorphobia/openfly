@@ -83,11 +83,9 @@ $ bash rime-install amorphobia/openfly@<tag>
 
 [官方版 Rime 挂载配方](http://flypy.ys168.com/)已通过 `lua_translator` 实现时间和日期的输入，本配方稍作修改，使其与官方安装版输出一致。
 
-四个小鹤的网址放在 openfly.web.dict.yaml 里，与官方安装版不同的是，网址是作为上屏词组输出，而非直接运行浏览器打开。
+四个小鹤的网址放在 `openfly.web.dict.yaml` 里，与官方安装版不同的是，网址是作为上屏词组输出，而非直接运行浏览器打开。
 
-直通车中打开外部程序的命令通过 `lua_processor` 实现。<del>由于 [librime-lua 只支持 `SimpleCandidate`](https://github.com/hchunhui/librime-lua/issues/11#issuecomment-504748077)，暂时无法实现原版小鹤音形中显示为候选项、再选择候选项运行命令，只能在输入编码后直接运行命令。</del>已通过 `openfly_shortcut_translator` 和 `openfly_shortcut_processor` 搭配实现。由于 [Lua 中 `os.execute` 的限制](https://stackoverflow.com/a/6365296/6676742)，在 Windows 中运行命令时会闪现一个命令提示符窗口。
-
-在 macOS 中输入编码之后需要再按任意一个键才能运行命令，暂不知道原因。（推荐按下 <kbd>Shift</kbd>）
+直通车中打开外部程序的命令通过 `lua_processor` 实现。由于 [Lua 中 `os.execute` 的限制](https://stackoverflow.com/a/6365296/6676742)，在 Windows 中运行命令时会闪现一个命令提示符窗口。
 
 已实现的快捷指令（括号内标注已实现平台）：
 
@@ -122,7 +120,7 @@ $ bash rime-install amorphobia/openfly@<tag>
 
 ## 候选展开
 
-原版小鹤音形基于多多输入法，可以使用命令生成特殊的候选，选择之后并非上屏词语，而是展开新的输入。比如输入 ofb, 显示的候选是「d(标点)、，。」，但选择之后输入码变成了 ofbd, 候选也变成了相应的。
+原版小鹤音形基于多多输入法，可以使用命令生成特殊的候选，选择之后并非上屏词语，而是展开新的输入。比如输入 `ofb`, 显示的候选是「d(标点)、，。」，但选择之后输入码变成了 `ofbd`, 候选也变成了相应的。
 
 从 [626d100](https://github.com/amorphobia/openfly/commit/626d100fe941a472f4f49e841ce116f62ac9b574) 起，本配方使用 lua 脚本实现了这个功能。
 
