@@ -91,14 +91,14 @@ $ bash rime-install amorphobia/openfly@<tag>
 
 已实现的快捷指令（括号内标注已实现平台）：
 
-- `oav` 打开 Rime 安装目录 (Windows)
+- `oav` 打开 Rime 程序目录 (Windows/macOS)
 - `ocm` 打开命令提示符或终端 (Windows/macOS)
 - `odn` 文件管理器 (Windows/macOS)
-- `oec` Excel (Windows)
+- `oec` Excel (Windows/macOS)
 - `ogj` 高级设置，即打开 Rime 用户目录 (Windows/macOS)
 - `oht` 画图软件 (Windows)
 - `ojs` 计算器 (Windows/macOS)
-- `owd` Word (Windows)
+- `owd` Word (Windows/macOS)
 
 ## 删词功能
 

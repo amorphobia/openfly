@@ -16,13 +16,16 @@ local command = {
     ["ogj"] = {'start "" "' .. user_path .. '"'},
     ["oht"] = {'start "" "mspaint.exe"'},
     ["ojs"] = {'start "" "calc.exe"'},
-    ["owd"] = {'start "" "winword.exe"'}
+    ["owd"] = {'start "" "winword.exe"'},
   },
   ["Darwin"] = {
+    ["oav"] = {'open "' .. install_path .. '"'},
     ["ocm"] = {'open -a Terminal.app'},
     ["odn"] = {'open -a Finder.app'},
-    ["ogj"] = {'open ~/Library/Rime'},
-    ["ojs"] = {'open -a Calculator.app'}
+    ["oec"] = {'open -a "Microsoft Excel.app"'},
+    ["ogj"] = {'open "' .. user_path .. '"'},
+    ["ojs"] = {'open -a Calculator.app'},
+    ["owd"] = {'open -a "Microsoft Word.app"'},
   }
 }
 
