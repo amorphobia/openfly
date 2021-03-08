@@ -1,5 +1,15 @@
-local function filter(input)
-  for cand in input:iter() do
+local function filter(input, env)
+  local is_short = string.len(env.engine.context.input) < 3
+  local yielded_count = 0
+  local disable_2nd = false
+  if is_short then
+    disable_2nd = not env.engine.context:get_option("openfly_enable_2nd_short")
+  end
+  -- http://lua-users.org/lists/lua-l/2006-12/msg00440.html
+  -- In `repeat ... until true` use `break` to continue
+  -- Use `_break = true break` to break normally
+  for cand in input:iter() do local _break = false repeat
+    if is_short and disable_2nd and yielded_count > 0 and cand.type ~= "completion" then break end
     local delimiter = string.find(cand.text, "`[^`]*$")
     if (delimiter == nil) then
       yield(cand)
@@ -17,7 +27,8 @@ local function filter(input)
         end
       end
     end
-  end
+    yielded_count = yielded_count + 1
+  until true if _break then break end end
 end
 
 return filter

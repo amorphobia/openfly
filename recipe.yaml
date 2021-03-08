@@ -8,3 +8,9 @@ recipe:
 install_files: >-
   openfly*.yaml
   lua/openfly*.lua
+
+patch_files:
+  default.custom.yaml:
+    - patch/+:
+        "switcher/save_options/+":
+          - "openfly_enable_2nd_short"

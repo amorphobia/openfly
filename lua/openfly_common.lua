@@ -65,6 +65,17 @@ local function select_index(env, key)
   return index
 end
 
+local function apply_switch(env, keyword, target_state)
+  local switcher = env.switcher
+  if switcher == nil then return end
+  local ctx = env.engine.context
+  local user_config = switcher.user_config
+  ctx:set_option(keyword, target_state)
+  if switcher:is_auto_save(keyword) and user_config ~= nil then
+    user_config:set_bool("var/option/" .. keyword, target_state)
+  end
+end
+
 return {
   detect_os = detect_os,
   status = status,
@@ -75,7 +86,8 @@ return {
     get_string = get_option_string
   },
   select_index = select_index,
+  apply_switch = apply_switch,
   kRejected = 0,
   kAccepted = 1,
-  kNoop = 2
+  kNoop = 2,
 }
