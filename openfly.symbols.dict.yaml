@@ -6,7 +6,7 @@
 
 ---
 name: openfly.symbols
-version: "v9.9l"
+version: "v9.9m"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -25,7 +25,7 @@ use_preset_vocabulary: false
 丶	obd	100
 冫	obd	99
 氵	obd	98
-	obd	97
+⺈	obd	97
 刂	obd	96
 阝	obe	100
 卩	obe	99
@@ -34,7 +34,7 @@ use_preset_vocabulary: false
 见下部	obe	96
 扌	obf	100
 寿带上部	obf	99
-	obf	98
+龶	obf	98
 缶	obf	97
 既左部	obg	100
 艮	obg	99
@@ -50,7 +50,7 @@ use_preset_vocabulary: false
 虫	obi	98
 钅	obj	100
 金	obj	99
-	obj	98
+龹	obj	98
 匚	obk	100
 冂	obk	99
 凵	obk	98
@@ -62,7 +62,7 @@ use_preset_vocabulary: false
 龙	obl	97
 朩	obm
 乀	obn	100
-	obn	99
+⺧	obn	99
 牜	obn	98
 日	obo	100
 月	obo	99
@@ -76,16 +76,16 @@ use_preset_vocabulary: false
 亻	obr
 纟	obs	100
 厶	obs	99
-	obs	98
+龴	obs	98
 罒	obs	97
 田	obt
 饣	obu	100
-	obu	99
-	obu	98
+龵	obu	99
+𠂇	obu	98
 氺	obu	97
 石	obu	96
 乛	obv	100
-	obv	99
+⺮	obv	99
 豸	obv	98
 亠	obw	100
 夂	obw	99
@@ -94,14 +94,14 @@ use_preset_vocabulary: false
 忄	obx	100
 乂	obx	99
 ⺍	obx	98
-	obx	97
-	obx	96
+⺌	obx	97
+⺗	obx	96
 讠	oby	100
-	oby	99
-	oby	98
+⺷	oby	99
+⺶	oby	98
 𧘇	oby	97
 羊	oby	96
-	obz	100
+⻊	obz	100
 廴	obz	99
 辶	obz	98
 ”	oc

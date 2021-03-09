@@ -6,7 +6,7 @@
 
 ---
 name: openfly.off-table
-version: "v9.9l"
+version: "v9.9m"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -54,6 +54,7 @@ use_preset_vocabulary: false
 唓	iek
 唓	ieki
 䌷	izsy
+囝	jmkz
 筊	jnvx
 囧	jsk
 囧	jskv
@@ -82,7 +83,6 @@ use_preset_vocabulary: false
 嫐	ncn
 嫐	ncnn
 氼	niur
-囝	njkz
 孃	nlny
 鲶	nmax
 撚	nmfh
