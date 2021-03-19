@@ -4,7 +4,7 @@
 
 ---
 name: openfly
-version: "v9.9l"
+version: "v9.9m"
 
 import_tables:
   - 'openfly.user.top'

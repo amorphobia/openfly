@@ -6,7 +6,7 @@
 
 ---
 name: openfly.secondary.char
-version: "v9.9l"
+version: "v9.9m"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -65,6 +65,7 @@ use_preset_vocabulary: false
 不解之谜	bjvm
 不绝于耳	bjye
 不拘一格	bjyg
+不经意间	bjyj
 并肩作战	bjzv
 不可避免	bkbm
 闭口不言	bkby
@@ -91,6 +92,7 @@ use_preset_vocabulary: false
 煸	bmh
 辨	bml
 八面玲珑	bmll
+不明所以	bmsy
 贬值	bmvi
 拔苗助长	bmvv
 兵马未动	bmwd
@@ -100,6 +102,7 @@ use_preset_vocabulary: false
 闭门造车	bmzi
 百年大计	bndj
 博彩	bocd
+拨付	bofu
 搏击	boji
 剥离	boli
 波兰	bolj
@@ -116,6 +119,7 @@ use_preset_vocabulary: false
 补位	buww
 补习	buxi
 不是冤家不聚头	buyt
+捕鱼	buyu
 不畏艰难	bwjn
 百无聊赖	bwll
 不问青红皂白	bwqb
@@ -124,16 +128,20 @@ use_preset_vocabulary: false
 百无一用	bwyy
 百味杂陈	bwzi
 巴西利亚	bxly
+百依百顺	bybu
 比翼齐飞	byqf
 璀璨夺目	ccdm
 惨淡经营	cdjy
+刺客	cike
 词频	cipb
 赐予	ciyu
 错失	coui
 从前	cq
 璀璨	cvcj
+大错	daco
 大涨	davh
 大侠	daxx
+打赢	dayk
 打草惊蛇	dcju
 多此一举	dcyj
 达到	dd
@@ -151,6 +159,7 @@ use_preset_vocabulary: false
 多多益善	ddyu
 颠倒阴阳	ddyy
 达官贵人	dggr
+蹬踏	dgta
 电光石火	dguh
 打火机	dhj
 大汗淋漓	dhll
@@ -159,6 +168,7 @@ use_preset_vocabulary: false
 地步	dibu
 滴答	dida
 大吃大喝	didh
+大吵大闹	didn
 低端	didr
 嫡亲	diqb
 洞察秋毫	diqh
@@ -184,6 +194,7 @@ use_preset_vocabulary: false
 垫付	dmfu
 簟	dmv
 电脑	dn
+调令	dnlk
 冬暖夏凉	dnxl
 夺命	domk
 洞房	dsfh
@@ -198,11 +209,14 @@ use_preset_vocabulary: false
 大书特书	dutu
 滴水之恩	duve
 东施效颦	duxp
+洞烛其奸	dvqj
 地主之谊	dvvy
 斗转星移	dvxy
 单引号	dyh
 俄语	eeyu
 恩恩怨怨	eeyy
+发愣	falg
+发令	falk
 法语	fayu
 分别	fb
 愤愤不平	ffbp
@@ -240,6 +254,7 @@ use_preset_vocabulary: false
 分身乏术	fufu
 抚	fufw
 蜉	fui
+俯首称臣	fuii
 蝠	fuit
 赙	fukc
 妇女	funv
@@ -270,6 +285,7 @@ use_preset_vocabulary: false
 规规矩矩	ggjj
 高歌猛进	ggmj
 呱呱坠地	ggvd
+功高震主	ggvv
 鬼话连篇	ghlp
 感觉	gj
 高居榜首	gjbu
@@ -332,6 +348,7 @@ use_preset_vocabulary: false
 恨不相逢未嫁时	hbxu
 濠	hcd
 耗电	hcdm
+皇帝不急太监急	hdbj
 患得患失	hdhu
 华灯初上	hdiu
 寒冬腊月	hdly
@@ -372,6 +389,7 @@ use_preset_vocabulary: false
 奂	hrd
 恍如隔世	hrgu
 缓解	hrjp
+恍若未闻	hrww
 浩如烟海	hryh
 泓	hsd
 好事不出门	hubm
@@ -388,6 +406,7 @@ use_preset_vocabulary: false
 护士	huui
 含沙射影	huuy
 会者不难	hvbn
+回改	hvgd
 烩	hvh
 货真价实	hvju
 哗众取宠	hvqi
@@ -397,6 +416,7 @@ use_preset_vocabulary: false
 呼之欲出	hvy
 话中有话	hvyh
 回忆	hvyi
+花无百日红	hwbh
 毫无用处	hwyi
 毫无怨言	hwyy
 横行霸道	hxbd
@@ -407,6 +427,8 @@ use_preset_vocabulary: false
 混淆是非	hxuf
 滑翔	hxxl
 忽隐忽现	hyhx
+慧眼如炬	hyrj
+婚俗	hysu
 慧眼识珠	hyuv
 红颜知己	hyvj
 好逸恶劳	hywl
@@ -436,6 +458,7 @@ use_preset_vocabulary: false
 春花秋月	ihqy
 常识	ihui
 怅	ihx
+超乎寻常	ihxi
 尝鲜	ihxm
 尝尝	ii
 彻彻底底	iidd
@@ -453,11 +476,13 @@ use_preset_vocabulary: false
 处事不惊	iubj
 长盛不衰	iubu
 出动	iuds
+处罚	iufa
 蜍	iui
 成双成对	iuid
 出糗	iuqq
 畜生	iuug
 乘胜追击	iuvj
+除夕	iuxi
 重拾信心	iuxx
 察言观色	iygs
 姹紫嫣红	izyh
@@ -516,7 +541,6 @@ use_preset_vocabulary: false
 觊觎	jiyu
 渐渐	jj
 加减乘除	jjii
-荆	jkc
 警官	jkgr
 竞技	jkji
 靖	jkl
@@ -548,6 +572,7 @@ use_preset_vocabulary: false
 槛	jmm
 僭	jmr
 贱人	jmrf
+肩上	jmuh
 监视	jmui
 艰辛	jmxb
 奸细	jmxi
@@ -555,6 +580,7 @@ use_preset_vocabulary: false
 监狱	jmyu
 加拿大	jnd
 教诲	jnhv
+较劲	jnjb
 焦急	jnji
 矫健	jnjm
 交界	jnjp
@@ -566,9 +592,11 @@ use_preset_vocabulary: false
 叫嚣	jnxn
 醮	jny
 几内亚	jnya
+解毒	jpdu
 解除	jpiu
 解禁	jpjb
 洁净	jpjk
+节俭	jpjm
 阶梯	jpti
 结实	jpui
 柬埔寨	jpv
@@ -618,7 +646,6 @@ use_preset_vocabulary: false
 假惺惺	jxxk
 假象	jxxl
 甲乙	jxyi
-进一步	jyb
 郡主	jyvu
 军衔	jyxm
 锦衣夜行	jyyx
@@ -651,6 +678,7 @@ use_preset_vocabulary: false
 老花	lchx
 郎才女貌	lcnm
 落地生根	ldug
+来世	ldui
 利国利民	lglm
 锣鼓喧天	lgxt
 论功行赏	lgxu
@@ -680,6 +708,7 @@ use_preset_vocabulary: false
 浪迹江湖	ljjh
 泠	lkd
 囹	lkk
+领衔	lkxm
 羚	lky
 来历不明	llbm
 恋恋不舍	llbu
@@ -692,6 +721,7 @@ use_preset_vocabulary: false
 来龙去脉	llqm
 冷冷清清	llqq
 啰啰嗦嗦	llss
+沦落至此	llvc
 利令智昏	llvh
 寥寥无几	llwj
 碌碌无为	llww
@@ -705,11 +735,13 @@ use_preset_vocabulary: false
 骝	lqm
 两全其美	lqqm
 留宿	lqsu
+流逝	lqui
 流血	lqxt
 利人不利己	lrbj
 令人齿冷	lril
 理所当然	lsdr
 牢骚满腹	lsmf
+掠过	ltgo
 路途遥远	ltyy
 乐善好施	luhu
 绿水青山	luqu
@@ -782,8 +814,8 @@ use_preset_vocabulary: false
 鸟尽弓藏	njgc
 南海	njhd
 难堪	njkj
-哪能不湿鞋	nnbx
 扭扭捏捏	nnnn
+能省则省	nuzu
 能征惯战	nvgv
 能者为师	nvwu
 匏	pcd
@@ -791,7 +823,6 @@ use_preset_vocabulary: false
 屁颠屁颠	pdpd
 普度众生	pdvu
 披肝沥胆	pgld
-否	pibk
 疲乏	pifa
 排除异己	piyj
 叛逃	pjtc
@@ -892,6 +923,7 @@ use_preset_vocabulary: false
 七手八脚	qubj
 秋收冬藏	qudc
 亲上加亲	qujq
+强身健体	qujt
 前世今生	quju
 青山绿水	qulu
 巧舌如簧	qurh
@@ -923,6 +955,7 @@ use_preset_vocabulary: false
 搜索	ss
 松紧	ssjb
 松树	ssuu
+素菜	sucd
 觫	sud
 丧失殆尽	sudj
 似水流年	suln
@@ -940,6 +973,7 @@ use_preset_vocabulary: false
 推荐	tj
 条件反射	tjfu
 囤积居奇	tjjq
+弹琴	tjqb
 偷奸耍滑	tjuh
 恬淡	tmdj
 填空	tmks
@@ -968,6 +1002,7 @@ use_preset_vocabulary: false
 舍不得孩子套不住狼	ubdl
 事必躬亲	ubgq
 胜败乃兵家常事	ubnu
+鼠肚鸡肠	udji
 厍	uei
 射程	ueig
 设想	uexl
@@ -975,6 +1010,7 @@ use_preset_vocabulary: false
 尚方宝剑	ufbj
 神采	ufcd
 是非功过	ufgg
+伸出	ufiu
 杀富济贫	ufjp
 说服力	ufl
 神情	ufqk
@@ -988,6 +1024,7 @@ use_preset_vocabulary: false
 省长	ugvh
 尸骨未寒	ugwh
 生性	ugxk
+圣贤	ugxm
 上个月	ugy
 声誉	ugyu
 伤害	uh
@@ -1002,6 +1039,7 @@ use_preset_vocabulary: false
 商务	uhwu
 裳	uhx
 上限	uhxm
+伤员	uhyr
 说长道短	uidd
 石沉大海	uidh
 师范	uifj
@@ -1050,6 +1088,8 @@ use_preset_vocabulary: false
 摄氏度	uud
 世世代代	uudd
 世事洞明	uudm
+审时度势	uudu
+输过	uugo
 水深火热	uuhr
 书籍	uuji
 姗姗来迟	uuli
@@ -1068,6 +1108,7 @@ use_preset_vocabulary: false
 熟视无睹	uuwd
 上上下下	uuxx
 稍胜一筹	uuyi
+时势造英雄	uuzx
 胜之不武	uvbw
 身正不怕影子斜	uvbx
 失之东隅	uvdy
@@ -1123,10 +1164,10 @@ use_preset_vocabulary: false
 这个月	vgy
 正义	vgyi
 只会	vh
+追悔莫及	vhmj
 支持	vi
 致辞	vici
 汁	vid
-铸成大错	vidc
 执	vif
 挚	vifu
 指挥	vihv
@@ -1176,6 +1217,8 @@ use_preset_vocabulary: false
 终身大事	vudu
 嘱咐	vufu
 主观	vugr
+著称	vuig
+主见	vujm
 著书立说	vulu
 株	vum
 著名	vumk
@@ -1208,6 +1251,7 @@ use_preset_vocabulary: false
 外星	wdxk
 闻道有先后	wdyh
 威风扫地	wfsd
+无法忘怀	wfwh
 网管	whgr
 为虎作伥	whzi
 万劫不复	wjb
@@ -1248,6 +1292,7 @@ use_preset_vocabulary: false
 葳	wwc
 嵬	wweg
 无外乎	wwh
+物我两忘	wwlw
 卫冕	wwmm
 歪歪扭扭	wwnn
 围棋	wwqi
@@ -1272,7 +1317,8 @@ use_preset_vocabulary: false
 行不行	xbx
 虾兵蟹将	xbxj
 新兴	xbxk
-笑道	xd
+心仪	xbyi
+想东想西	xdxx
 相得益彰	xdyv
 修改	xg
 星光灿烂	xgcl
@@ -1306,6 +1352,7 @@ use_preset_vocabulary: false
 血流成河	xlih
 橡胶	xljn
 星罗棋布	xlqb
+镶嵌	xlqm
 血流如注	xlrv
 泄露天机	xltj
 心领神会	xluh
@@ -1378,7 +1425,6 @@ use_preset_vocabulary: false
 小心眼	xxy
 先下一城	xxyi
 香消玉殒	xxyy
-寻衅滋事	xxzu
 咸鱼翻身	xyfu
 西游记	xyj
 匈牙利	xyli
@@ -1438,8 +1484,8 @@ use_preset_vocabulary: false
 痍	yiby
 艾	yicx
 沂	yid
+一代	yidd
 已成定局	yidj
-漪	yidk
 一锤定音	yidy
 依附	yifu
 摇唇鼓舌	yigu
@@ -1450,7 +1496,6 @@ use_preset_vocabulary: false
 一匹	yipi
 仪器	yiqi
 伊	yir
-衣裳	yiuh
 彝	yiv
 奕	yiw
 遗忘	yiwh
@@ -1478,6 +1523,7 @@ use_preset_vocabulary: false
 严苛	yjke
 冤家路窄	yjlv
 檐	yjm
+俨然	yjrj
 延伸	yjuf
 掩饰	yjui
 鄢	yjv
@@ -1495,6 +1541,7 @@ use_preset_vocabulary: false
 咬紧牙关	yjyg
 莹	ykc
 膺	ykg
+赢过	ykgo
 鹦	ykk
 楹	ykm
 影射	ykue
@@ -1619,6 +1666,7 @@ use_preset_vocabulary: false
 犹犹豫豫	yyyy
 邮编	yzbm
 优点	yzdm
+以资鼓励	yzgl
 忧愁	yziz
 右键	yzjm
 有理	yzli
@@ -1630,6 +1678,7 @@ use_preset_vocabulary: false
 优先	yzxm
 游泳	yzys
 犹豫	yzyu
+匝道	zadc
 锃亮	zgll
 渍	zid
 自驾	zijx
@@ -1638,6 +1687,7 @@ use_preset_vocabulary: false
 自助	zivu
 自愿	ziyr
 自成一体	ziyt
+坐实	zoui
 座位	zoww
 总算	zs
 纵观	zsgr

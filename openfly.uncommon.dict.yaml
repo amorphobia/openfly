@@ -6,7 +6,7 @@
 
 ---
 name: openfly.uncommon
-version: "v9.9l"
+version: "v9.9m"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -292,7 +292,6 @@ use_preset_vocabulary: false
 钐	ujj/
 鄯	ujy/
 数	uom/
-澍	uud/
 秫	uuh/
 𬬸	uuj/
 殳	uuj/
@@ -303,7 +302,7 @@ use_preset_vocabulary: false
 霅	vay/
 浈	vfd/
 昣	vfo/
-禛	vfp/
+否	pib/
 瑧	vfw/
 鄣	vhl/
 茋	vic/
@@ -351,7 +350,6 @@ use_preset_vocabulary: false
 琟	www/
 亹	www/
 镡	xbj/
-䜣	xby/
 穸	xib/
 菥	xic/
 葸	xic/

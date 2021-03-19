@@ -6,7 +6,7 @@
 
 ---
 name: openfly.embedded.hint
-version: "v9.9l"
+version: "v9.9m"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -129,7 +129,7 @@ AA制`i	aav
 澳洲`z	aov
 安排安排`p	apa
 安贫乐道`d	apl
-哀其不争`v	aqb
+哀其不幸`x	aqb
 安全第一`y	aqd
 安全感`j	aqg
 爱琴海`i	aqh
@@ -2147,6 +2147,7 @@ Excel`e	exc
 常规`v	ihg
 茶话会`v	ihh
 常见`m	ihj
+常理`l	ihl
 场所`o	ihs
 厂长`h	ihv
 持久`q	iij
@@ -2245,6 +2246,7 @@ Excel`e	exc
 传出`u	iri
 传染`j	irr
 传送`s	irs
+串通`s	irt
 传说`o	iru
 传闻`f	irw
 穿越`t	iry
@@ -2409,6 +2411,7 @@ Excel`e	exc
 紧肤水`v	jfu
 几分钟`s	jfv
 见分晓`n	jfx
+奸夫淫妇`f	jfy
 仅供参考`k	jgc
 揭竿而起`q	jge
 几个方面`m	jgf
@@ -3011,7 +3014,6 @@ Excel`e	exc
 龙门阵`f	lmv
 连夜`e	lmy
 疗程`g	lni
-料理`i	lnl
 老奶奶`d	lnn
 老牛破车`i	lnp
 聊天`m	lnt
@@ -3091,7 +3093,6 @@ Excel`e	exc
 颅内`w	lun
 录取`u	luq
 来之不易`y	lvb
-屡次`i	lvc
 旅馆`r	lvg
 屡屡`v	lvl
 旅途`u	lvt
@@ -3117,6 +3118,7 @@ Excel`e	exc
 拉下去`u	lxq
 旅行团`r	lxt
 两小时`i	lxu
+老想着`e	lxv
 两小无猜`c	lxw
 连续性`k	lxx
 略逊一筹`i	lxy
@@ -3378,7 +3380,6 @@ Excel`e	exc
 木头`z	mut
 母校`n	mux
 模样`h	muy
-母子`i	muz
 明珠暗投`t	mva
 没准儿`r	mve
 明知故问`w	mvg
@@ -3594,7 +3595,6 @@ Excel`e	exc
 年尾`w	nmw
 年月`t	nmy
 脑门子`i	nmz
-尿布`u	nnb
 鸟儿`r	nne
 鸟粪`f	nnf
 尿壶`u	nnh
@@ -3736,7 +3736,6 @@ Excel`e	exc
 哪些问题`t	nxw
 怒形于色`s	nxy
 那小子`i	nxz
-捏一把汗`h	nyb
 哪一点`m	nyd
 年夜饭`j	nyf
 哪一个`e	nyg
@@ -3854,8 +3853,6 @@ Excel`e	exc
 旁听`k	pht
 旁证`g	phv
 破坏性`k	phx
-皮袄`o	pia
-批次`i	pic
 屁股`u	pig
 癖好`c	pih
 批量`l	pil
@@ -3883,7 +3880,6 @@ Excel`e	exc
 评判`j	pkp
 平素`u	pks
 凭证`g	pkv
-平稳`f	pkw
 评选`r	pkx
 瓶子`i	pkz
 赔礼道歉`q	pld
@@ -4194,7 +4190,6 @@ Excel`e	exc
 拳法`a	qrf
 劝告`c	qrg
 权衡`g	qrh
-全年`m	qrn
 全屏`k	qrp
 全球`q	qrq
 圈子`i	qrz
@@ -4428,7 +4423,6 @@ Excel`e	exc
 日久年深`u	rjn
 软键盘`j	rjp
 燃气`i	rjq
-冉冉`j	rjr
 染色`e	rjs
 日久天长`i	rjt
 燃烧`c	rju
@@ -4521,7 +4515,6 @@ Excel`e	exc
 软弱`o	rrr
 热热身`f	rru
 如日中天`t	rrv
-软卧`o	rrw
 柔韧性`k	rrx
 软硬`k	rry
 软座`o	rrz
@@ -4611,7 +4604,6 @@ Excel`e	exc
 揉搓`o	rzc
 柔道`c	rzd
 柔和`e	rzh
-柔肠`h	rzi
 肉鸡`i	rzj
 孺子可教`j	rzk
 蹂躏`b	rzl
@@ -4849,7 +4841,6 @@ Excel`e	exc
 酸痛`s	srt
 酸味`w	srw
 算作`o	srz
-送饭`j	ssf
 送给`w	ssg
 送回`v	ssh
 送出`u	ssi
@@ -4888,7 +4879,6 @@ Excel`e	exc
 虽然`j	svr
 随同`s	svt
 随着`e	svv
-虽无`u	svw
 随心`b	svx
 三五分钟`v	swf
 四五个月`y	swg
@@ -4977,7 +4967,6 @@ Excel`e	exc
 淘汰`d	tct
 逃生`g	tcu
 讨债`d	tcv
-套现`m	tcx
 太笨`f	tdb
 胎儿`r	tde
 太好`c	tdh
@@ -4986,6 +4975,7 @@ Excel`e	exc
 太平`k	tdp
 太热`e	tdr
 太重`s	tdv
+太晚`j	tdw
 太小`n	tdx
 特别`p	teb
 特此`i	tec
@@ -5066,7 +5056,6 @@ Excel`e	exc
 天朗气清`q	tlq
 同龄人`f	tlr
 托拉斯`i	tls
-舔了舔`m	tlt
 脱离实际`j	tlu
 天伦之乐`l	tlv
 徒劳无功`g	tlw
@@ -5097,7 +5086,6 @@ Excel`e	exc
 跳水`v	tnu
 挑选`r	tnx
 拖把`a	tob
-托词`i	toc
 拓荒`l	toh
 脱产`j	toi
 脱离`i	tol
@@ -5140,7 +5128,6 @@ Excel`e	exc
 听其自然`r	tqz
 同日而语`y	tre
 团购`z	trg
-团伙`o	trh
 泰然处之`v	tri
 湍流`q	trl
 甜如蜜`i	trm
@@ -5181,7 +5168,6 @@ Excel`e	exc
 突然`j	tur
 涂色`e	tus
 途中`s	tuv
-图文`f	tuw
 推测`e	tvc
 𬯎`r	tve
 推开`d	tvk
@@ -5317,7 +5303,6 @@ Excel`e	exc
 奢望`h	uew
 十二月`t	uey
 涉足`u	uez
-深奥`o	ufa
 身份`f	uff
 身高`c	ufg
 身份证`g	ufv
@@ -5750,7 +5735,6 @@ Excel`e	exc
 中国`o	vsg
 忠臣`f	vsi
 中肯`f	vsk
-中美`w	vsm
 中年`m	vsn
 中期`i	vsq
 中途`u	vst
@@ -5834,11 +5818,9 @@ Excel`e	exc
 栀子花`x	vzh
 洲际`i	vzj
 周六`q	vzl
-周日`i	vzr
 周天`m	vzt
 周围`w	vzw
 周遭`c	vzz
-挖补`u	wab
 挖坟`f	waf
 瓦罐`r	wag
 挖掘`t	waj
@@ -6157,7 +6139,6 @@ wifi`i	wif
 想不开`d	xbk
 心目`u	xbm
 新闻`f	xbw
-西班牙`a	xby
 下次吧`a	xcb
 雄才大略`l	xcd
 心存感激`j	xcg
@@ -6365,11 +6346,11 @@ wifi`i	wif
 夏威夷`i	xwy
 心无杂念`n	xwz
 下巴`a	xxb
+瑕疵`i	xxc
 谢谢你`i	xxn
 吓跑`c	xxp
 吓死`i	xxs
 夏天`m	xxt
-想象中`s	xxv
 下一个`e	xyg
 寻找`c	xyv
 心脏病`k	xzb
@@ -6392,7 +6373,6 @@ wifi`i	wif
 压缩`o	yas
 亚洲`z	yav
 牙线`m	yax
-阴暗`n	yba
 一部分`f	ybf
 𬙂`b	ybs
 要好`c	ych
@@ -6586,7 +6566,6 @@ wifi`i	wif
 一条路`u	ytl
 月内`w	ytn
 约束`u	ytu
-月中`s	ytv
 圆珠笔`i	yvb
 义正辞严`y	yvc
 眼中钉`k	yvd
@@ -6639,7 +6618,6 @@ wifi`i	wif
 一下子`i	yxz
 业余爱好`h	yya
 优越感`j	yyg
-匀称`f	yyi
 韵母`u	yym
 韵频`b	yyp
 有缘人`f	yyr
@@ -6736,7 +6714,6 @@ wifi`i	wif
 赠品`b	zgp
 增强`l	zgq
 栽跟头`z	zgt
-增收`z	zgu
 增长`h	zgv
 憎恶`u	zgw
 增援`r	zgy
@@ -6756,7 +6733,6 @@ wifi`i	wif
 藏族`u	zhz
 滋味`w	ziw
 暂按`n	zja
-暂不`u	zjb
 暂存`y	zjc
 总觉得`e	zjd
 赞歌`e	zjg
@@ -6888,7 +6864,6 @@ wifi`i	wif
 最长`h	zvi
 最近`b	zvj
 醉了`e	zvl
-最美`w	zvm
 最能`g	zvn
 最怕`a	zvp
 自治区`u	zvq
@@ -6935,7 +6910,6 @@ wifi`i	wif
 尊贵`v	zyg
 自由化`x	zyh
 尊称`g	zyi
-尊敬`k	zyj
 遵令`k	zyl
 怎样呢`e	zyn
 在一起`i	zyq
