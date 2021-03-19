@@ -5,7 +5,7 @@
 
 ---
 name: openfly_reverse
-version: "v9.9l"
+version: "v9.9m"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -227,6 +227,7 @@ use_preset_vocabulary: false
 玤	bhw`
 谤	bhy`
 鲾	bia`
+觱	bia`
 毖	bib`
 皕	bib`
 比	bib`
@@ -239,6 +240,7 @@ use_preset_vocabulary: false
 芘	bic`
 苾	bic`
 薜	bic`
+荜	bic`
 萆	bic`
 蔽	bic`
 荸	bic`
@@ -277,6 +279,7 @@ use_preset_vocabulary: false
 臂	biu`
 贲	biu`
 壁	biu`
+辟	biu`
 襞	biu`
 璧	biu`
 篦	biv`
@@ -1036,6 +1039,7 @@ use_preset_vocabulary: false
 对	dvy`
 怼	dvy`
 得	dwi`
+嘚	dwk`
 嗲	dxk`
 沌	dyd`
 炖	dyh`
@@ -1215,6 +1219,7 @@ use_preset_vocabulary: false
 舫	fhv`
 访	fhy`
 藩	fjc`
+蕃	fjc`
 范	fjc`
 蘩	fjc`
 泛	fjd`
@@ -1273,7 +1278,9 @@ use_preset_vocabulary: false
 艴	fuf`
 拊	fuf`
 拂	fuf`
+麸	fuf`
 扶	fuf`
+抚	fuf`
 敷	fuf`
 府	fug`
 鄜	fug`
@@ -1283,12 +1290,14 @@ use_preset_vocabulary: false
 蚨	fui`
 辅	fui`
 辐	fui`
+蝠	fui`
 蝮	fui`
 蜉	fui`
 𫓧	fuj`
 幞	fuj`
 幅	fuj`
 咐	fuk`
+赙	fuk`
 呋	fuk`
 赋	fuk`
 呒	fuk`
@@ -1315,6 +1324,7 @@ use_preset_vocabulary: false
 傅	fur`
 付	fur`
 俯	fur`
+佛	fur`
 伏	fur`
 俘	fur`
 罘	fus`
@@ -2627,6 +2637,7 @@ use_preset_vocabulary: false
 殛	jid`
 剞	jid`
 瀱	jid`
+汲	jid`
 觭	jid`
 奇	jid`
 济	jid`
@@ -2712,6 +2723,7 @@ use_preset_vocabulary: false
 垍	jit`
 戟	jiu`
 饥	jiu`
+矶	jiu`
 吉	jiu`
 赍	jiu`
 屐	jiu`
@@ -3193,7 +3205,6 @@ use_preset_vocabulary: false
 假	jxr`
 嘉	jxu`
 笳	jxv`
-叚	jxv`
 珈	jxw`
 贾	jxx`
 跏	jxz`
@@ -3624,6 +3635,7 @@ use_preset_vocabulary: false
 厘	lii`
 轹	lii`
 厉	lii`
+蛎	lii`
 锂	lij`
 喱	lik`
 呖	lik`
@@ -3633,6 +3645,7 @@ use_preset_vocabulary: false
 郦	lil`
 鹂	lil`
 粒	lim`
+栎	lim`
 朸	lim`
 枥	lim`
 骊	lim`
@@ -3853,6 +3866,7 @@ use_preset_vocabulary: false
 𫚭	lpa`
 鬣	lpa`
 冽	lpd`
+洌	lpd`
 列	lpd`
 烈	lpd`
 䴕	lpd`
@@ -3999,6 +4013,7 @@ use_preset_vocabulary: false
 吕	lvk`
 驴	lvm`
 榈	lvm`
+闾	lvm`
 梠	lvm`
 𦝼	lvo`
 褛	lvp`
@@ -4128,8 +4143,8 @@ use_preset_vocabulary: false
 贸	mcp`
 毛	mcp`
 猫	mcq`
-蟊	mcs`
 蝥	mcs`
+蟊	mcs`
 瞀	mcs`
 矛	mcs`
 貌	mcv`
@@ -4182,7 +4197,6 @@ use_preset_vocabulary: false
 獴	mgq`
 獴	mgq`
 尨	mgu`
-礞	mgu`
 礞	mgu`
 艋	mgv`
 艨	mgv`
@@ -4267,6 +4281,7 @@ use_preset_vocabulary: false
 铭	mkj`
 鸣	mkk`
 瞑	mko`
+暝	mko`
 明	mko`
 命	mkr`
 名	mkx`
@@ -4276,6 +4291,7 @@ use_preset_vocabulary: false
 丏	mma`
 渑	mmd`
 勉	mmd`
+湎	mmd`
 沔	mmd`
 免	mmd`
 黾	mmk`
@@ -4314,6 +4330,7 @@ use_preset_vocabulary: false
 寞	mob`
 莫	moc`
 蓦	moc`
+茉	moc`
 摹	moc`
 藦	moc`
 蘑	moc`
@@ -4544,6 +4561,7 @@ use_preset_vocabulary: false
 茑	nnc`
 溺	nnd`
 脲	nno`
+鸟	nnp`
 袅	nnp`
 尿	nnu`
 鸟	nnw`
@@ -4726,6 +4744,7 @@ use_preset_vocabulary: false
 丕	pib`
 邳	pib`
 痞	pib`
+否	pib`
 癖	pib`
 疲	pib`
 芘	pic`
@@ -4967,6 +4986,7 @@ use_preset_vocabulary: false
 萋	qic`
 芪	qic`
 淇	qid`
+沏	qid`
 奇	qid`
 泣	qid`
 柒	qid`
@@ -4996,6 +5016,7 @@ use_preset_vocabulary: false
 嘁	qik`
 亟	qil`
 耆	qil`
+骐	qim`
 棋	qim`
 杞	qim`
 桤	qim`
@@ -5120,6 +5141,7 @@ use_preset_vocabulary: false
 钳	qmj`
 钱	qmj`
 铅	qmj`
+钎	qmj`
 钤	qmj`
 杄	qmm`
 犍	qmn`
@@ -5246,6 +5268,7 @@ use_preset_vocabulary: false
 悛	qrx`
 劝	qry`
 诠	qry`
+醛	qry`
 穹	qsb`
 穷	qsb`
 䓖	qsc`
@@ -6224,6 +6247,7 @@ use_preset_vocabulary: false
 使	uir`
 似	uir`
 仕	uir`
+什	uir`
 埘	uit`
 邿	uit`
 螫	uit`
@@ -6612,6 +6636,7 @@ use_preset_vocabulary: false
 鸷	vif`
 指	vif`
 贽	vif`
+挚	vif`
 扺	vif`
 执	vif`
 絷	vif`
@@ -7105,6 +7130,7 @@ use_preset_vocabulary: false
 溦	wwd`
 卫	wwe`
 隗	wwe`
+嵬	wwe`
 巍	wwe`
 崴	wwe`
 隈	wwe`
@@ -7210,6 +7236,7 @@ use_preset_vocabulary: false
 觋	xig`
 席	xig`
 爔	xih`
+烯	xih`
 稀	xih`
 熻	xih`
 熄	xih`
@@ -7460,6 +7487,7 @@ use_preset_vocabulary: false
 蟹	xpd`
 瀣	xpd`
 渫	xpd`
+解	xpd`
 澥	xpd`
 泄	xpd`
 泻	xpd`
@@ -7655,6 +7683,7 @@ use_preset_vocabulary: false
 虾	xxi`
 翈	xxj`
 匣	xxk`
+呷	xxk`
 吓	xxk`
 柙	xxm`
 瞎	xxo`
@@ -7663,6 +7692,7 @@ use_preset_vocabulary: false
 狭	xxq`
 侠	xxr`
 硖	xxu`
+叚	xxv`
 瑕	xxw`
 霞	xxy`
 遐	xxz`
@@ -7862,6 +7892,7 @@ use_preset_vocabulary: false
 疡	yhb`
 痒	yhb`
 泱	yhd`
+殃	yhd`
 洋	yhd`
 漾	yhd`
 阳	yhe`
@@ -7901,16 +7932,19 @@ use_preset_vocabulary: false
 瘗	yib`
 癔	yib`
 疫	yib`
+痍	yib`
 肄	yib`
 𬟁	yic`
 苡	yic`
 艺	yic`
 薏	yic`
+艾	yic`
 荑	yic`
 殪	yid`
 浥	yid`
 潩	yid`
 沂	yid`
+漪	yid`
 溢	yid`
 义	yid`
 洢	yid`
@@ -7947,6 +7981,7 @@ use_preset_vocabulary: false
 医	yik`
 呓	yik`
 噫	yik`
+翳	yik`
 繄	yik`
 咿	yik`
 匜	yik`
@@ -8010,6 +8045,7 @@ use_preset_vocabulary: false
 羿	yix`
 刈	yix`
 怡	yix`
+翌	yix`
 怿	yix`
 忆	yix`
 诒	yiy`
@@ -8028,6 +8064,7 @@ use_preset_vocabulary: false
 滟	yjd`
 演	yjd`
 渰	yjd`
+奄	yjd`
 淹	yjd`
 沇	yjd`
 漹	yjd`
@@ -8041,11 +8078,14 @@ use_preset_vocabulary: false
 剡	yjh`
 烟	yjh`
 炎	yjh`
+焱	yjh`
 扊	yjh`
+焰	yjh`
 虤	yjh`
 甗	yjh`
 烻	yjh`
 雁	yji`
+魇	yji`
 黡	yji`
 衍	yji`
 厣	yji`
@@ -8267,6 +8307,7 @@ use_preset_vocabulary: false
 渔	yud`
 鱼	yud`
 渝	yud`
+淤	yud`
 潏	yud`
 浴	yud`
 淯	yud`
@@ -8878,6 +8919,7 @@ use_preset_vocabulary: false
 玤	bh`f
 谤	bh`f
 鲾	bi`t
+觱	bi`y
 毖	bi`b
 皕	bi`b
 比	bi`b
@@ -8890,6 +8932,7 @@ use_preset_vocabulary: false
 芘	bi`b
 苾	bi`b
 薜	bi`u
+荜	bi`u
 萆	bi`u
 蔽	bi`w
 荸	bi`z
@@ -8928,6 +8971,7 @@ use_preset_vocabulary: false
 臂	bi`o
 贲	bi`r
 壁	bi`t
+辟	bi`u
 襞	bi`y
 璧	bi`y
 篦	bi`b
@@ -9687,6 +9731,7 @@ use_preset_vocabulary: false
 对	dv`c
 怼	dv`x
 得	dw`c
+嘚	dw`c
 嗲	dx`x
 沌	dy`t
 炖	dy`t
@@ -9866,6 +9911,7 @@ use_preset_vocabulary: false
 舫	fh`f
 访	fh`f
 藩	fj`t
+蕃	fj`t
 范	fj`v
 蘩	fj`x
 泛	fj`f
@@ -9924,7 +9970,9 @@ use_preset_vocabulary: false
 艴	fu`b
 拊	fu`c
 拂	fu`f
+麸	fu`f
 扶	fu`f
+抚	fu`w
 敷	fu`w
 府	fu`c
 鄜	fu`e
@@ -9934,12 +9982,14 @@ use_preset_vocabulary: false
 蚨	fu`f
 辅	fu`f
 辐	fu`t
+蝠	fu`t
 蝮	fu`w
 蜉	fu`z
 𫓧	fu`f
 幞	fu`n
 幅	fu`t
 咐	fu`c
+赙	fu`c
 呋	fu`f
 赋	fu`v
 呒	fu`w
@@ -9966,6 +10016,7 @@ use_preset_vocabulary: false
 傅	fu`c
 付	fu`c
 俯	fu`c
+佛	fu`f
 伏	fu`q
 俘	fu`z
 罘	fu`b
@@ -11278,6 +11329,7 @@ use_preset_vocabulary: false
 殛	ji`a
 剞	ji`d
 瀱	ji`d
+汲	ji`j
 觭	ji`k
 奇	ji`k
 济	ji`l
@@ -11363,6 +11415,7 @@ use_preset_vocabulary: false
 垍	ji`z
 戟	ji`g
 饥	ji`j
+矶	ji`j
 吉	ji`k
 赍	ji`r
 屐	ji`y
@@ -11844,7 +11897,6 @@ use_preset_vocabulary: false
 假	jx`y
 嘉	jx`k
 笳	jx`k
-叚	jx`y
 珈	jx`k
 贾	jx`r
 跏	jx`k
@@ -12275,6 +12327,7 @@ use_preset_vocabulary: false
 厘	li`l
 轹	li`l
 厉	li`w
+蛎	li`w
 锂	li`l
 喱	li`l
 呖	li`l
@@ -12284,6 +12337,7 @@ use_preset_vocabulary: false
 郦	li`e
 鹂	li`n
 粒	li`l
+栎	li`l
 朸	li`l
 枥	li`l
 骊	li`l
@@ -12504,6 +12558,7 @@ use_preset_vocabulary: false
 𫚭	lp`v
 鬣	lp`v
 冽	lp`d
+洌	lp`d
 列	lp`d
 烈	lp`h
 䴕	lp`n
@@ -12650,6 +12705,7 @@ use_preset_vocabulary: false
 吕	lv`k
 驴	lv`h
 榈	lv`k
+闾	lv`k
 梠	lv`k
 𦝼	lv`n
 褛	lv`n
@@ -12779,8 +12835,8 @@ use_preset_vocabulary: false
 贸	mc`r
 毛	mc`v
 猫	mc`t
-蟊	mc`i
 蝥	mc`i
+蟊	mc`i
 瞀	mc`o
 矛	mc`p
 貌	mc`e
@@ -12834,7 +12890,6 @@ use_preset_vocabulary: false
 獴	mg`u
 尨	mg`d
 礞	mg`n
-礞	mg`u
 艋	mg`m
 艨	mg`n
 艨	mg`u
@@ -12918,6 +12973,7 @@ use_preset_vocabulary: false
 铭	mk`k
 鸣	mk`n
 瞑	mk`b
+暝	mk`b
 明	mk`o
 命	mk`e
 名	mk`k
@@ -12927,6 +12983,7 @@ use_preset_vocabulary: false
 丏	mm`v
 渑	mm`d
 勉	mm`l
+湎	mm`m
 沔	mm`m
 免	mm`v
 黾	mm`d
@@ -12965,6 +13022,7 @@ use_preset_vocabulary: false
 寞	mo`d
 莫	mo`d
 蓦	mo`m
+茉	mo`m
 摹	mo`u
 藦	mo`u
 蘑	mo`u
@@ -13195,6 +13253,7 @@ use_preset_vocabulary: false
 茑	nn`n
 溺	nn`d
 脲	nn`u
+鸟	nn`a
 袅	nn`y
 尿	nn`u
 鸟	nn`d
@@ -13377,6 +13436,7 @@ use_preset_vocabulary: false
 丕	pi`a
 邳	pi`e
 痞	pi`k
+否	pi`k
 癖	pi`u
 疲	pi`y
 芘	pi`b
@@ -13618,6 +13678,7 @@ use_preset_vocabulary: false
 萋	qi`n
 芪	qi`u
 淇	qi`b
+沏	qi`d
 奇	qi`k
 泣	qi`l
 柒	qi`m
@@ -13647,6 +13708,7 @@ use_preset_vocabulary: false
 嘁	qi`x
 亟	qi`a
 耆	qi`o
+骐	qi`b
 棋	qi`b
 杞	qi`j
 桤	qi`j
@@ -13771,6 +13833,7 @@ use_preset_vocabulary: false
 钳	qm`g
 钱	qm`j
 铅	qm`k
+钎	qm`q
 钤	qm`v
 杄	qm`q
 犍	qm`z
@@ -13897,6 +13960,7 @@ use_preset_vocabulary: false
 悛	qr`w
 劝	qr`l
 诠	qr`w
+醛	qr`w
 穹	qs`g
 穷	qs`l
 䓖	qs`l
@@ -14875,6 +14939,7 @@ use_preset_vocabulary: false
 使	ui`l
 似	ui`r
 仕	ui`u
+什	ui`u
 埘	ui`c
 邿	ui`e
 螫	ui`i
@@ -15263,6 +15328,7 @@ use_preset_vocabulary: false
 鸷	vi`n
 指	vi`o
 贽	vi`r
+挚	vi`u
 扺	vi`u
 执	vi`w
 絷	vi`x
@@ -15756,6 +15822,7 @@ use_preset_vocabulary: false
 溦	ww`w
 卫	ww`a
 隗	ww`g
+嵬	ww`g
 巍	ww`g
 崴	ww`n
 隈	ww`n
@@ -15861,6 +15928,7 @@ use_preset_vocabulary: false
 觋	xi`e
 席	xi`j
 爔	xi`d
+烯	xi`j
 稀	xi`j
 熻	xi`x
 熄	xi`x
@@ -16111,6 +16179,7 @@ use_preset_vocabulary: false
 蟹	xp`i
 瀣	xp`j
 渫	xp`m
+解	xp`n
 澥	xp`n
 泄	xp`u
 泻	xp`y
@@ -16306,6 +16375,7 @@ use_preset_vocabulary: false
 虾	xx`x
 翈	xx`x
 匣	xx`j
+呷	xx`j
 吓	xx`x
 柙	xx`j
 瞎	xx`k
@@ -16314,6 +16384,7 @@ use_preset_vocabulary: false
 狭	xx`j
 侠	xx`j
 硖	xx`j
+叚	xx`y
 瑕	xx`y
 霞	xx`y
 遐	xx`y
@@ -16513,6 +16584,7 @@ use_preset_vocabulary: false
 疡	yh`p
 痒	yh`y
 泱	yh`y
+殃	yh`y
 洋	yh`y
 漾	yh`y
 阳	yh`o
@@ -16552,16 +16624,19 @@ use_preset_vocabulary: false
 瘗	yi`t
 癔	yi`x
 疫	yi`y
+痍	yi`y
 肄	yi`y
 𬟁	yi`n
 苡	yi`r
 艺	yi`v
 薏	yi`x
+艾	yi`x
 荑	yi`y
 殪	yi`a
 浥	yi`b
 潩	yi`b
 沂	yi`j
+漪	yi`k
 溢	yi`m
 义	yi`x
 洢	yi`y
@@ -16598,6 +16673,7 @@ use_preset_vocabulary: false
 医	yi`u
 呓	yi`v
 噫	yi`x
+翳	yi`x
 繄	yi`x
 咿	yi`y
 匜	yi`y
@@ -16661,6 +16737,7 @@ use_preset_vocabulary: false
 羿	yi`c
 刈	yi`d
 怡	yi`k
+翌	yi`l
 怿	yi`l
 忆	yi`v
 诒	yi`k
@@ -16679,6 +16756,7 @@ use_preset_vocabulary: false
 滟	yj`b
 演	yj`b
 渰	yj`c
+奄	yj`d
 淹	yj`d
 沇	yj`e
 漹	yj`h
@@ -16692,11 +16770,14 @@ use_preset_vocabulary: false
 剡	yj`d
 烟	yj`d
 炎	yj`h
+焱	yj`h
 扊	yj`h
+焰	yj`j
 虤	yj`j
 甗	yj`w
 烻	yj`z
 雁	yj`f
+魇	yj`g
 黡	yj`h
 衍	yj`i
 厣	yj`j
@@ -16918,6 +16999,7 @@ use_preset_vocabulary: false
 渔	yu`a
 鱼	yu`a
 渝	yu`d
+淤	yu`d
 潏	yu`k
 浴	yu`k
 淯	yu`o
@@ -17529,6 +17611,7 @@ use_preset_vocabulary: false
 玤	bh``
 谤	bh``
 鲾	bi``
+觱	bi``
 毖	bi``
 皕	bi``
 比	bi``
@@ -17541,6 +17624,7 @@ use_preset_vocabulary: false
 芘	bi``
 苾	bi``
 薜	bi``
+荜	bi``
 萆	bi``
 蔽	bi``
 荸	bi``
@@ -17579,6 +17663,7 @@ use_preset_vocabulary: false
 臂	bi``
 贲	bi``
 壁	bi``
+辟	bi``
 襞	bi``
 璧	bi``
 篦	bi``
@@ -18338,6 +18423,7 @@ use_preset_vocabulary: false
 对	dv``
 怼	dv``
 得	dw``
+嘚	dw``
 嗲	dx``
 沌	dy``
 炖	dy``
@@ -18517,6 +18603,7 @@ use_preset_vocabulary: false
 舫	fh``
 访	fh``
 藩	fj``
+蕃	fj``
 范	fj``
 蘩	fj``
 泛	fj``
@@ -18575,7 +18662,9 @@ use_preset_vocabulary: false
 艴	fu``
 拊	fu``
 拂	fu``
+麸	fu``
 扶	fu``
+抚	fu``
 敷	fu``
 府	fu``
 鄜	fu``
@@ -18585,12 +18674,14 @@ use_preset_vocabulary: false
 蚨	fu``
 辅	fu``
 辐	fu``
+蝠	fu``
 蝮	fu``
 蜉	fu``
 𫓧	fu``
 幞	fu``
 幅	fu``
 咐	fu``
+赙	fu``
 呋	fu``
 赋	fu``
 呒	fu``
@@ -18617,6 +18708,7 @@ use_preset_vocabulary: false
 傅	fu``
 付	fu``
 俯	fu``
+佛	fu``
 伏	fu``
 俘	fu``
 罘	fu``
@@ -19929,6 +20021,7 @@ use_preset_vocabulary: false
 殛	ji``
 剞	ji``
 瀱	ji``
+汲	ji``
 觭	ji``
 奇	ji``
 济	ji``
@@ -20014,6 +20107,7 @@ use_preset_vocabulary: false
 垍	ji``
 戟	ji``
 饥	ji``
+矶	ji``
 吉	ji``
 赍	ji``
 屐	ji``
@@ -20495,7 +20589,6 @@ use_preset_vocabulary: false
 假	jx``
 嘉	jx``
 笳	jx``
-叚	jx``
 珈	jx``
 贾	jx``
 跏	jx``
@@ -20926,6 +21019,7 @@ use_preset_vocabulary: false
 厘	li``
 轹	li``
 厉	li``
+蛎	li``
 锂	li``
 喱	li``
 呖	li``
@@ -20935,6 +21029,7 @@ use_preset_vocabulary: false
 郦	li``
 鹂	li``
 粒	li``
+栎	li``
 朸	li``
 枥	li``
 骊	li``
@@ -21155,6 +21250,7 @@ use_preset_vocabulary: false
 𫚭	lp``
 鬣	lp``
 冽	lp``
+洌	lp``
 列	lp``
 烈	lp``
 䴕	lp``
@@ -21301,6 +21397,7 @@ use_preset_vocabulary: false
 吕	lv``
 驴	lv``
 榈	lv``
+闾	lv``
 梠	lv``
 𦝼	lv``
 褛	lv``
@@ -21430,8 +21527,8 @@ use_preset_vocabulary: false
 贸	mc``
 毛	mc``
 猫	mc``
-蟊	mc``
 蝥	mc``
+蟊	mc``
 瞀	mc``
 矛	mc``
 貌	mc``
@@ -21484,7 +21581,6 @@ use_preset_vocabulary: false
 獴	mg``
 獴	mg``
 尨	mg``
-礞	mg``
 礞	mg``
 艋	mg``
 艨	mg``
@@ -21569,6 +21665,7 @@ use_preset_vocabulary: false
 铭	mk``
 鸣	mk``
 瞑	mk``
+暝	mk``
 明	mk``
 命	mk``
 名	mk``
@@ -21578,6 +21675,7 @@ use_preset_vocabulary: false
 丏	mm``
 渑	mm``
 勉	mm``
+湎	mm``
 沔	mm``
 免	mm``
 黾	mm``
@@ -21616,6 +21714,7 @@ use_preset_vocabulary: false
 寞	mo``
 莫	mo``
 蓦	mo``
+茉	mo``
 摹	mo``
 藦	mo``
 蘑	mo``
@@ -21846,6 +21945,7 @@ use_preset_vocabulary: false
 茑	nn``
 溺	nn``
 脲	nn``
+鸟	nn``
 袅	nn``
 尿	nn``
 鸟	nn``
@@ -22028,6 +22128,7 @@ use_preset_vocabulary: false
 丕	pi``
 邳	pi``
 痞	pi``
+否	pi``
 癖	pi``
 疲	pi``
 芘	pi``
@@ -22269,6 +22370,7 @@ use_preset_vocabulary: false
 萋	qi``
 芪	qi``
 淇	qi``
+沏	qi``
 奇	qi``
 泣	qi``
 柒	qi``
@@ -22298,6 +22400,7 @@ use_preset_vocabulary: false
 嘁	qi``
 亟	qi``
 耆	qi``
+骐	qi``
 棋	qi``
 杞	qi``
 桤	qi``
@@ -22422,6 +22525,7 @@ use_preset_vocabulary: false
 钳	qm``
 钱	qm``
 铅	qm``
+钎	qm``
 钤	qm``
 杄	qm``
 犍	qm``
@@ -22548,6 +22652,7 @@ use_preset_vocabulary: false
 悛	qr``
 劝	qr``
 诠	qr``
+醛	qr``
 穹	qs``
 穷	qs``
 䓖	qs``
@@ -23526,6 +23631,7 @@ use_preset_vocabulary: false
 使	ui``
 似	ui``
 仕	ui``
+什	ui``
 埘	ui``
 邿	ui``
 螫	ui``
@@ -23914,6 +24020,7 @@ use_preset_vocabulary: false
 鸷	vi``
 指	vi``
 贽	vi``
+挚	vi``
 扺	vi``
 执	vi``
 絷	vi``
@@ -24407,6 +24514,7 @@ use_preset_vocabulary: false
 溦	ww``
 卫	ww``
 隗	ww``
+嵬	ww``
 巍	ww``
 崴	ww``
 隈	ww``
@@ -24512,6 +24620,7 @@ use_preset_vocabulary: false
 觋	xi``
 席	xi``
 爔	xi``
+烯	xi``
 稀	xi``
 熻	xi``
 熄	xi``
@@ -24762,6 +24871,7 @@ use_preset_vocabulary: false
 蟹	xp``
 瀣	xp``
 渫	xp``
+解	xp``
 澥	xp``
 泄	xp``
 泻	xp``
@@ -24957,6 +25067,7 @@ use_preset_vocabulary: false
 虾	xx``
 翈	xx``
 匣	xx``
+呷	xx``
 吓	xx``
 柙	xx``
 瞎	xx``
@@ -24965,6 +25076,7 @@ use_preset_vocabulary: false
 狭	xx``
 侠	xx``
 硖	xx``
+叚	xx``
 瑕	xx``
 霞	xx``
 遐	xx``
@@ -25164,6 +25276,7 @@ use_preset_vocabulary: false
 疡	yh``
 痒	yh``
 泱	yh``
+殃	yh``
 洋	yh``
 漾	yh``
 阳	yh``
@@ -25203,16 +25316,19 @@ use_preset_vocabulary: false
 瘗	yi``
 癔	yi``
 疫	yi``
+痍	yi``
 肄	yi``
 𬟁	yi``
 苡	yi``
 艺	yi``
 薏	yi``
+艾	yi``
 荑	yi``
 殪	yi``
 浥	yi``
 潩	yi``
 沂	yi``
+漪	yi``
 溢	yi``
 义	yi``
 洢	yi``
@@ -25249,6 +25365,7 @@ use_preset_vocabulary: false
 医	yi``
 呓	yi``
 噫	yi``
+翳	yi``
 繄	yi``
 咿	yi``
 匜	yi``
@@ -25312,6 +25429,7 @@ use_preset_vocabulary: false
 羿	yi``
 刈	yi``
 怡	yi``
+翌	yi``
 怿	yi``
 忆	yi``
 诒	yi``
@@ -25330,6 +25448,7 @@ use_preset_vocabulary: false
 滟	yj``
 演	yj``
 渰	yj``
+奄	yj``
 淹	yj``
 沇	yj``
 漹	yj``
@@ -25343,11 +25462,14 @@ use_preset_vocabulary: false
 剡	yj``
 烟	yj``
 炎	yj``
+焱	yj``
 扊	yj``
+焰	yj``
 虤	yj``
 甗	yj``
 烻	yj``
 雁	yj``
+魇	yj``
 黡	yj``
 衍	yj``
 厣	yj``
@@ -25569,6 +25691,7 @@ use_preset_vocabulary: false
 渔	yu``
 鱼	yu``
 渝	yu``
+淤	yu``
 潏	yu``
 浴	yu``
 淯	yu``
@@ -26180,6 +26303,7 @@ use_preset_vocabulary: false
 玤	b`wf
 谤	b`yf
 鲾	b`at
+觱	b`ay
 毖	b`bb
 皕	b`bb
 比	b`bb
@@ -26192,6 +26316,7 @@ use_preset_vocabulary: false
 芘	b`cb
 苾	b`cb
 薜	b`cu
+荜	b`cu
 萆	b`cu
 蔽	b`cw
 荸	b`cz
@@ -26230,6 +26355,7 @@ use_preset_vocabulary: false
 臂	b`uo
 贲	b`ur
 壁	b`ut
+辟	b`uu
 襞	b`uy
 璧	b`uy
 篦	b`vb
@@ -26989,6 +27115,7 @@ use_preset_vocabulary: false
 对	d`yc
 怼	d`yx
 得	d`ic
+嘚	d`kc
 嗲	d`kx
 沌	d`dt
 炖	d`ht
@@ -27168,6 +27295,7 @@ use_preset_vocabulary: false
 舫	f`vf
 访	f`yf
 藩	f`ct
+蕃	f`ct
 范	f`cv
 蘩	f`cx
 泛	f`df
@@ -27226,7 +27354,9 @@ use_preset_vocabulary: false
 艴	f`fb
 拊	f`fc
 拂	f`ff
+麸	f`ff
 扶	f`ff
+抚	f`fw
 敷	f`fw
 府	f`gc
 鄜	f`ge
@@ -27236,12 +27366,14 @@ use_preset_vocabulary: false
 蚨	f`if
 辅	f`if
 辐	f`it
+蝠	f`it
 蝮	f`iw
 蜉	f`iz
 𫓧	f`jf
 幞	f`jn
 幅	f`jt
 咐	f`kc
+赙	f`kc
 呋	f`kf
 赋	f`kv
 呒	f`kw
@@ -27268,6 +27400,7 @@ use_preset_vocabulary: false
 傅	f`rc
 付	f`rc
 俯	f`rc
+佛	f`rf
 伏	f`rq
 俘	f`rz
 罘	f`sb
@@ -28580,6 +28713,7 @@ use_preset_vocabulary: false
 殛	j`da
 剞	j`dd
 瀱	j`dd
+汲	j`dj
 觭	j`dk
 奇	j`dk
 济	j`dl
@@ -28665,6 +28799,7 @@ use_preset_vocabulary: false
 垍	j`tz
 戟	j`ug
 饥	j`uj
+矶	j`uj
 吉	j`uk
 赍	j`ur
 屐	j`uy
@@ -29146,7 +29281,6 @@ use_preset_vocabulary: false
 假	j`ry
 嘉	j`uk
 笳	j`vk
-叚	j`vy
 珈	j`wk
 贾	j`xr
 跏	j`zk
@@ -29577,6 +29711,7 @@ use_preset_vocabulary: false
 厘	l`il
 轹	l`il
 厉	l`iw
+蛎	l`iw
 锂	l`jl
 喱	l`kl
 呖	l`kl
@@ -29586,6 +29721,7 @@ use_preset_vocabulary: false
 郦	l`le
 鹂	l`ln
 粒	l`ml
+栎	l`ml
 朸	l`ml
 枥	l`ml
 骊	l`ml
@@ -29806,6 +29942,7 @@ use_preset_vocabulary: false
 𫚭	l`av
 鬣	l`av
 冽	l`dd
+洌	l`dd
 列	l`dd
 烈	l`dh
 䴕	l`dn
@@ -29952,6 +30089,7 @@ use_preset_vocabulary: false
 吕	l`kk
 驴	l`mh
 榈	l`mk
+闾	l`mk
 梠	l`mk
 𦝼	l`on
 褛	l`pn
@@ -30081,8 +30219,8 @@ use_preset_vocabulary: false
 贸	m`pr
 毛	m`pv
 猫	m`qt
-蟊	m`si
 蝥	m`si
+蟊	m`si
 瞀	m`so
 矛	m`sp
 貌	m`ve
@@ -30136,7 +30274,6 @@ use_preset_vocabulary: false
 獴	m`qu
 尨	m`ud
 礞	m`un
-礞	m`uu
 艋	m`vm
 艨	m`vn
 艨	m`vu
@@ -30220,6 +30357,7 @@ use_preset_vocabulary: false
 铭	m`jk
 鸣	m`kn
 瞑	m`ob
+暝	m`ob
 明	m`oo
 命	m`re
 名	m`xk
@@ -30229,6 +30367,7 @@ use_preset_vocabulary: false
 丏	m`av
 渑	m`dd
 勉	m`dl
+湎	m`dm
 沔	m`dm
 免	m`dv
 黾	m`kd
@@ -30267,6 +30406,7 @@ use_preset_vocabulary: false
 寞	m`bd
 莫	m`cd
 蓦	m`cm
+茉	m`cm
 摹	m`cu
 藦	m`cu
 蘑	m`cu
@@ -30497,6 +30637,7 @@ use_preset_vocabulary: false
 茑	n`cn
 溺	n`dd
 脲	n`ou
+鸟	n`pa
 袅	n`py
 尿	n`uu
 鸟	n`wd
@@ -30679,6 +30820,7 @@ use_preset_vocabulary: false
 丕	p`ba
 邳	p`be
 痞	p`bk
+否	p`bk
 癖	p`bu
 疲	p`by
 芘	p`cb
@@ -30920,6 +31062,7 @@ use_preset_vocabulary: false
 萋	q`cn
 芪	q`cu
 淇	q`db
+沏	q`dd
 奇	q`dk
 泣	q`dl
 柒	q`dm
@@ -30949,6 +31092,7 @@ use_preset_vocabulary: false
 嘁	q`kx
 亟	q`la
 耆	q`lo
+骐	q`mb
 棋	q`mb
 杞	q`mj
 桤	q`mj
@@ -31073,6 +31217,7 @@ use_preset_vocabulary: false
 钳	q`jg
 钱	q`jj
 铅	q`jk
+钎	q`jq
 钤	q`jv
 杄	q`mq
 犍	q`nz
@@ -31199,6 +31344,7 @@ use_preset_vocabulary: false
 悛	q`xw
 劝	q`yl
 诠	q`yw
+醛	q`yw
 穹	q`bg
 穷	q`bl
 䓖	q`cl
@@ -32177,6 +32323,7 @@ use_preset_vocabulary: false
 使	u`rl
 似	u`rr
 仕	u`ru
+什	u`ru
 埘	u`tc
 邿	u`te
 螫	u`ti
@@ -32565,6 +32712,7 @@ use_preset_vocabulary: false
 鸷	v`fn
 指	v`fo
 贽	v`fr
+挚	v`fu
 扺	v`fu
 执	v`fw
 絷	v`fx
@@ -33058,6 +33206,7 @@ use_preset_vocabulary: false
 溦	w`dw
 卫	w`ea
 隗	w`eg
+嵬	w`eg
 巍	w`eg
 崴	w`en
 隈	w`en
@@ -33163,6 +33312,7 @@ use_preset_vocabulary: false
 觋	x`ge
 席	x`gj
 爔	x`hd
+烯	x`hj
 稀	x`hj
 熻	x`hx
 熄	x`hx
@@ -33413,6 +33563,7 @@ use_preset_vocabulary: false
 蟹	x`di
 瀣	x`dj
 渫	x`dm
+解	x`dn
 澥	x`dn
 泄	x`du
 泻	x`dy
@@ -33608,6 +33759,7 @@ use_preset_vocabulary: false
 虾	x`ix
 翈	x`jx
 匣	x`kj
+呷	x`kj
 吓	x`kx
 柙	x`mj
 瞎	x`ok
@@ -33616,6 +33768,7 @@ use_preset_vocabulary: false
 狭	x`qj
 侠	x`rj
 硖	x`uj
+叚	x`vy
 瑕	x`wy
 霞	x`yy
 遐	x`zy
@@ -33815,6 +33968,7 @@ use_preset_vocabulary: false
 疡	y`bp
 痒	y`by
 泱	y`dy
+殃	y`dy
 洋	y`dy
 漾	y`dy
 阳	y`eo
@@ -33854,16 +34008,19 @@ use_preset_vocabulary: false
 瘗	y`bt
 癔	y`bx
 疫	y`by
+痍	y`by
 肄	y`by
 𬟁	y`cn
 苡	y`cr
 艺	y`cv
 薏	y`cx
+艾	y`cx
 荑	y`cy
 殪	y`da
 浥	y`db
 潩	y`db
 沂	y`dj
+漪	y`dk
 溢	y`dm
 义	y`dx
 洢	y`dy
@@ -33900,6 +34057,7 @@ use_preset_vocabulary: false
 医	y`ku
 呓	y`kv
 噫	y`kx
+翳	y`kx
 繄	y`kx
 咿	y`ky
 匜	y`ky
@@ -33963,6 +34121,7 @@ use_preset_vocabulary: false
 羿	y`xc
 刈	y`xd
 怡	y`xk
+翌	y`xl
 怿	y`xl
 忆	y`xv
 诒	y`yk
@@ -33981,6 +34140,7 @@ use_preset_vocabulary: false
 滟	y`db
 演	y`db
 渰	y`dc
+奄	y`dd
 淹	y`dd
 沇	y`de
 漹	y`dh
@@ -33994,11 +34154,14 @@ use_preset_vocabulary: false
 剡	y`hd
 烟	y`hd
 炎	y`hh
+焱	y`hh
 扊	y`hh
+焰	y`hj
 虤	y`hj
 甗	y`hw
 烻	y`hz
 雁	y`if
+魇	y`ig
 黡	y`ih
 衍	y`ii
 厣	y`ij
@@ -34220,6 +34383,7 @@ use_preset_vocabulary: false
 渔	y`da
 鱼	y`da
 渝	y`dd
+淤	y`dd
 潏	y`dk
 浴	y`dk
 淯	y`do
@@ -34831,6 +34995,7 @@ use_preset_vocabulary: false
 玤	b`w`
 谤	b`y`
 鲾	b`a`
+觱	b`a`
 毖	b`b`
 皕	b`b`
 比	b`b`
@@ -34843,6 +35008,7 @@ use_preset_vocabulary: false
 芘	b`c`
 苾	b`c`
 薜	b`c`
+荜	b`c`
 萆	b`c`
 蔽	b`c`
 荸	b`c`
@@ -34881,6 +35047,7 @@ use_preset_vocabulary: false
 臂	b`u`
 贲	b`u`
 壁	b`u`
+辟	b`u`
 襞	b`u`
 璧	b`u`
 篦	b`v`
@@ -35640,6 +35807,7 @@ use_preset_vocabulary: false
 对	d`y`
 怼	d`y`
 得	d`i`
+嘚	d`k`
 嗲	d`k`
 沌	d`d`
 炖	d`h`
@@ -35819,6 +35987,7 @@ use_preset_vocabulary: false
 舫	f`v`
 访	f`y`
 藩	f`c`
+蕃	f`c`
 范	f`c`
 蘩	f`c`
 泛	f`d`
@@ -35877,7 +36046,9 @@ use_preset_vocabulary: false
 艴	f`f`
 拊	f`f`
 拂	f`f`
+麸	f`f`
 扶	f`f`
+抚	f`f`
 敷	f`f`
 府	f`g`
 鄜	f`g`
@@ -35887,12 +36058,14 @@ use_preset_vocabulary: false
 蚨	f`i`
 辅	f`i`
 辐	f`i`
+蝠	f`i`
 蝮	f`i`
 蜉	f`i`
 𫓧	f`j`
 幞	f`j`
 幅	f`j`
 咐	f`k`
+赙	f`k`
 呋	f`k`
 赋	f`k`
 呒	f`k`
@@ -35919,6 +36092,7 @@ use_preset_vocabulary: false
 傅	f`r`
 付	f`r`
 俯	f`r`
+佛	f`r`
 伏	f`r`
 俘	f`r`
 罘	f`s`
@@ -37231,6 +37405,7 @@ use_preset_vocabulary: false
 殛	j`d`
 剞	j`d`
 瀱	j`d`
+汲	j`d`
 觭	j`d`
 奇	j`d`
 济	j`d`
@@ -37316,6 +37491,7 @@ use_preset_vocabulary: false
 垍	j`t`
 戟	j`u`
 饥	j`u`
+矶	j`u`
 吉	j`u`
 赍	j`u`
 屐	j`u`
@@ -37797,7 +37973,6 @@ use_preset_vocabulary: false
 假	j`r`
 嘉	j`u`
 笳	j`v`
-叚	j`v`
 珈	j`w`
 贾	j`x`
 跏	j`z`
@@ -38228,6 +38403,7 @@ use_preset_vocabulary: false
 厘	l`i`
 轹	l`i`
 厉	l`i`
+蛎	l`i`
 锂	l`j`
 喱	l`k`
 呖	l`k`
@@ -38237,6 +38413,7 @@ use_preset_vocabulary: false
 郦	l`l`
 鹂	l`l`
 粒	l`m`
+栎	l`m`
 朸	l`m`
 枥	l`m`
 骊	l`m`
@@ -38457,6 +38634,7 @@ use_preset_vocabulary: false
 𫚭	l`a`
 鬣	l`a`
 冽	l`d`
+洌	l`d`
 列	l`d`
 烈	l`d`
 䴕	l`d`
@@ -38603,6 +38781,7 @@ use_preset_vocabulary: false
 吕	l`k`
 驴	l`m`
 榈	l`m`
+闾	l`m`
 梠	l`m`
 𦝼	l`o`
 褛	l`p`
@@ -38732,8 +38911,8 @@ use_preset_vocabulary: false
 贸	m`p`
 毛	m`p`
 猫	m`q`
-蟊	m`s`
 蝥	m`s`
+蟊	m`s`
 瞀	m`s`
 矛	m`s`
 貌	m`v`
@@ -38786,7 +38965,6 @@ use_preset_vocabulary: false
 獴	m`q`
 獴	m`q`
 尨	m`u`
-礞	m`u`
 礞	m`u`
 艋	m`v`
 艨	m`v`
@@ -38871,6 +39049,7 @@ use_preset_vocabulary: false
 铭	m`j`
 鸣	m`k`
 瞑	m`o`
+暝	m`o`
 明	m`o`
 命	m`r`
 名	m`x`
@@ -38880,6 +39059,7 @@ use_preset_vocabulary: false
 丏	m`a`
 渑	m`d`
 勉	m`d`
+湎	m`d`
 沔	m`d`
 免	m`d`
 黾	m`k`
@@ -38918,6 +39098,7 @@ use_preset_vocabulary: false
 寞	m`b`
 莫	m`c`
 蓦	m`c`
+茉	m`c`
 摹	m`c`
 藦	m`c`
 蘑	m`c`
@@ -39148,6 +39329,7 @@ use_preset_vocabulary: false
 茑	n`c`
 溺	n`d`
 脲	n`o`
+鸟	n`p`
 袅	n`p`
 尿	n`u`
 鸟	n`w`
@@ -39330,6 +39512,7 @@ use_preset_vocabulary: false
 丕	p`b`
 邳	p`b`
 痞	p`b`
+否	p`b`
 癖	p`b`
 疲	p`b`
 芘	p`c`
@@ -39571,6 +39754,7 @@ use_preset_vocabulary: false
 萋	q`c`
 芪	q`c`
 淇	q`d`
+沏	q`d`
 奇	q`d`
 泣	q`d`
 柒	q`d`
@@ -39600,6 +39784,7 @@ use_preset_vocabulary: false
 嘁	q`k`
 亟	q`l`
 耆	q`l`
+骐	q`m`
 棋	q`m`
 杞	q`m`
 桤	q`m`
@@ -39724,6 +39909,7 @@ use_preset_vocabulary: false
 钳	q`j`
 钱	q`j`
 铅	q`j`
+钎	q`j`
 钤	q`j`
 杄	q`m`
 犍	q`n`
@@ -39850,6 +40036,7 @@ use_preset_vocabulary: false
 悛	q`x`
 劝	q`y`
 诠	q`y`
+醛	q`y`
 穹	q`b`
 穷	q`b`
 䓖	q`c`
@@ -40828,6 +41015,7 @@ use_preset_vocabulary: false
 使	u`r`
 似	u`r`
 仕	u`r`
+什	u`r`
 埘	u`t`
 邿	u`t`
 螫	u`t`
@@ -41216,6 +41404,7 @@ use_preset_vocabulary: false
 鸷	v`f`
 指	v`f`
 贽	v`f`
+挚	v`f`
 扺	v`f`
 执	v`f`
 絷	v`f`
@@ -41709,6 +41898,7 @@ use_preset_vocabulary: false
 溦	w`d`
 卫	w`e`
 隗	w`e`
+嵬	w`e`
 巍	w`e`
 崴	w`e`
 隈	w`e`
@@ -41814,6 +42004,7 @@ use_preset_vocabulary: false
 觋	x`g`
 席	x`g`
 爔	x`h`
+烯	x`h`
 稀	x`h`
 熻	x`h`
 熄	x`h`
@@ -42064,6 +42255,7 @@ use_preset_vocabulary: false
 蟹	x`d`
 瀣	x`d`
 渫	x`d`
+解	x`d`
 澥	x`d`
 泄	x`d`
 泻	x`d`
@@ -42259,6 +42451,7 @@ use_preset_vocabulary: false
 虾	x`i`
 翈	x`j`
 匣	x`k`
+呷	x`k`
 吓	x`k`
 柙	x`m`
 瞎	x`o`
@@ -42267,6 +42460,7 @@ use_preset_vocabulary: false
 狭	x`q`
 侠	x`r`
 硖	x`u`
+叚	x`v`
 瑕	x`w`
 霞	x`y`
 遐	x`z`
@@ -42466,6 +42660,7 @@ use_preset_vocabulary: false
 疡	y`b`
 痒	y`b`
 泱	y`d`
+殃	y`d`
 洋	y`d`
 漾	y`d`
 阳	y`e`
@@ -42505,16 +42700,19 @@ use_preset_vocabulary: false
 瘗	y`b`
 癔	y`b`
 疫	y`b`
+痍	y`b`
 肄	y`b`
 𬟁	y`c`
 苡	y`c`
 艺	y`c`
 薏	y`c`
+艾	y`c`
 荑	y`c`
 殪	y`d`
 浥	y`d`
 潩	y`d`
 沂	y`d`
+漪	y`d`
 溢	y`d`
 义	y`d`
 洢	y`d`
@@ -42551,6 +42749,7 @@ use_preset_vocabulary: false
 医	y`k`
 呓	y`k`
 噫	y`k`
+翳	y`k`
 繄	y`k`
 咿	y`k`
 匜	y`k`
@@ -42614,6 +42813,7 @@ use_preset_vocabulary: false
 羿	y`x`
 刈	y`x`
 怡	y`x`
+翌	y`x`
 怿	y`x`
 忆	y`x`
 诒	y`y`
@@ -42632,6 +42832,7 @@ use_preset_vocabulary: false
 滟	y`d`
 演	y`d`
 渰	y`d`
+奄	y`d`
 淹	y`d`
 沇	y`d`
 漹	y`d`
@@ -42645,11 +42846,14 @@ use_preset_vocabulary: false
 剡	y`h`
 烟	y`h`
 炎	y`h`
+焱	y`h`
 扊	y`h`
+焰	y`h`
 虤	y`h`
 甗	y`h`
 烻	y`h`
 雁	y`i`
+魇	y`i`
 黡	y`i`
 衍	y`i`
 厣	y`i`
@@ -42871,6 +43075,7 @@ use_preset_vocabulary: false
 渔	y`d`
 鱼	y`d`
 渝	y`d`
+淤	y`d`
 潏	y`d`
 浴	y`d`
 淯	y`d`
@@ -43482,6 +43687,7 @@ use_preset_vocabulary: false
 玤	b``f
 谤	b``f
 鲾	b``t
+觱	b``y
 毖	b``b
 皕	b``b
 比	b``b
@@ -43494,6 +43700,7 @@ use_preset_vocabulary: false
 芘	b``b
 苾	b``b
 薜	b``u
+荜	b``u
 萆	b``u
 蔽	b``w
 荸	b``z
@@ -43532,6 +43739,7 @@ use_preset_vocabulary: false
 臂	b``o
 贲	b``r
 壁	b``t
+辟	b``u
 襞	b``y
 璧	b``y
 篦	b``b
@@ -44291,6 +44499,7 @@ use_preset_vocabulary: false
 对	d``c
 怼	d``x
 得	d``c
+嘚	d``c
 嗲	d``x
 沌	d``t
 炖	d``t
@@ -44470,6 +44679,7 @@ use_preset_vocabulary: false
 舫	f``f
 访	f``f
 藩	f``t
+蕃	f``t
 范	f``v
 蘩	f``x
 泛	f``f
@@ -44528,7 +44738,9 @@ use_preset_vocabulary: false
 艴	f``b
 拊	f``c
 拂	f``f
+麸	f``f
 扶	f``f
+抚	f``w
 敷	f``w
 府	f``c
 鄜	f``e
@@ -44538,12 +44750,14 @@ use_preset_vocabulary: false
 蚨	f``f
 辅	f``f
 辐	f``t
+蝠	f``t
 蝮	f``w
 蜉	f``z
 𫓧	f``f
 幞	f``n
 幅	f``t
 咐	f``c
+赙	f``c
 呋	f``f
 赋	f``v
 呒	f``w
@@ -44570,6 +44784,7 @@ use_preset_vocabulary: false
 傅	f``c
 付	f``c
 俯	f``c
+佛	f``f
 伏	f``q
 俘	f``z
 罘	f``b
@@ -45882,6 +46097,7 @@ use_preset_vocabulary: false
 殛	j``a
 剞	j``d
 瀱	j``d
+汲	j``j
 觭	j``k
 奇	j``k
 济	j``l
@@ -45967,6 +46183,7 @@ use_preset_vocabulary: false
 垍	j``z
 戟	j``g
 饥	j``j
+矶	j``j
 吉	j``k
 赍	j``r
 屐	j``y
@@ -46448,7 +46665,6 @@ use_preset_vocabulary: false
 假	j``y
 嘉	j``k
 笳	j``k
-叚	j``y
 珈	j``k
 贾	j``r
 跏	j``k
@@ -46879,6 +47095,7 @@ use_preset_vocabulary: false
 厘	l``l
 轹	l``l
 厉	l``w
+蛎	l``w
 锂	l``l
 喱	l``l
 呖	l``l
@@ -46888,6 +47105,7 @@ use_preset_vocabulary: false
 郦	l``e
 鹂	l``n
 粒	l``l
+栎	l``l
 朸	l``l
 枥	l``l
 骊	l``l
@@ -47108,6 +47326,7 @@ use_preset_vocabulary: false
 𫚭	l``v
 鬣	l``v
 冽	l``d
+洌	l``d
 列	l``d
 烈	l``h
 䴕	l``n
@@ -47254,6 +47473,7 @@ use_preset_vocabulary: false
 吕	l``k
 驴	l``h
 榈	l``k
+闾	l``k
 梠	l``k
 𦝼	l``n
 褛	l``n
@@ -47383,8 +47603,8 @@ use_preset_vocabulary: false
 贸	m``r
 毛	m``v
 猫	m``t
-蟊	m``i
 蝥	m``i
+蟊	m``i
 瞀	m``o
 矛	m``p
 貌	m``e
@@ -47438,7 +47658,6 @@ use_preset_vocabulary: false
 獴	m``u
 尨	m``d
 礞	m``n
-礞	m``u
 艋	m``m
 艨	m``n
 艨	m``u
@@ -47522,6 +47741,7 @@ use_preset_vocabulary: false
 铭	m``k
 鸣	m``n
 瞑	m``b
+暝	m``b
 明	m``o
 命	m``e
 名	m``k
@@ -47531,6 +47751,7 @@ use_preset_vocabulary: false
 丏	m``v
 渑	m``d
 勉	m``l
+湎	m``m
 沔	m``m
 免	m``v
 黾	m``d
@@ -47569,6 +47790,7 @@ use_preset_vocabulary: false
 寞	m``d
 莫	m``d
 蓦	m``m
+茉	m``m
 摹	m``u
 藦	m``u
 蘑	m``u
@@ -47799,6 +48021,7 @@ use_preset_vocabulary: false
 茑	n``n
 溺	n``d
 脲	n``u
+鸟	n``a
 袅	n``y
 尿	n``u
 鸟	n``d
@@ -47981,6 +48204,7 @@ use_preset_vocabulary: false
 丕	p``a
 邳	p``e
 痞	p``k
+否	p``k
 癖	p``u
 疲	p``y
 芘	p``b
@@ -48222,6 +48446,7 @@ use_preset_vocabulary: false
 萋	q``n
 芪	q``u
 淇	q``b
+沏	q``d
 奇	q``k
 泣	q``l
 柒	q``m
@@ -48251,6 +48476,7 @@ use_preset_vocabulary: false
 嘁	q``x
 亟	q``a
 耆	q``o
+骐	q``b
 棋	q``b
 杞	q``j
 桤	q``j
@@ -48375,6 +48601,7 @@ use_preset_vocabulary: false
 钳	q``g
 钱	q``j
 铅	q``k
+钎	q``q
 钤	q``v
 杄	q``q
 犍	q``z
@@ -48501,6 +48728,7 @@ use_preset_vocabulary: false
 悛	q``w
 劝	q``l
 诠	q``w
+醛	q``w
 穹	q``g
 穷	q``l
 䓖	q``l
@@ -49479,6 +49707,7 @@ use_preset_vocabulary: false
 使	u``l
 似	u``r
 仕	u``u
+什	u``u
 埘	u``c
 邿	u``e
 螫	u``i
@@ -49867,6 +50096,7 @@ use_preset_vocabulary: false
 鸷	v``n
 指	v``o
 贽	v``r
+挚	v``u
 扺	v``u
 执	v``w
 絷	v``x
@@ -50360,6 +50590,7 @@ use_preset_vocabulary: false
 溦	w``w
 卫	w``a
 隗	w``g
+嵬	w``g
 巍	w``g
 崴	w``n
 隈	w``n
@@ -50465,6 +50696,7 @@ use_preset_vocabulary: false
 觋	x``e
 席	x``j
 爔	x``d
+烯	x``j
 稀	x``j
 熻	x``x
 熄	x``x
@@ -50715,6 +50947,7 @@ use_preset_vocabulary: false
 蟹	x``i
 瀣	x``j
 渫	x``m
+解	x``n
 澥	x``n
 泄	x``u
 泻	x``y
@@ -50910,6 +51143,7 @@ use_preset_vocabulary: false
 虾	x``x
 翈	x``x
 匣	x``j
+呷	x``j
 吓	x``x
 柙	x``j
 瞎	x``k
@@ -50918,6 +51152,7 @@ use_preset_vocabulary: false
 狭	x``j
 侠	x``j
 硖	x``j
+叚	x``y
 瑕	x``y
 霞	x``y
 遐	x``y
@@ -51117,6 +51352,7 @@ use_preset_vocabulary: false
 疡	y``p
 痒	y``y
 泱	y``y
+殃	y``y
 洋	y``y
 漾	y``y
 阳	y``o
@@ -51156,16 +51392,19 @@ use_preset_vocabulary: false
 瘗	y``t
 癔	y``x
 疫	y``y
+痍	y``y
 肄	y``y
 𬟁	y``n
 苡	y``r
 艺	y``v
 薏	y``x
+艾	y``x
 荑	y``y
 殪	y``a
 浥	y``b
 潩	y``b
 沂	y``j
+漪	y``k
 溢	y``m
 义	y``x
 洢	y``y
@@ -51202,6 +51441,7 @@ use_preset_vocabulary: false
 医	y``u
 呓	y``v
 噫	y``x
+翳	y``x
 繄	y``x
 咿	y``y
 匜	y``y
@@ -51265,6 +51505,7 @@ use_preset_vocabulary: false
 羿	y``c
 刈	y``d
 怡	y``k
+翌	y``l
 怿	y``l
 忆	y``v
 诒	y``k
@@ -51283,6 +51524,7 @@ use_preset_vocabulary: false
 滟	y``b
 演	y``b
 渰	y``c
+奄	y``d
 淹	y``d
 沇	y``e
 漹	y``h
@@ -51296,11 +51538,14 @@ use_preset_vocabulary: false
 剡	y``d
 烟	y``d
 炎	y``h
+焱	y``h
 扊	y``h
+焰	y``j
 虤	y``j
 甗	y``w
 烻	y``z
 雁	y``f
+魇	y``g
 黡	y``h
 衍	y``i
 厣	y``j
@@ -51522,6 +51767,7 @@ use_preset_vocabulary: false
 渔	y``a
 鱼	y``a
 渝	y``d
+淤	y``d
 潏	y``k
 浴	y``k
 淯	y``o
@@ -52133,6 +52379,7 @@ use_preset_vocabulary: false
 玤	b```
 谤	b```
 鲾	b```
+觱	b```
 毖	b```
 皕	b```
 比	b```
@@ -52145,6 +52392,7 @@ use_preset_vocabulary: false
 芘	b```
 苾	b```
 薜	b```
+荜	b```
 萆	b```
 蔽	b```
 荸	b```
@@ -52183,6 +52431,7 @@ use_preset_vocabulary: false
 臂	b```
 贲	b```
 壁	b```
+辟	b```
 襞	b```
 璧	b```
 篦	b```
@@ -52942,6 +53191,7 @@ use_preset_vocabulary: false
 对	d```
 怼	d```
 得	d```
+嘚	d```
 嗲	d```
 沌	d```
 炖	d```
@@ -53121,6 +53371,7 @@ use_preset_vocabulary: false
 舫	f```
 访	f```
 藩	f```
+蕃	f```
 范	f```
 蘩	f```
 泛	f```
@@ -53179,7 +53430,9 @@ use_preset_vocabulary: false
 艴	f```
 拊	f```
 拂	f```
+麸	f```
 扶	f```
+抚	f```
 敷	f```
 府	f```
 鄜	f```
@@ -53189,12 +53442,14 @@ use_preset_vocabulary: false
 蚨	f```
 辅	f```
 辐	f```
+蝠	f```
 蝮	f```
 蜉	f```
 𫓧	f```
 幞	f```
 幅	f```
 咐	f```
+赙	f```
 呋	f```
 赋	f```
 呒	f```
@@ -53221,6 +53476,7 @@ use_preset_vocabulary: false
 傅	f```
 付	f```
 俯	f```
+佛	f```
 伏	f```
 俘	f```
 罘	f```
@@ -54533,6 +54789,7 @@ use_preset_vocabulary: false
 殛	j```
 剞	j```
 瀱	j```
+汲	j```
 觭	j```
 奇	j```
 济	j```
@@ -54618,6 +54875,7 @@ use_preset_vocabulary: false
 垍	j```
 戟	j```
 饥	j```
+矶	j```
 吉	j```
 赍	j```
 屐	j```
@@ -55099,7 +55357,6 @@ use_preset_vocabulary: false
 假	j```
 嘉	j```
 笳	j```
-叚	j```
 珈	j```
 贾	j```
 跏	j```
@@ -55530,6 +55787,7 @@ use_preset_vocabulary: false
 厘	l```
 轹	l```
 厉	l```
+蛎	l```
 锂	l```
 喱	l```
 呖	l```
@@ -55539,6 +55797,7 @@ use_preset_vocabulary: false
 郦	l```
 鹂	l```
 粒	l```
+栎	l```
 朸	l```
 枥	l```
 骊	l```
@@ -55759,6 +56018,7 @@ use_preset_vocabulary: false
 𫚭	l```
 鬣	l```
 冽	l```
+洌	l```
 列	l```
 烈	l```
 䴕	l```
@@ -55905,6 +56165,7 @@ use_preset_vocabulary: false
 吕	l```
 驴	l```
 榈	l```
+闾	l```
 梠	l```
 𦝼	l```
 褛	l```
@@ -56034,8 +56295,8 @@ use_preset_vocabulary: false
 贸	m```
 毛	m```
 猫	m```
-蟊	m```
 蝥	m```
+蟊	m```
 瞀	m```
 矛	m```
 貌	m```
@@ -56088,7 +56349,6 @@ use_preset_vocabulary: false
 獴	m```
 獴	m```
 尨	m```
-礞	m```
 礞	m```
 艋	m```
 艨	m```
@@ -56173,6 +56433,7 @@ use_preset_vocabulary: false
 铭	m```
 鸣	m```
 瞑	m```
+暝	m```
 明	m```
 命	m```
 名	m```
@@ -56182,6 +56443,7 @@ use_preset_vocabulary: false
 丏	m```
 渑	m```
 勉	m```
+湎	m```
 沔	m```
 免	m```
 黾	m```
@@ -56220,6 +56482,7 @@ use_preset_vocabulary: false
 寞	m```
 莫	m```
 蓦	m```
+茉	m```
 摹	m```
 藦	m```
 蘑	m```
@@ -56450,6 +56713,7 @@ use_preset_vocabulary: false
 茑	n```
 溺	n```
 脲	n```
+鸟	n```
 袅	n```
 尿	n```
 鸟	n```
@@ -56632,6 +56896,7 @@ use_preset_vocabulary: false
 丕	p```
 邳	p```
 痞	p```
+否	p```
 癖	p```
 疲	p```
 芘	p```
@@ -56873,6 +57138,7 @@ use_preset_vocabulary: false
 萋	q```
 芪	q```
 淇	q```
+沏	q```
 奇	q```
 泣	q```
 柒	q```
@@ -56902,6 +57168,7 @@ use_preset_vocabulary: false
 嘁	q```
 亟	q```
 耆	q```
+骐	q```
 棋	q```
 杞	q```
 桤	q```
@@ -57026,6 +57293,7 @@ use_preset_vocabulary: false
 钳	q```
 钱	q```
 铅	q```
+钎	q```
 钤	q```
 杄	q```
 犍	q```
@@ -57152,6 +57420,7 @@ use_preset_vocabulary: false
 悛	q```
 劝	q```
 诠	q```
+醛	q```
 穹	q```
 穷	q```
 䓖	q```
@@ -58130,6 +58399,7 @@ use_preset_vocabulary: false
 使	u```
 似	u```
 仕	u```
+什	u```
 埘	u```
 邿	u```
 螫	u```
@@ -58518,6 +58788,7 @@ use_preset_vocabulary: false
 鸷	v```
 指	v```
 贽	v```
+挚	v```
 扺	v```
 执	v```
 絷	v```
@@ -59011,6 +59282,7 @@ use_preset_vocabulary: false
 溦	w```
 卫	w```
 隗	w```
+嵬	w```
 巍	w```
 崴	w```
 隈	w```
@@ -59116,6 +59388,7 @@ use_preset_vocabulary: false
 觋	x```
 席	x```
 爔	x```
+烯	x```
 稀	x```
 熻	x```
 熄	x```
@@ -59366,6 +59639,7 @@ use_preset_vocabulary: false
 蟹	x```
 瀣	x```
 渫	x```
+解	x```
 澥	x```
 泄	x```
 泻	x```
@@ -59561,6 +59835,7 @@ use_preset_vocabulary: false
 虾	x```
 翈	x```
 匣	x```
+呷	x```
 吓	x```
 柙	x```
 瞎	x```
@@ -59569,6 +59844,7 @@ use_preset_vocabulary: false
 狭	x```
 侠	x```
 硖	x```
+叚	x```
 瑕	x```
 霞	x```
 遐	x```
@@ -59768,6 +60044,7 @@ use_preset_vocabulary: false
 疡	y```
 痒	y```
 泱	y```
+殃	y```
 洋	y```
 漾	y```
 阳	y```
@@ -59807,16 +60084,19 @@ use_preset_vocabulary: false
 瘗	y```
 癔	y```
 疫	y```
+痍	y```
 肄	y```
 𬟁	y```
 苡	y```
 艺	y```
 薏	y```
+艾	y```
 荑	y```
 殪	y```
 浥	y```
 潩	y```
 沂	y```
+漪	y```
 溢	y```
 义	y```
 洢	y```
@@ -59853,6 +60133,7 @@ use_preset_vocabulary: false
 医	y```
 呓	y```
 噫	y```
+翳	y```
 繄	y```
 咿	y```
 匜	y```
@@ -59916,6 +60197,7 @@ use_preset_vocabulary: false
 羿	y```
 刈	y```
 怡	y```
+翌	y```
 怿	y```
 忆	y```
 诒	y```
@@ -59934,6 +60216,7 @@ use_preset_vocabulary: false
 滟	y```
 演	y```
 渰	y```
+奄	y```
 淹	y```
 沇	y```
 漹	y```
@@ -59947,11 +60230,14 @@ use_preset_vocabulary: false
 剡	y```
 烟	y```
 炎	y```
+焱	y```
 扊	y```
+焰	y```
 虤	y```
 甗	y```
 烻	y```
 雁	y```
+魇	y```
 黡	y```
 衍	y```
 厣	y```
@@ -60173,6 +60459,7 @@ use_preset_vocabulary: false
 渔	y```
 鱼	y```
 渝	y```
+淤	y```
 潏	y```
 浴	y```
 淯	y```
@@ -60784,6 +61071,7 @@ use_preset_vocabulary: false
 玤	`hwf
 谤	`hyf
 鲾	`iat
+觱	`iay
 毖	`ibb
 皕	`ibb
 比	`ibb
@@ -60796,6 +61084,7 @@ use_preset_vocabulary: false
 芘	`icb
 苾	`icb
 薜	`icu
+荜	`icu
 萆	`icu
 蔽	`icw
 荸	`icz
@@ -60834,6 +61123,7 @@ use_preset_vocabulary: false
 臂	`iuo
 贲	`iur
 壁	`iut
+辟	`iuu
 襞	`iuy
 璧	`iuy
 篦	`ivb
@@ -61593,6 +61883,7 @@ use_preset_vocabulary: false
 对	`vyc
 怼	`vyx
 得	`wic
+嘚	`wkc
 嗲	`xkx
 沌	`ydt
 炖	`yht
@@ -61772,6 +62063,7 @@ use_preset_vocabulary: false
 舫	`hvf
 访	`hyf
 藩	`jct
+蕃	`jct
 范	`jcv
 蘩	`jcx
 泛	`jdf
@@ -61830,7 +62122,9 @@ use_preset_vocabulary: false
 艴	`ufb
 拊	`ufc
 拂	`uff
+麸	`uff
 扶	`uff
+抚	`ufw
 敷	`ufw
 府	`ugc
 鄜	`uge
@@ -61840,12 +62134,14 @@ use_preset_vocabulary: false
 蚨	`uif
 辅	`uif
 辐	`uit
+蝠	`uit
 蝮	`uiw
 蜉	`uiz
 𫓧	`ujf
 幞	`ujn
 幅	`ujt
 咐	`ukc
+赙	`ukc
 呋	`ukf
 赋	`ukv
 呒	`ukw
@@ -61872,6 +62168,7 @@ use_preset_vocabulary: false
 傅	`urc
 付	`urc
 俯	`urc
+佛	`urf
 伏	`urq
 俘	`urz
 罘	`usb
@@ -63184,6 +63481,7 @@ use_preset_vocabulary: false
 殛	`ida
 剞	`idd
 瀱	`idd
+汲	`idj
 觭	`idk
 奇	`idk
 济	`idl
@@ -63269,6 +63567,7 @@ use_preset_vocabulary: false
 垍	`itz
 戟	`iug
 饥	`iuj
+矶	`iuj
 吉	`iuk
 赍	`iur
 屐	`iuy
@@ -63750,7 +64049,6 @@ use_preset_vocabulary: false
 假	`xry
 嘉	`xuk
 笳	`xvk
-叚	`xvy
 珈	`xwk
 贾	`xxr
 跏	`xzk
@@ -64181,6 +64479,7 @@ use_preset_vocabulary: false
 厘	`iil
 轹	`iil
 厉	`iiw
+蛎	`iiw
 锂	`ijl
 喱	`ikl
 呖	`ikl
@@ -64190,6 +64489,7 @@ use_preset_vocabulary: false
 郦	`ile
 鹂	`iln
 粒	`iml
+栎	`iml
 朸	`iml
 枥	`iml
 骊	`iml
@@ -64410,6 +64710,7 @@ use_preset_vocabulary: false
 𫚭	`pav
 鬣	`pav
 冽	`pdd
+洌	`pdd
 列	`pdd
 烈	`pdh
 䴕	`pdn
@@ -64556,6 +64857,7 @@ use_preset_vocabulary: false
 吕	`vkk
 驴	`vmh
 榈	`vmk
+闾	`vmk
 梠	`vmk
 𦝼	`von
 褛	`vpn
@@ -64685,8 +64987,8 @@ use_preset_vocabulary: false
 贸	`cpr
 毛	`cpv
 猫	`cqt
-蟊	`csi
 蝥	`csi
+蟊	`csi
 瞀	`cso
 矛	`csp
 貌	`cve
@@ -64740,7 +65042,6 @@ use_preset_vocabulary: false
 獴	`gqu
 尨	`gud
 礞	`gun
-礞	`guu
 艋	`gvm
 艨	`gvn
 艨	`gvu
@@ -64824,6 +65125,7 @@ use_preset_vocabulary: false
 铭	`kjk
 鸣	`kkn
 瞑	`kob
+暝	`kob
 明	`koo
 命	`kre
 名	`kxk
@@ -64833,6 +65135,7 @@ use_preset_vocabulary: false
 丏	`mav
 渑	`mdd
 勉	`mdl
+湎	`mdm
 沔	`mdm
 免	`mdv
 黾	`mkd
@@ -64871,6 +65174,7 @@ use_preset_vocabulary: false
 寞	`obd
 莫	`ocd
 蓦	`ocm
+茉	`ocm
 摹	`ocu
 藦	`ocu
 蘑	`ocu
@@ -65101,6 +65405,7 @@ use_preset_vocabulary: false
 茑	`ncn
 溺	`ndd
 脲	`nou
+鸟	`npa
 袅	`npy
 尿	`nuu
 鸟	`nwd
@@ -65283,6 +65588,7 @@ use_preset_vocabulary: false
 丕	`iba
 邳	`ibe
 痞	`ibk
+否	`ibk
 癖	`ibu
 疲	`iby
 芘	`icb
@@ -65524,6 +65830,7 @@ use_preset_vocabulary: false
 萋	`icn
 芪	`icu
 淇	`idb
+沏	`idd
 奇	`idk
 泣	`idl
 柒	`idm
@@ -65553,6 +65860,7 @@ use_preset_vocabulary: false
 嘁	`ikx
 亟	`ila
 耆	`ilo
+骐	`imb
 棋	`imb
 杞	`imj
 桤	`imj
@@ -65677,6 +65985,7 @@ use_preset_vocabulary: false
 钳	`mjg
 钱	`mjj
 铅	`mjk
+钎	`mjq
 钤	`mjv
 杄	`mmq
 犍	`mnz
@@ -65803,6 +66112,7 @@ use_preset_vocabulary: false
 悛	`rxw
 劝	`ryl
 诠	`ryw
+醛	`ryw
 穹	`sbg
 穷	`sbl
 䓖	`scl
@@ -66781,6 +67091,7 @@ use_preset_vocabulary: false
 使	`irl
 似	`irr
 仕	`iru
+什	`iru
 埘	`itc
 邿	`ite
 螫	`iti
@@ -67169,6 +67480,7 @@ use_preset_vocabulary: false
 鸷	`ifn
 指	`ifo
 贽	`ifr
+挚	`ifu
 扺	`ifu
 执	`ifw
 絷	`ifx
@@ -67662,6 +67974,7 @@ use_preset_vocabulary: false
 溦	`wdw
 卫	`wea
 隗	`weg
+嵬	`weg
 巍	`weg
 崴	`wen
 隈	`wen
@@ -67767,6 +68080,7 @@ use_preset_vocabulary: false
 觋	`ige
 席	`igj
 爔	`ihd
+烯	`ihj
 稀	`ihj
 熻	`ihx
 熄	`ihx
@@ -68017,6 +68331,7 @@ use_preset_vocabulary: false
 蟹	`pdi
 瀣	`pdj
 渫	`pdm
+解	`pdn
 澥	`pdn
 泄	`pdu
 泻	`pdy
@@ -68212,6 +68527,7 @@ use_preset_vocabulary: false
 虾	`xix
 翈	`xjx
 匣	`xkj
+呷	`xkj
 吓	`xkx
 柙	`xmj
 瞎	`xok
@@ -68220,6 +68536,7 @@ use_preset_vocabulary: false
 狭	`xqj
 侠	`xrj
 硖	`xuj
+叚	`xvy
 瑕	`xwy
 霞	`xyy
 遐	`xzy
@@ -68419,6 +68736,7 @@ use_preset_vocabulary: false
 疡	`hbp
 痒	`hby
 泱	`hdy
+殃	`hdy
 洋	`hdy
 漾	`hdy
 阳	`heo
@@ -68458,16 +68776,19 @@ use_preset_vocabulary: false
 瘗	`ibt
 癔	`ibx
 疫	`iby
+痍	`iby
 肄	`iby
 𬟁	`icn
 苡	`icr
 艺	`icv
 薏	`icx
+艾	`icx
 荑	`icy
 殪	`ida
 浥	`idb
 潩	`idb
 沂	`idj
+漪	`idk
 溢	`idm
 义	`idx
 洢	`idy
@@ -68504,6 +68825,7 @@ use_preset_vocabulary: false
 医	`iku
 呓	`ikv
 噫	`ikx
+翳	`ikx
 繄	`ikx
 咿	`iky
 匜	`iky
@@ -68567,6 +68889,7 @@ use_preset_vocabulary: false
 羿	`ixc
 刈	`ixd
 怡	`ixk
+翌	`ixl
 怿	`ixl
 忆	`ixv
 诒	`iyk
@@ -68585,6 +68908,7 @@ use_preset_vocabulary: false
 滟	`jdb
 演	`jdb
 渰	`jdc
+奄	`jdd
 淹	`jdd
 沇	`jde
 漹	`jdh
@@ -68598,11 +68922,14 @@ use_preset_vocabulary: false
 剡	`jhd
 烟	`jhd
 炎	`jhh
+焱	`jhh
 扊	`jhh
+焰	`jhj
 虤	`jhj
 甗	`jhw
 烻	`jhz
 雁	`jif
+魇	`jig
 黡	`jih
 衍	`jii
 厣	`jij
@@ -68824,6 +69151,7 @@ use_preset_vocabulary: false
 渔	`uda
 鱼	`uda
 渝	`udd
+淤	`udd
 潏	`udk
 浴	`udk
 淯	`udo
@@ -69435,6 +69763,7 @@ use_preset_vocabulary: false
 玤	`hw`
 谤	`hy`
 鲾	`ia`
+觱	`ia`
 毖	`ib`
 皕	`ib`
 比	`ib`
@@ -69447,6 +69776,7 @@ use_preset_vocabulary: false
 芘	`ic`
 苾	`ic`
 薜	`ic`
+荜	`ic`
 萆	`ic`
 蔽	`ic`
 荸	`ic`
@@ -69485,6 +69815,7 @@ use_preset_vocabulary: false
 臂	`iu`
 贲	`iu`
 壁	`iu`
+辟	`iu`
 襞	`iu`
 璧	`iu`
 篦	`iv`
@@ -70244,6 +70575,7 @@ use_preset_vocabulary: false
 对	`vy`
 怼	`vy`
 得	`wi`
+嘚	`wk`
 嗲	`xk`
 沌	`yd`
 炖	`yh`
@@ -70423,6 +70755,7 @@ use_preset_vocabulary: false
 舫	`hv`
 访	`hy`
 藩	`jc`
+蕃	`jc`
 范	`jc`
 蘩	`jc`
 泛	`jd`
@@ -70481,7 +70814,9 @@ use_preset_vocabulary: false
 艴	`uf`
 拊	`uf`
 拂	`uf`
+麸	`uf`
 扶	`uf`
+抚	`uf`
 敷	`uf`
 府	`ug`
 鄜	`ug`
@@ -70491,12 +70826,14 @@ use_preset_vocabulary: false
 蚨	`ui`
 辅	`ui`
 辐	`ui`
+蝠	`ui`
 蝮	`ui`
 蜉	`ui`
 𫓧	`uj`
 幞	`uj`
 幅	`uj`
 咐	`uk`
+赙	`uk`
 呋	`uk`
 赋	`uk`
 呒	`uk`
@@ -70523,6 +70860,7 @@ use_preset_vocabulary: false
 傅	`ur`
 付	`ur`
 俯	`ur`
+佛	`ur`
 伏	`ur`
 俘	`ur`
 罘	`us`
@@ -71835,6 +72173,7 @@ use_preset_vocabulary: false
 殛	`id`
 剞	`id`
 瀱	`id`
+汲	`id`
 觭	`id`
 奇	`id`
 济	`id`
@@ -71920,6 +72259,7 @@ use_preset_vocabulary: false
 垍	`it`
 戟	`iu`
 饥	`iu`
+矶	`iu`
 吉	`iu`
 赍	`iu`
 屐	`iu`
@@ -72401,7 +72741,6 @@ use_preset_vocabulary: false
 假	`xr`
 嘉	`xu`
 笳	`xv`
-叚	`xv`
 珈	`xw`
 贾	`xx`
 跏	`xz`
@@ -72832,6 +73171,7 @@ use_preset_vocabulary: false
 厘	`ii`
 轹	`ii`
 厉	`ii`
+蛎	`ii`
 锂	`ij`
 喱	`ik`
 呖	`ik`
@@ -72841,6 +73181,7 @@ use_preset_vocabulary: false
 郦	`il`
 鹂	`il`
 粒	`im`
+栎	`im`
 朸	`im`
 枥	`im`
 骊	`im`
@@ -73061,6 +73402,7 @@ use_preset_vocabulary: false
 𫚭	`pa`
 鬣	`pa`
 冽	`pd`
+洌	`pd`
 列	`pd`
 烈	`pd`
 䴕	`pd`
@@ -73207,6 +73549,7 @@ use_preset_vocabulary: false
 吕	`vk`
 驴	`vm`
 榈	`vm`
+闾	`vm`
 梠	`vm`
 𦝼	`vo`
 褛	`vp`
@@ -73336,8 +73679,8 @@ use_preset_vocabulary: false
 贸	`cp`
 毛	`cp`
 猫	`cq`
-蟊	`cs`
 蝥	`cs`
+蟊	`cs`
 瞀	`cs`
 矛	`cs`
 貌	`cv`
@@ -73390,7 +73733,6 @@ use_preset_vocabulary: false
 獴	`gq`
 獴	`gq`
 尨	`gu`
-礞	`gu`
 礞	`gu`
 艋	`gv`
 艨	`gv`
@@ -73475,6 +73817,7 @@ use_preset_vocabulary: false
 铭	`kj`
 鸣	`kk`
 瞑	`ko`
+暝	`ko`
 明	`ko`
 命	`kr`
 名	`kx`
@@ -73484,6 +73827,7 @@ use_preset_vocabulary: false
 丏	`ma`
 渑	`md`
 勉	`md`
+湎	`md`
 沔	`md`
 免	`md`
 黾	`mk`
@@ -73522,6 +73866,7 @@ use_preset_vocabulary: false
 寞	`ob`
 莫	`oc`
 蓦	`oc`
+茉	`oc`
 摹	`oc`
 藦	`oc`
 蘑	`oc`
@@ -73752,6 +74097,7 @@ use_preset_vocabulary: false
 茑	`nc`
 溺	`nd`
 脲	`no`
+鸟	`np`
 袅	`np`
 尿	`nu`
 鸟	`nw`
@@ -73934,6 +74280,7 @@ use_preset_vocabulary: false
 丕	`ib`
 邳	`ib`
 痞	`ib`
+否	`ib`
 癖	`ib`
 疲	`ib`
 芘	`ic`
@@ -74175,6 +74522,7 @@ use_preset_vocabulary: false
 萋	`ic`
 芪	`ic`
 淇	`id`
+沏	`id`
 奇	`id`
 泣	`id`
 柒	`id`
@@ -74204,6 +74552,7 @@ use_preset_vocabulary: false
 嘁	`ik`
 亟	`il`
 耆	`il`
+骐	`im`
 棋	`im`
 杞	`im`
 桤	`im`
@@ -74328,6 +74677,7 @@ use_preset_vocabulary: false
 钳	`mj`
 钱	`mj`
 铅	`mj`
+钎	`mj`
 钤	`mj`
 杄	`mm`
 犍	`mn`
@@ -74454,6 +74804,7 @@ use_preset_vocabulary: false
 悛	`rx`
 劝	`ry`
 诠	`ry`
+醛	`ry`
 穹	`sb`
 穷	`sb`
 䓖	`sc`
@@ -75432,6 +75783,7 @@ use_preset_vocabulary: false
 使	`ir`
 似	`ir`
 仕	`ir`
+什	`ir`
 埘	`it`
 邿	`it`
 螫	`it`
@@ -75820,6 +76172,7 @@ use_preset_vocabulary: false
 鸷	`if`
 指	`if`
 贽	`if`
+挚	`if`
 扺	`if`
 执	`if`
 絷	`if`
@@ -76313,6 +76666,7 @@ use_preset_vocabulary: false
 溦	`wd`
 卫	`we`
 隗	`we`
+嵬	`we`
 巍	`we`
 崴	`we`
 隈	`we`
@@ -76418,6 +76772,7 @@ use_preset_vocabulary: false
 觋	`ig`
 席	`ig`
 爔	`ih`
+烯	`ih`
 稀	`ih`
 熻	`ih`
 熄	`ih`
@@ -76668,6 +77023,7 @@ use_preset_vocabulary: false
 蟹	`pd`
 瀣	`pd`
 渫	`pd`
+解	`pd`
 澥	`pd`
 泄	`pd`
 泻	`pd`
@@ -76863,6 +77219,7 @@ use_preset_vocabulary: false
 虾	`xi`
 翈	`xj`
 匣	`xk`
+呷	`xk`
 吓	`xk`
 柙	`xm`
 瞎	`xo`
@@ -76871,6 +77228,7 @@ use_preset_vocabulary: false
 狭	`xq`
 侠	`xr`
 硖	`xu`
+叚	`xv`
 瑕	`xw`
 霞	`xy`
 遐	`xz`
@@ -77070,6 +77428,7 @@ use_preset_vocabulary: false
 疡	`hb`
 痒	`hb`
 泱	`hd`
+殃	`hd`
 洋	`hd`
 漾	`hd`
 阳	`he`
@@ -77109,16 +77468,19 @@ use_preset_vocabulary: false
 瘗	`ib`
 癔	`ib`
 疫	`ib`
+痍	`ib`
 肄	`ib`
 𬟁	`ic`
 苡	`ic`
 艺	`ic`
 薏	`ic`
+艾	`ic`
 荑	`ic`
 殪	`id`
 浥	`id`
 潩	`id`
 沂	`id`
+漪	`id`
 溢	`id`
 义	`id`
 洢	`id`
@@ -77155,6 +77517,7 @@ use_preset_vocabulary: false
 医	`ik`
 呓	`ik`
 噫	`ik`
+翳	`ik`
 繄	`ik`
 咿	`ik`
 匜	`ik`
@@ -77218,6 +77581,7 @@ use_preset_vocabulary: false
 羿	`ix`
 刈	`ix`
 怡	`ix`
+翌	`ix`
 怿	`ix`
 忆	`ix`
 诒	`iy`
@@ -77236,6 +77600,7 @@ use_preset_vocabulary: false
 滟	`jd`
 演	`jd`
 渰	`jd`
+奄	`jd`
 淹	`jd`
 沇	`jd`
 漹	`jd`
@@ -77249,11 +77614,14 @@ use_preset_vocabulary: false
 剡	`jh`
 烟	`jh`
 炎	`jh`
+焱	`jh`
 扊	`jh`
+焰	`jh`
 虤	`jh`
 甗	`jh`
 烻	`jh`
 雁	`ji`
+魇	`ji`
 黡	`ji`
 衍	`ji`
 厣	`ji`
@@ -77475,6 +77843,7 @@ use_preset_vocabulary: false
 渔	`ud`
 鱼	`ud`
 渝	`ud`
+淤	`ud`
 潏	`ud`
 浴	`ud`
 淯	`ud`
@@ -78086,6 +78455,7 @@ use_preset_vocabulary: false
 玤	`h`f
 谤	`h`f
 鲾	`i`t
+觱	`i`y
 毖	`i`b
 皕	`i`b
 比	`i`b
@@ -78098,6 +78468,7 @@ use_preset_vocabulary: false
 芘	`i`b
 苾	`i`b
 薜	`i`u
+荜	`i`u
 萆	`i`u
 蔽	`i`w
 荸	`i`z
@@ -78136,6 +78507,7 @@ use_preset_vocabulary: false
 臂	`i`o
 贲	`i`r
 壁	`i`t
+辟	`i`u
 襞	`i`y
 璧	`i`y
 篦	`i`b
@@ -78895,6 +79267,7 @@ use_preset_vocabulary: false
 对	`v`c
 怼	`v`x
 得	`w`c
+嘚	`w`c
 嗲	`x`x
 沌	`y`t
 炖	`y`t
@@ -79074,6 +79447,7 @@ use_preset_vocabulary: false
 舫	`h`f
 访	`h`f
 藩	`j`t
+蕃	`j`t
 范	`j`v
 蘩	`j`x
 泛	`j`f
@@ -79132,7 +79506,9 @@ use_preset_vocabulary: false
 艴	`u`b
 拊	`u`c
 拂	`u`f
+麸	`u`f
 扶	`u`f
+抚	`u`w
 敷	`u`w
 府	`u`c
 鄜	`u`e
@@ -79142,12 +79518,14 @@ use_preset_vocabulary: false
 蚨	`u`f
 辅	`u`f
 辐	`u`t
+蝠	`u`t
 蝮	`u`w
 蜉	`u`z
 𫓧	`u`f
 幞	`u`n
 幅	`u`t
 咐	`u`c
+赙	`u`c
 呋	`u`f
 赋	`u`v
 呒	`u`w
@@ -79174,6 +79552,7 @@ use_preset_vocabulary: false
 傅	`u`c
 付	`u`c
 俯	`u`c
+佛	`u`f
 伏	`u`q
 俘	`u`z
 罘	`u`b
@@ -80486,6 +80865,7 @@ use_preset_vocabulary: false
 殛	`i`a
 剞	`i`d
 瀱	`i`d
+汲	`i`j
 觭	`i`k
 奇	`i`k
 济	`i`l
@@ -80571,6 +80951,7 @@ use_preset_vocabulary: false
 垍	`i`z
 戟	`i`g
 饥	`i`j
+矶	`i`j
 吉	`i`k
 赍	`i`r
 屐	`i`y
@@ -81052,7 +81433,6 @@ use_preset_vocabulary: false
 假	`x`y
 嘉	`x`k
 笳	`x`k
-叚	`x`y
 珈	`x`k
 贾	`x`r
 跏	`x`k
@@ -81483,6 +81863,7 @@ use_preset_vocabulary: false
 厘	`i`l
 轹	`i`l
 厉	`i`w
+蛎	`i`w
 锂	`i`l
 喱	`i`l
 呖	`i`l
@@ -81492,6 +81873,7 @@ use_preset_vocabulary: false
 郦	`i`e
 鹂	`i`n
 粒	`i`l
+栎	`i`l
 朸	`i`l
 枥	`i`l
 骊	`i`l
@@ -81712,6 +82094,7 @@ use_preset_vocabulary: false
 𫚭	`p`v
 鬣	`p`v
 冽	`p`d
+洌	`p`d
 列	`p`d
 烈	`p`h
 䴕	`p`n
@@ -81858,6 +82241,7 @@ use_preset_vocabulary: false
 吕	`v`k
 驴	`v`h
 榈	`v`k
+闾	`v`k
 梠	`v`k
 𦝼	`v`n
 褛	`v`n
@@ -81987,8 +82371,8 @@ use_preset_vocabulary: false
 贸	`c`r
 毛	`c`v
 猫	`c`t
-蟊	`c`i
 蝥	`c`i
+蟊	`c`i
 瞀	`c`o
 矛	`c`p
 貌	`c`e
@@ -82042,7 +82426,6 @@ use_preset_vocabulary: false
 獴	`g`u
 尨	`g`d
 礞	`g`n
-礞	`g`u
 艋	`g`m
 艨	`g`n
 艨	`g`u
@@ -82126,6 +82509,7 @@ use_preset_vocabulary: false
 铭	`k`k
 鸣	`k`n
 瞑	`k`b
+暝	`k`b
 明	`k`o
 命	`k`e
 名	`k`k
@@ -82135,6 +82519,7 @@ use_preset_vocabulary: false
 丏	`m`v
 渑	`m`d
 勉	`m`l
+湎	`m`m
 沔	`m`m
 免	`m`v
 黾	`m`d
@@ -82173,6 +82558,7 @@ use_preset_vocabulary: false
 寞	`o`d
 莫	`o`d
 蓦	`o`m
+茉	`o`m
 摹	`o`u
 藦	`o`u
 蘑	`o`u
@@ -82403,6 +82789,7 @@ use_preset_vocabulary: false
 茑	`n`n
 溺	`n`d
 脲	`n`u
+鸟	`n`a
 袅	`n`y
 尿	`n`u
 鸟	`n`d
@@ -82585,6 +82972,7 @@ use_preset_vocabulary: false
 丕	`i`a
 邳	`i`e
 痞	`i`k
+否	`i`k
 癖	`i`u
 疲	`i`y
 芘	`i`b
@@ -82826,6 +83214,7 @@ use_preset_vocabulary: false
 萋	`i`n
 芪	`i`u
 淇	`i`b
+沏	`i`d
 奇	`i`k
 泣	`i`l
 柒	`i`m
@@ -82855,6 +83244,7 @@ use_preset_vocabulary: false
 嘁	`i`x
 亟	`i`a
 耆	`i`o
+骐	`i`b
 棋	`i`b
 杞	`i`j
 桤	`i`j
@@ -82979,6 +83369,7 @@ use_preset_vocabulary: false
 钳	`m`g
 钱	`m`j
 铅	`m`k
+钎	`m`q
 钤	`m`v
 杄	`m`q
 犍	`m`z
@@ -83105,6 +83496,7 @@ use_preset_vocabulary: false
 悛	`r`w
 劝	`r`l
 诠	`r`w
+醛	`r`w
 穹	`s`g
 穷	`s`l
 䓖	`s`l
@@ -84083,6 +84475,7 @@ use_preset_vocabulary: false
 使	`i`l
 似	`i`r
 仕	`i`u
+什	`i`u
 埘	`i`c
 邿	`i`e
 螫	`i`i
@@ -84471,6 +84864,7 @@ use_preset_vocabulary: false
 鸷	`i`n
 指	`i`o
 贽	`i`r
+挚	`i`u
 扺	`i`u
 执	`i`w
 絷	`i`x
@@ -84964,6 +85358,7 @@ use_preset_vocabulary: false
 溦	`w`w
 卫	`w`a
 隗	`w`g
+嵬	`w`g
 巍	`w`g
 崴	`w`n
 隈	`w`n
@@ -85069,6 +85464,7 @@ use_preset_vocabulary: false
 觋	`i`e
 席	`i`j
 爔	`i`d
+烯	`i`j
 稀	`i`j
 熻	`i`x
 熄	`i`x
@@ -85319,6 +85715,7 @@ use_preset_vocabulary: false
 蟹	`p`i
 瀣	`p`j
 渫	`p`m
+解	`p`n
 澥	`p`n
 泄	`p`u
 泻	`p`y
@@ -85514,6 +85911,7 @@ use_preset_vocabulary: false
 虾	`x`x
 翈	`x`x
 匣	`x`j
+呷	`x`j
 吓	`x`x
 柙	`x`j
 瞎	`x`k
@@ -85522,6 +85920,7 @@ use_preset_vocabulary: false
 狭	`x`j
 侠	`x`j
 硖	`x`j
+叚	`x`y
 瑕	`x`y
 霞	`x`y
 遐	`x`y
@@ -85721,6 +86120,7 @@ use_preset_vocabulary: false
 疡	`h`p
 痒	`h`y
 泱	`h`y
+殃	`h`y
 洋	`h`y
 漾	`h`y
 阳	`h`o
@@ -85760,16 +86160,19 @@ use_preset_vocabulary: false
 瘗	`i`t
 癔	`i`x
 疫	`i`y
+痍	`i`y
 肄	`i`y
 𬟁	`i`n
 苡	`i`r
 艺	`i`v
 薏	`i`x
+艾	`i`x
 荑	`i`y
 殪	`i`a
 浥	`i`b
 潩	`i`b
 沂	`i`j
+漪	`i`k
 溢	`i`m
 义	`i`x
 洢	`i`y
@@ -85806,6 +86209,7 @@ use_preset_vocabulary: false
 医	`i`u
 呓	`i`v
 噫	`i`x
+翳	`i`x
 繄	`i`x
 咿	`i`y
 匜	`i`y
@@ -85869,6 +86273,7 @@ use_preset_vocabulary: false
 羿	`i`c
 刈	`i`d
 怡	`i`k
+翌	`i`l
 怿	`i`l
 忆	`i`v
 诒	`i`k
@@ -85887,6 +86292,7 @@ use_preset_vocabulary: false
 滟	`j`b
 演	`j`b
 渰	`j`c
+奄	`j`d
 淹	`j`d
 沇	`j`e
 漹	`j`h
@@ -85900,11 +86306,14 @@ use_preset_vocabulary: false
 剡	`j`d
 烟	`j`d
 炎	`j`h
+焱	`j`h
 扊	`j`h
+焰	`j`j
 虤	`j`j
 甗	`j`w
 烻	`j`z
 雁	`j`f
+魇	`j`g
 黡	`j`h
 衍	`j`i
 厣	`j`j
@@ -86126,6 +86535,7 @@ use_preset_vocabulary: false
 渔	`u`a
 鱼	`u`a
 渝	`u`d
+淤	`u`d
 潏	`u`k
 浴	`u`k
 淯	`u`o
@@ -86737,6 +87147,7 @@ use_preset_vocabulary: false
 玤	`h``
 谤	`h``
 鲾	`i``
+觱	`i``
 毖	`i``
 皕	`i``
 比	`i``
@@ -86749,6 +87160,7 @@ use_preset_vocabulary: false
 芘	`i``
 苾	`i``
 薜	`i``
+荜	`i``
 萆	`i``
 蔽	`i``
 荸	`i``
@@ -86787,6 +87199,7 @@ use_preset_vocabulary: false
 臂	`i``
 贲	`i``
 壁	`i``
+辟	`i``
 襞	`i``
 璧	`i``
 篦	`i``
@@ -87546,6 +87959,7 @@ use_preset_vocabulary: false
 对	`v``
 怼	`v``
 得	`w``
+嘚	`w``
 嗲	`x``
 沌	`y``
 炖	`y``
@@ -87725,6 +88139,7 @@ use_preset_vocabulary: false
 舫	`h``
 访	`h``
 藩	`j``
+蕃	`j``
 范	`j``
 蘩	`j``
 泛	`j``
@@ -87783,7 +88198,9 @@ use_preset_vocabulary: false
 艴	`u``
 拊	`u``
 拂	`u``
+麸	`u``
 扶	`u``
+抚	`u``
 敷	`u``
 府	`u``
 鄜	`u``
@@ -87793,12 +88210,14 @@ use_preset_vocabulary: false
 蚨	`u``
 辅	`u``
 辐	`u``
+蝠	`u``
 蝮	`u``
 蜉	`u``
 𫓧	`u``
 幞	`u``
 幅	`u``
 咐	`u``
+赙	`u``
 呋	`u``
 赋	`u``
 呒	`u``
@@ -87825,6 +88244,7 @@ use_preset_vocabulary: false
 傅	`u``
 付	`u``
 俯	`u``
+佛	`u``
 伏	`u``
 俘	`u``
 罘	`u``
@@ -89137,6 +89557,7 @@ use_preset_vocabulary: false
 殛	`i``
 剞	`i``
 瀱	`i``
+汲	`i``
 觭	`i``
 奇	`i``
 济	`i``
@@ -89222,6 +89643,7 @@ use_preset_vocabulary: false
 垍	`i``
 戟	`i``
 饥	`i``
+矶	`i``
 吉	`i``
 赍	`i``
 屐	`i``
@@ -89703,7 +90125,6 @@ use_preset_vocabulary: false
 假	`x``
 嘉	`x``
 笳	`x``
-叚	`x``
 珈	`x``
 贾	`x``
 跏	`x``
@@ -90134,6 +90555,7 @@ use_preset_vocabulary: false
 厘	`i``
 轹	`i``
 厉	`i``
+蛎	`i``
 锂	`i``
 喱	`i``
 呖	`i``
@@ -90143,6 +90565,7 @@ use_preset_vocabulary: false
 郦	`i``
 鹂	`i``
 粒	`i``
+栎	`i``
 朸	`i``
 枥	`i``
 骊	`i``
@@ -90363,6 +90786,7 @@ use_preset_vocabulary: false
 𫚭	`p``
 鬣	`p``
 冽	`p``
+洌	`p``
 列	`p``
 烈	`p``
 䴕	`p``
@@ -90509,6 +90933,7 @@ use_preset_vocabulary: false
 吕	`v``
 驴	`v``
 榈	`v``
+闾	`v``
 梠	`v``
 𦝼	`v``
 褛	`v``
@@ -90638,8 +91063,8 @@ use_preset_vocabulary: false
 贸	`c``
 毛	`c``
 猫	`c``
-蟊	`c``
 蝥	`c``
+蟊	`c``
 瞀	`c``
 矛	`c``
 貌	`c``
@@ -90692,7 +91117,6 @@ use_preset_vocabulary: false
 獴	`g``
 獴	`g``
 尨	`g``
-礞	`g``
 礞	`g``
 艋	`g``
 艨	`g``
@@ -90777,6 +91201,7 @@ use_preset_vocabulary: false
 铭	`k``
 鸣	`k``
 瞑	`k``
+暝	`k``
 明	`k``
 命	`k``
 名	`k``
@@ -90786,6 +91211,7 @@ use_preset_vocabulary: false
 丏	`m``
 渑	`m``
 勉	`m``
+湎	`m``
 沔	`m``
 免	`m``
 黾	`m``
@@ -90824,6 +91250,7 @@ use_preset_vocabulary: false
 寞	`o``
 莫	`o``
 蓦	`o``
+茉	`o``
 摹	`o``
 藦	`o``
 蘑	`o``
@@ -91054,6 +91481,7 @@ use_preset_vocabulary: false
 茑	`n``
 溺	`n``
 脲	`n``
+鸟	`n``
 袅	`n``
 尿	`n``
 鸟	`n``
@@ -91236,6 +91664,7 @@ use_preset_vocabulary: false
 丕	`i``
 邳	`i``
 痞	`i``
+否	`i``
 癖	`i``
 疲	`i``
 芘	`i``
@@ -91477,6 +91906,7 @@ use_preset_vocabulary: false
 萋	`i``
 芪	`i``
 淇	`i``
+沏	`i``
 奇	`i``
 泣	`i``
 柒	`i``
@@ -91506,6 +91936,7 @@ use_preset_vocabulary: false
 嘁	`i``
 亟	`i``
 耆	`i``
+骐	`i``
 棋	`i``
 杞	`i``
 桤	`i``
@@ -91630,6 +92061,7 @@ use_preset_vocabulary: false
 钳	`m``
 钱	`m``
 铅	`m``
+钎	`m``
 钤	`m``
 杄	`m``
 犍	`m``
@@ -91756,6 +92188,7 @@ use_preset_vocabulary: false
 悛	`r``
 劝	`r``
 诠	`r``
+醛	`r``
 穹	`s``
 穷	`s``
 䓖	`s``
@@ -92734,6 +93167,7 @@ use_preset_vocabulary: false
 使	`i``
 似	`i``
 仕	`i``
+什	`i``
 埘	`i``
 邿	`i``
 螫	`i``
@@ -93122,6 +93556,7 @@ use_preset_vocabulary: false
 鸷	`i``
 指	`i``
 贽	`i``
+挚	`i``
 扺	`i``
 执	`i``
 絷	`i``
@@ -93615,6 +94050,7 @@ use_preset_vocabulary: false
 溦	`w``
 卫	`w``
 隗	`w``
+嵬	`w``
 巍	`w``
 崴	`w``
 隈	`w``
@@ -93720,6 +94156,7 @@ use_preset_vocabulary: false
 觋	`i``
 席	`i``
 爔	`i``
+烯	`i``
 稀	`i``
 熻	`i``
 熄	`i``
@@ -93970,6 +94407,7 @@ use_preset_vocabulary: false
 蟹	`p``
 瀣	`p``
 渫	`p``
+解	`p``
 澥	`p``
 泄	`p``
 泻	`p``
@@ -94165,6 +94603,7 @@ use_preset_vocabulary: false
 虾	`x``
 翈	`x``
 匣	`x``
+呷	`x``
 吓	`x``
 柙	`x``
 瞎	`x``
@@ -94173,6 +94612,7 @@ use_preset_vocabulary: false
 狭	`x``
 侠	`x``
 硖	`x``
+叚	`x``
 瑕	`x``
 霞	`x``
 遐	`x``
@@ -94372,6 +94812,7 @@ use_preset_vocabulary: false
 疡	`h``
 痒	`h``
 泱	`h``
+殃	`h``
 洋	`h``
 漾	`h``
 阳	`h``
@@ -94411,16 +94852,19 @@ use_preset_vocabulary: false
 瘗	`i``
 癔	`i``
 疫	`i``
+痍	`i``
 肄	`i``
 𬟁	`i``
 苡	`i``
 艺	`i``
 薏	`i``
+艾	`i``
 荑	`i``
 殪	`i``
 浥	`i``
 潩	`i``
 沂	`i``
+漪	`i``
 溢	`i``
 义	`i``
 洢	`i``
@@ -94457,6 +94901,7 @@ use_preset_vocabulary: false
 医	`i``
 呓	`i``
 噫	`i``
+翳	`i``
 繄	`i``
 咿	`i``
 匜	`i``
@@ -94520,6 +94965,7 @@ use_preset_vocabulary: false
 羿	`i``
 刈	`i``
 怡	`i``
+翌	`i``
 怿	`i``
 忆	`i``
 诒	`i``
@@ -94538,6 +94984,7 @@ use_preset_vocabulary: false
 滟	`j``
 演	`j``
 渰	`j``
+奄	`j``
 淹	`j``
 沇	`j``
 漹	`j``
@@ -94551,11 +94998,14 @@ use_preset_vocabulary: false
 剡	`j``
 烟	`j``
 炎	`j``
+焱	`j``
 扊	`j``
+焰	`j``
 虤	`j``
 甗	`j``
 烻	`j``
 雁	`j``
+魇	`j``
 黡	`j``
 衍	`j``
 厣	`j``
@@ -94777,6 +95227,7 @@ use_preset_vocabulary: false
 渔	`u``
 鱼	`u``
 渝	`u``
+淤	`u``
 潏	`u``
 浴	`u``
 淯	`u``
@@ -95388,6 +95839,7 @@ use_preset_vocabulary: false
 玤	``wf
 谤	``yf
 鲾	``at
+觱	``ay
 毖	``bb
 皕	``bb
 比	``bb
@@ -95400,6 +95852,7 @@ use_preset_vocabulary: false
 芘	``cb
 苾	``cb
 薜	``cu
+荜	``cu
 萆	``cu
 蔽	``cw
 荸	``cz
@@ -95438,6 +95891,7 @@ use_preset_vocabulary: false
 臂	``uo
 贲	``ur
 壁	``ut
+辟	``uu
 襞	``uy
 璧	``uy
 篦	``vb
@@ -96197,6 +96651,7 @@ use_preset_vocabulary: false
 对	``yc
 怼	``yx
 得	``ic
+嘚	``kc
 嗲	``kx
 沌	``dt
 炖	``ht
@@ -96376,6 +96831,7 @@ use_preset_vocabulary: false
 舫	``vf
 访	``yf
 藩	``ct
+蕃	``ct
 范	``cv
 蘩	``cx
 泛	``df
@@ -96434,7 +96890,9 @@ use_preset_vocabulary: false
 艴	``fb
 拊	``fc
 拂	``ff
+麸	``ff
 扶	``ff
+抚	``fw
 敷	``fw
 府	``gc
 鄜	``ge
@@ -96444,12 +96902,14 @@ use_preset_vocabulary: false
 蚨	``if
 辅	``if
 辐	``it
+蝠	``it
 蝮	``iw
 蜉	``iz
 𫓧	``jf
 幞	``jn
 幅	``jt
 咐	``kc
+赙	``kc
 呋	``kf
 赋	``kv
 呒	``kw
@@ -96476,6 +96936,7 @@ use_preset_vocabulary: false
 傅	``rc
 付	``rc
 俯	``rc
+佛	``rf
 伏	``rq
 俘	``rz
 罘	``sb
@@ -97788,6 +98249,7 @@ use_preset_vocabulary: false
 殛	``da
 剞	``dd
 瀱	``dd
+汲	``dj
 觭	``dk
 奇	``dk
 济	``dl
@@ -97873,6 +98335,7 @@ use_preset_vocabulary: false
 垍	``tz
 戟	``ug
 饥	``uj
+矶	``uj
 吉	``uk
 赍	``ur
 屐	``uy
@@ -98354,7 +98817,6 @@ use_preset_vocabulary: false
 假	``ry
 嘉	``uk
 笳	``vk
-叚	``vy
 珈	``wk
 贾	``xr
 跏	``zk
@@ -98785,6 +99247,7 @@ use_preset_vocabulary: false
 厘	``il
 轹	``il
 厉	``iw
+蛎	``iw
 锂	``jl
 喱	``kl
 呖	``kl
@@ -98794,6 +99257,7 @@ use_preset_vocabulary: false
 郦	``le
 鹂	``ln
 粒	``ml
+栎	``ml
 朸	``ml
 枥	``ml
 骊	``ml
@@ -99014,6 +99478,7 @@ use_preset_vocabulary: false
 𫚭	``av
 鬣	``av
 冽	``dd
+洌	``dd
 列	``dd
 烈	``dh
 䴕	``dn
@@ -99160,6 +99625,7 @@ use_preset_vocabulary: false
 吕	``kk
 驴	``mh
 榈	``mk
+闾	``mk
 梠	``mk
 𦝼	``on
 褛	``pn
@@ -99289,8 +99755,8 @@ use_preset_vocabulary: false
 贸	``pr
 毛	``pv
 猫	``qt
-蟊	``si
 蝥	``si
+蟊	``si
 瞀	``so
 矛	``sp
 貌	``ve
@@ -99344,7 +99810,6 @@ use_preset_vocabulary: false
 獴	``qu
 尨	``ud
 礞	``un
-礞	``uu
 艋	``vm
 艨	``vn
 艨	``vu
@@ -99428,6 +99893,7 @@ use_preset_vocabulary: false
 铭	``jk
 鸣	``kn
 瞑	``ob
+暝	``ob
 明	``oo
 命	``re
 名	``xk
@@ -99437,6 +99903,7 @@ use_preset_vocabulary: false
 丏	``av
 渑	``dd
 勉	``dl
+湎	``dm
 沔	``dm
 免	``dv
 黾	``kd
@@ -99475,6 +99942,7 @@ use_preset_vocabulary: false
 寞	``bd
 莫	``cd
 蓦	``cm
+茉	``cm
 摹	``cu
 藦	``cu
 蘑	``cu
@@ -99705,6 +100173,7 @@ use_preset_vocabulary: false
 茑	``cn
 溺	``dd
 脲	``ou
+鸟	``pa
 袅	``py
 尿	``uu
 鸟	``wd
@@ -99887,6 +100356,7 @@ use_preset_vocabulary: false
 丕	``ba
 邳	``be
 痞	``bk
+否	``bk
 癖	``bu
 疲	``by
 芘	``cb
@@ -100128,6 +100598,7 @@ use_preset_vocabulary: false
 萋	``cn
 芪	``cu
 淇	``db
+沏	``dd
 奇	``dk
 泣	``dl
 柒	``dm
@@ -100157,6 +100628,7 @@ use_preset_vocabulary: false
 嘁	``kx
 亟	``la
 耆	``lo
+骐	``mb
 棋	``mb
 杞	``mj
 桤	``mj
@@ -100281,6 +100753,7 @@ use_preset_vocabulary: false
 钳	``jg
 钱	``jj
 铅	``jk
+钎	``jq
 钤	``jv
 杄	``mq
 犍	``nz
@@ -100407,6 +100880,7 @@ use_preset_vocabulary: false
 悛	``xw
 劝	``yl
 诠	``yw
+醛	``yw
 穹	``bg
 穷	``bl
 䓖	``cl
@@ -101385,6 +101859,7 @@ use_preset_vocabulary: false
 使	``rl
 似	``rr
 仕	``ru
+什	``ru
 埘	``tc
 邿	``te
 螫	``ti
@@ -101773,6 +102248,7 @@ use_preset_vocabulary: false
 鸷	``fn
 指	``fo
 贽	``fr
+挚	``fu
 扺	``fu
 执	``fw
 絷	``fx
@@ -102266,6 +102742,7 @@ use_preset_vocabulary: false
 溦	``dw
 卫	``ea
 隗	``eg
+嵬	``eg
 巍	``eg
 崴	``en
 隈	``en
@@ -102371,6 +102848,7 @@ use_preset_vocabulary: false
 觋	``ge
 席	``gj
 爔	``hd
+烯	``hj
 稀	``hj
 熻	``hx
 熄	``hx
@@ -102621,6 +103099,7 @@ use_preset_vocabulary: false
 蟹	``di
 瀣	``dj
 渫	``dm
+解	``dn
 澥	``dn
 泄	``du
 泻	``dy
@@ -102816,6 +103295,7 @@ use_preset_vocabulary: false
 虾	``ix
 翈	``jx
 匣	``kj
+呷	``kj
 吓	``kx
 柙	``mj
 瞎	``ok
@@ -102824,6 +103304,7 @@ use_preset_vocabulary: false
 狭	``qj
 侠	``rj
 硖	``uj
+叚	``vy
 瑕	``wy
 霞	``yy
 遐	``zy
@@ -103023,6 +103504,7 @@ use_preset_vocabulary: false
 疡	``bp
 痒	``by
 泱	``dy
+殃	``dy
 洋	``dy
 漾	``dy
 阳	``eo
@@ -103062,16 +103544,19 @@ use_preset_vocabulary: false
 瘗	``bt
 癔	``bx
 疫	``by
+痍	``by
 肄	``by
 𬟁	``cn
 苡	``cr
 艺	``cv
 薏	``cx
+艾	``cx
 荑	``cy
 殪	``da
 浥	``db
 潩	``db
 沂	``dj
+漪	``dk
 溢	``dm
 义	``dx
 洢	``dy
@@ -103108,6 +103593,7 @@ use_preset_vocabulary: false
 医	``ku
 呓	``kv
 噫	``kx
+翳	``kx
 繄	``kx
 咿	``ky
 匜	``ky
@@ -103171,6 +103657,7 @@ use_preset_vocabulary: false
 羿	``xc
 刈	``xd
 怡	``xk
+翌	``xl
 怿	``xl
 忆	``xv
 诒	``yk
@@ -103189,6 +103676,7 @@ use_preset_vocabulary: false
 滟	``db
 演	``db
 渰	``dc
+奄	``dd
 淹	``dd
 沇	``de
 漹	``dh
@@ -103202,11 +103690,14 @@ use_preset_vocabulary: false
 剡	``hd
 烟	``hd
 炎	``hh
+焱	``hh
 扊	``hh
+焰	``hj
 虤	``hj
 甗	``hw
 烻	``hz
 雁	``if
+魇	``ig
 黡	``ih
 衍	``ii
 厣	``ij
@@ -103428,6 +103919,7 @@ use_preset_vocabulary: false
 渔	``da
 鱼	``da
 渝	``dd
+淤	``dd
 潏	``dk
 浴	``dk
 淯	``do
@@ -104039,6 +104531,7 @@ use_preset_vocabulary: false
 玤	``w`
 谤	``y`
 鲾	``a`
+觱	``a`
 毖	``b`
 皕	``b`
 比	``b`
@@ -104051,6 +104544,7 @@ use_preset_vocabulary: false
 芘	``c`
 苾	``c`
 薜	``c`
+荜	``c`
 萆	``c`
 蔽	``c`
 荸	``c`
@@ -104089,6 +104583,7 @@ use_preset_vocabulary: false
 臂	``u`
 贲	``u`
 壁	``u`
+辟	``u`
 襞	``u`
 璧	``u`
 篦	``v`
@@ -104848,6 +105343,7 @@ use_preset_vocabulary: false
 对	``y`
 怼	``y`
 得	``i`
+嘚	``k`
 嗲	``k`
 沌	``d`
 炖	``h`
@@ -105027,6 +105523,7 @@ use_preset_vocabulary: false
 舫	``v`
 访	``y`
 藩	``c`
+蕃	``c`
 范	``c`
 蘩	``c`
 泛	``d`
@@ -105085,7 +105582,9 @@ use_preset_vocabulary: false
 艴	``f`
 拊	``f`
 拂	``f`
+麸	``f`
 扶	``f`
+抚	``f`
 敷	``f`
 府	``g`
 鄜	``g`
@@ -105095,12 +105594,14 @@ use_preset_vocabulary: false
 蚨	``i`
 辅	``i`
 辐	``i`
+蝠	``i`
 蝮	``i`
 蜉	``i`
 𫓧	``j`
 幞	``j`
 幅	``j`
 咐	``k`
+赙	``k`
 呋	``k`
 赋	``k`
 呒	``k`
@@ -105127,6 +105628,7 @@ use_preset_vocabulary: false
 傅	``r`
 付	``r`
 俯	``r`
+佛	``r`
 伏	``r`
 俘	``r`
 罘	``s`
@@ -106439,6 +106941,7 @@ use_preset_vocabulary: false
 殛	``d`
 剞	``d`
 瀱	``d`
+汲	``d`
 觭	``d`
 奇	``d`
 济	``d`
@@ -106524,6 +107027,7 @@ use_preset_vocabulary: false
 垍	``t`
 戟	``u`
 饥	``u`
+矶	``u`
 吉	``u`
 赍	``u`
 屐	``u`
@@ -107005,7 +107509,6 @@ use_preset_vocabulary: false
 假	``r`
 嘉	``u`
 笳	``v`
-叚	``v`
 珈	``w`
 贾	``x`
 跏	``z`
@@ -107436,6 +107939,7 @@ use_preset_vocabulary: false
 厘	``i`
 轹	``i`
 厉	``i`
+蛎	``i`
 锂	``j`
 喱	``k`
 呖	``k`
@@ -107445,6 +107949,7 @@ use_preset_vocabulary: false
 郦	``l`
 鹂	``l`
 粒	``m`
+栎	``m`
 朸	``m`
 枥	``m`
 骊	``m`
@@ -107665,6 +108170,7 @@ use_preset_vocabulary: false
 𫚭	``a`
 鬣	``a`
 冽	``d`
+洌	``d`
 列	``d`
 烈	``d`
 䴕	``d`
@@ -107811,6 +108317,7 @@ use_preset_vocabulary: false
 吕	``k`
 驴	``m`
 榈	``m`
+闾	``m`
 梠	``m`
 𦝼	``o`
 褛	``p`
@@ -107940,8 +108447,8 @@ use_preset_vocabulary: false
 贸	``p`
 毛	``p`
 猫	``q`
-蟊	``s`
 蝥	``s`
+蟊	``s`
 瞀	``s`
 矛	``s`
 貌	``v`
@@ -107994,7 +108501,6 @@ use_preset_vocabulary: false
 獴	``q`
 獴	``q`
 尨	``u`
-礞	``u`
 礞	``u`
 艋	``v`
 艨	``v`
@@ -108079,6 +108585,7 @@ use_preset_vocabulary: false
 铭	``j`
 鸣	``k`
 瞑	``o`
+暝	``o`
 明	``o`
 命	``r`
 名	``x`
@@ -108088,6 +108595,7 @@ use_preset_vocabulary: false
 丏	``a`
 渑	``d`
 勉	``d`
+湎	``d`
 沔	``d`
 免	``d`
 黾	``k`
@@ -108126,6 +108634,7 @@ use_preset_vocabulary: false
 寞	``b`
 莫	``c`
 蓦	``c`
+茉	``c`
 摹	``c`
 藦	``c`
 蘑	``c`
@@ -108356,6 +108865,7 @@ use_preset_vocabulary: false
 茑	``c`
 溺	``d`
 脲	``o`
+鸟	``p`
 袅	``p`
 尿	``u`
 鸟	``w`
@@ -108538,6 +109048,7 @@ use_preset_vocabulary: false
 丕	``b`
 邳	``b`
 痞	``b`
+否	``b`
 癖	``b`
 疲	``b`
 芘	``c`
@@ -108779,6 +109290,7 @@ use_preset_vocabulary: false
 萋	``c`
 芪	``c`
 淇	``d`
+沏	``d`
 奇	``d`
 泣	``d`
 柒	``d`
@@ -108808,6 +109320,7 @@ use_preset_vocabulary: false
 嘁	``k`
 亟	``l`
 耆	``l`
+骐	``m`
 棋	``m`
 杞	``m`
 桤	``m`
@@ -108932,6 +109445,7 @@ use_preset_vocabulary: false
 钳	``j`
 钱	``j`
 铅	``j`
+钎	``j`
 钤	``j`
 杄	``m`
 犍	``n`
@@ -109058,6 +109572,7 @@ use_preset_vocabulary: false
 悛	``x`
 劝	``y`
 诠	``y`
+醛	``y`
 穹	``b`
 穷	``b`
 䓖	``c`
@@ -110036,6 +110551,7 @@ use_preset_vocabulary: false
 使	``r`
 似	``r`
 仕	``r`
+什	``r`
 埘	``t`
 邿	``t`
 螫	``t`
@@ -110424,6 +110940,7 @@ use_preset_vocabulary: false
 鸷	``f`
 指	``f`
 贽	``f`
+挚	``f`
 扺	``f`
 执	``f`
 絷	``f`
@@ -110917,6 +111434,7 @@ use_preset_vocabulary: false
 溦	``d`
 卫	``e`
 隗	``e`
+嵬	``e`
 巍	``e`
 崴	``e`
 隈	``e`
@@ -111022,6 +111540,7 @@ use_preset_vocabulary: false
 觋	``g`
 席	``g`
 爔	``h`
+烯	``h`
 稀	``h`
 熻	``h`
 熄	``h`
@@ -111272,6 +111791,7 @@ use_preset_vocabulary: false
 蟹	``d`
 瀣	``d`
 渫	``d`
+解	``d`
 澥	``d`
 泄	``d`
 泻	``d`
@@ -111467,6 +111987,7 @@ use_preset_vocabulary: false
 虾	``i`
 翈	``j`
 匣	``k`
+呷	``k`
 吓	``k`
 柙	``m`
 瞎	``o`
@@ -111475,6 +111996,7 @@ use_preset_vocabulary: false
 狭	``q`
 侠	``r`
 硖	``u`
+叚	``v`
 瑕	``w`
 霞	``y`
 遐	``z`
@@ -111674,6 +112196,7 @@ use_preset_vocabulary: false
 疡	``b`
 痒	``b`
 泱	``d`
+殃	``d`
 洋	``d`
 漾	``d`
 阳	``e`
@@ -111713,16 +112236,19 @@ use_preset_vocabulary: false
 瘗	``b`
 癔	``b`
 疫	``b`
+痍	``b`
 肄	``b`
 𬟁	``c`
 苡	``c`
 艺	``c`
 薏	``c`
+艾	``c`
 荑	``c`
 殪	``d`
 浥	``d`
 潩	``d`
 沂	``d`
+漪	``d`
 溢	``d`
 义	``d`
 洢	``d`
@@ -111759,6 +112285,7 @@ use_preset_vocabulary: false
 医	``k`
 呓	``k`
 噫	``k`
+翳	``k`
 繄	``k`
 咿	``k`
 匜	``k`
@@ -111822,6 +112349,7 @@ use_preset_vocabulary: false
 羿	``x`
 刈	``x`
 怡	``x`
+翌	``x`
 怿	``x`
 忆	``x`
 诒	``y`
@@ -111840,6 +112368,7 @@ use_preset_vocabulary: false
 滟	``d`
 演	``d`
 渰	``d`
+奄	``d`
 淹	``d`
 沇	``d`
 漹	``d`
@@ -111853,11 +112382,14 @@ use_preset_vocabulary: false
 剡	``h`
 烟	``h`
 炎	``h`
+焱	``h`
 扊	``h`
+焰	``h`
 虤	``h`
 甗	``h`
 烻	``h`
 雁	``i`
+魇	``i`
 黡	``i`
 衍	``i`
 厣	``i`
@@ -112079,6 +112611,7 @@ use_preset_vocabulary: false
 渔	``d`
 鱼	``d`
 渝	``d`
+淤	``d`
 潏	``d`
 浴	``d`
 淯	``d`
@@ -112690,6 +113223,7 @@ use_preset_vocabulary: false
 玤	```f
 谤	```f
 鲾	```t
+觱	```y
 毖	```b
 皕	```b
 比	```b
@@ -112702,6 +113236,7 @@ use_preset_vocabulary: false
 芘	```b
 苾	```b
 薜	```u
+荜	```u
 萆	```u
 蔽	```w
 荸	```z
@@ -112740,6 +113275,7 @@ use_preset_vocabulary: false
 臂	```o
 贲	```r
 壁	```t
+辟	```u
 襞	```y
 璧	```y
 篦	```b
@@ -113499,6 +114035,7 @@ use_preset_vocabulary: false
 对	```c
 怼	```x
 得	```c
+嘚	```c
 嗲	```x
 沌	```t
 炖	```t
@@ -113678,6 +114215,7 @@ use_preset_vocabulary: false
 舫	```f
 访	```f
 藩	```t
+蕃	```t
 范	```v
 蘩	```x
 泛	```f
@@ -113736,7 +114274,9 @@ use_preset_vocabulary: false
 艴	```b
 拊	```c
 拂	```f
+麸	```f
 扶	```f
+抚	```w
 敷	```w
 府	```c
 鄜	```e
@@ -113746,12 +114286,14 @@ use_preset_vocabulary: false
 蚨	```f
 辅	```f
 辐	```t
+蝠	```t
 蝮	```w
 蜉	```z
 𫓧	```f
 幞	```n
 幅	```t
 咐	```c
+赙	```c
 呋	```f
 赋	```v
 呒	```w
@@ -113778,6 +114320,7 @@ use_preset_vocabulary: false
 傅	```c
 付	```c
 俯	```c
+佛	```f
 伏	```q
 俘	```z
 罘	```b
@@ -115090,6 +115633,7 @@ use_preset_vocabulary: false
 殛	```a
 剞	```d
 瀱	```d
+汲	```j
 觭	```k
 奇	```k
 济	```l
@@ -115175,6 +115719,7 @@ use_preset_vocabulary: false
 垍	```z
 戟	```g
 饥	```j
+矶	```j
 吉	```k
 赍	```r
 屐	```y
@@ -115656,7 +116201,6 @@ use_preset_vocabulary: false
 假	```y
 嘉	```k
 笳	```k
-叚	```y
 珈	```k
 贾	```r
 跏	```k
@@ -116087,6 +116631,7 @@ use_preset_vocabulary: false
 厘	```l
 轹	```l
 厉	```w
+蛎	```w
 锂	```l
 喱	```l
 呖	```l
@@ -116096,6 +116641,7 @@ use_preset_vocabulary: false
 郦	```e
 鹂	```n
 粒	```l
+栎	```l
 朸	```l
 枥	```l
 骊	```l
@@ -116316,6 +116862,7 @@ use_preset_vocabulary: false
 𫚭	```v
 鬣	```v
 冽	```d
+洌	```d
 列	```d
 烈	```h
 䴕	```n
@@ -116462,6 +117009,7 @@ use_preset_vocabulary: false
 吕	```k
 驴	```h
 榈	```k
+闾	```k
 梠	```k
 𦝼	```n
 褛	```n
@@ -116591,8 +117139,8 @@ use_preset_vocabulary: false
 贸	```r
 毛	```v
 猫	```t
-蟊	```i
 蝥	```i
+蟊	```i
 瞀	```o
 矛	```p
 貌	```e
@@ -116646,7 +117194,6 @@ use_preset_vocabulary: false
 獴	```u
 尨	```d
 礞	```n
-礞	```u
 艋	```m
 艨	```n
 艨	```u
@@ -116730,6 +117277,7 @@ use_preset_vocabulary: false
 铭	```k
 鸣	```n
 瞑	```b
+暝	```b
 明	```o
 命	```e
 名	```k
@@ -116739,6 +117287,7 @@ use_preset_vocabulary: false
 丏	```v
 渑	```d
 勉	```l
+湎	```m
 沔	```m
 免	```v
 黾	```d
@@ -116777,6 +117326,7 @@ use_preset_vocabulary: false
 寞	```d
 莫	```d
 蓦	```m
+茉	```m
 摹	```u
 藦	```u
 蘑	```u
@@ -117007,6 +117557,7 @@ use_preset_vocabulary: false
 茑	```n
 溺	```d
 脲	```u
+鸟	```a
 袅	```y
 尿	```u
 鸟	```d
@@ -117189,6 +117740,7 @@ use_preset_vocabulary: false
 丕	```a
 邳	```e
 痞	```k
+否	```k
 癖	```u
 疲	```y
 芘	```b
@@ -117430,6 +117982,7 @@ use_preset_vocabulary: false
 萋	```n
 芪	```u
 淇	```b
+沏	```d
 奇	```k
 泣	```l
 柒	```m
@@ -117459,6 +118012,7 @@ use_preset_vocabulary: false
 嘁	```x
 亟	```a
 耆	```o
+骐	```b
 棋	```b
 杞	```j
 桤	```j
@@ -117583,6 +118137,7 @@ use_preset_vocabulary: false
 钳	```g
 钱	```j
 铅	```k
+钎	```q
 钤	```v
 杄	```q
 犍	```z
@@ -117709,6 +118264,7 @@ use_preset_vocabulary: false
 悛	```w
 劝	```l
 诠	```w
+醛	```w
 穹	```g
 穷	```l
 䓖	```l
@@ -118687,6 +119243,7 @@ use_preset_vocabulary: false
 使	```l
 似	```r
 仕	```u
+什	```u
 埘	```c
 邿	```e
 螫	```i
@@ -119075,6 +119632,7 @@ use_preset_vocabulary: false
 鸷	```n
 指	```o
 贽	```r
+挚	```u
 扺	```u
 执	```w
 絷	```x
@@ -119568,6 +120126,7 @@ use_preset_vocabulary: false
 溦	```w
 卫	```a
 隗	```g
+嵬	```g
 巍	```g
 崴	```n
 隈	```n
@@ -119673,6 +120232,7 @@ use_preset_vocabulary: false
 觋	```e
 席	```j
 爔	```d
+烯	```j
 稀	```j
 熻	```x
 熄	```x
@@ -119923,6 +120483,7 @@ use_preset_vocabulary: false
 蟹	```i
 瀣	```j
 渫	```m
+解	```n
 澥	```n
 泄	```u
 泻	```y
@@ -120118,6 +120679,7 @@ use_preset_vocabulary: false
 虾	```x
 翈	```x
 匣	```j
+呷	```j
 吓	```x
 柙	```j
 瞎	```k
@@ -120126,6 +120688,7 @@ use_preset_vocabulary: false
 狭	```j
 侠	```j
 硖	```j
+叚	```y
 瑕	```y
 霞	```y
 遐	```y
@@ -120325,6 +120888,7 @@ use_preset_vocabulary: false
 疡	```p
 痒	```y
 泱	```y
+殃	```y
 洋	```y
 漾	```y
 阳	```o
@@ -120364,16 +120928,19 @@ use_preset_vocabulary: false
 瘗	```t
 癔	```x
 疫	```y
+痍	```y
 肄	```y
 𬟁	```n
 苡	```r
 艺	```v
 薏	```x
+艾	```x
 荑	```y
 殪	```a
 浥	```b
 潩	```b
 沂	```j
+漪	```k
 溢	```m
 义	```x
 洢	```y
@@ -120410,6 +120977,7 @@ use_preset_vocabulary: false
 医	```u
 呓	```v
 噫	```x
+翳	```x
 繄	```x
 咿	```y
 匜	```y
@@ -120473,6 +121041,7 @@ use_preset_vocabulary: false
 羿	```c
 刈	```d
 怡	```k
+翌	```l
 怿	```l
 忆	```v
 诒	```k
@@ -120491,6 +121060,7 @@ use_preset_vocabulary: false
 滟	```b
 演	```b
 渰	```c
+奄	```d
 淹	```d
 沇	```e
 漹	```h
@@ -120504,11 +121074,14 @@ use_preset_vocabulary: false
 剡	```d
 烟	```d
 炎	```h
+焱	```h
 扊	```h
+焰	```j
 虤	```j
 甗	```w
 烻	```z
 雁	```f
+魇	```g
 黡	```h
 衍	```i
 厣	```j
@@ -120730,6 +121303,7 @@ use_preset_vocabulary: false
 渔	```a
 鱼	```a
 渝	```d
+淤	```d
 潏	```k
 浴	```k
 淯	```o
@@ -121341,6 +121915,7 @@ use_preset_vocabulary: false
 玤	````
 谤	````
 鲾	````
+觱	````
 毖	````
 皕	````
 比	````
@@ -121353,6 +121928,7 @@ use_preset_vocabulary: false
 芘	````
 苾	````
 薜	````
+荜	````
 萆	````
 蔽	````
 荸	````
@@ -121391,6 +121967,7 @@ use_preset_vocabulary: false
 臂	````
 贲	````
 壁	````
+辟	````
 襞	````
 璧	````
 篦	````
@@ -122150,6 +122727,7 @@ use_preset_vocabulary: false
 对	````
 怼	````
 得	````
+嘚	````
 嗲	````
 沌	````
 炖	````
@@ -122329,6 +122907,7 @@ use_preset_vocabulary: false
 舫	````
 访	````
 藩	````
+蕃	````
 范	````
 蘩	````
 泛	````
@@ -122387,7 +122966,9 @@ use_preset_vocabulary: false
 艴	````
 拊	````
 拂	````
+麸	````
 扶	````
+抚	````
 敷	````
 府	````
 鄜	````
@@ -122397,12 +122978,14 @@ use_preset_vocabulary: false
 蚨	````
 辅	````
 辐	````
+蝠	````
 蝮	````
 蜉	````
 𫓧	````
 幞	````
 幅	````
 咐	````
+赙	````
 呋	````
 赋	````
 呒	````
@@ -122429,6 +123012,7 @@ use_preset_vocabulary: false
 傅	````
 付	````
 俯	````
+佛	````
 伏	````
 俘	````
 罘	````
@@ -123741,6 +124325,7 @@ use_preset_vocabulary: false
 殛	````
 剞	````
 瀱	````
+汲	````
 觭	````
 奇	````
 济	````
@@ -123826,6 +124411,7 @@ use_preset_vocabulary: false
 垍	````
 戟	````
 饥	````
+矶	````
 吉	````
 赍	````
 屐	````
@@ -124307,7 +124893,6 @@ use_preset_vocabulary: false
 假	````
 嘉	````
 笳	````
-叚	````
 珈	````
 贾	````
 跏	````
@@ -124738,6 +125323,7 @@ use_preset_vocabulary: false
 厘	````
 轹	````
 厉	````
+蛎	````
 锂	````
 喱	````
 呖	````
@@ -124747,6 +125333,7 @@ use_preset_vocabulary: false
 郦	````
 鹂	````
 粒	````
+栎	````
 朸	````
 枥	````
 骊	````
@@ -124967,6 +125554,7 @@ use_preset_vocabulary: false
 𫚭	````
 鬣	````
 冽	````
+洌	````
 列	````
 烈	````
 䴕	````
@@ -125113,6 +125701,7 @@ use_preset_vocabulary: false
 吕	````
 驴	````
 榈	````
+闾	````
 梠	````
 𦝼	````
 褛	````
@@ -125242,8 +125831,8 @@ use_preset_vocabulary: false
 贸	````
 毛	````
 猫	````
-蟊	````
 蝥	````
+蟊	````
 瞀	````
 矛	````
 貌	````
@@ -125296,7 +125885,6 @@ use_preset_vocabulary: false
 獴	````
 獴	````
 尨	````
-礞	````
 礞	````
 艋	````
 艨	````
@@ -125381,6 +125969,7 @@ use_preset_vocabulary: false
 铭	````
 鸣	````
 瞑	````
+暝	````
 明	````
 命	````
 名	````
@@ -125390,6 +125979,7 @@ use_preset_vocabulary: false
 丏	````
 渑	````
 勉	````
+湎	````
 沔	````
 免	````
 黾	````
@@ -125428,6 +126018,7 @@ use_preset_vocabulary: false
 寞	````
 莫	````
 蓦	````
+茉	````
 摹	````
 藦	````
 蘑	````
@@ -125658,6 +126249,7 @@ use_preset_vocabulary: false
 茑	````
 溺	````
 脲	````
+鸟	````
 袅	````
 尿	````
 鸟	````
@@ -125840,6 +126432,7 @@ use_preset_vocabulary: false
 丕	````
 邳	````
 痞	````
+否	````
 癖	````
 疲	````
 芘	````
@@ -126081,6 +126674,7 @@ use_preset_vocabulary: false
 萋	````
 芪	````
 淇	````
+沏	````
 奇	````
 泣	````
 柒	````
@@ -126110,6 +126704,7 @@ use_preset_vocabulary: false
 嘁	````
 亟	````
 耆	````
+骐	````
 棋	````
 杞	````
 桤	````
@@ -126234,6 +126829,7 @@ use_preset_vocabulary: false
 钳	````
 钱	````
 铅	````
+钎	````
 钤	````
 杄	````
 犍	````
@@ -126360,6 +126956,7 @@ use_preset_vocabulary: false
 悛	````
 劝	````
 诠	````
+醛	````
 穹	````
 穷	````
 䓖	````
@@ -127338,6 +127935,7 @@ use_preset_vocabulary: false
 使	````
 似	````
 仕	````
+什	````
 埘	````
 邿	````
 螫	````
@@ -127726,6 +128324,7 @@ use_preset_vocabulary: false
 鸷	````
 指	````
 贽	````
+挚	````
 扺	````
 执	````
 絷	````
@@ -128219,6 +128818,7 @@ use_preset_vocabulary: false
 溦	````
 卫	````
 隗	````
+嵬	````
 巍	````
 崴	````
 隈	````
@@ -128324,6 +128924,7 @@ use_preset_vocabulary: false
 觋	````
 席	````
 爔	````
+烯	````
 稀	````
 熻	````
 熄	````
@@ -128574,6 +129175,7 @@ use_preset_vocabulary: false
 蟹	````
 瀣	````
 渫	````
+解	````
 澥	````
 泄	````
 泻	````
@@ -128769,6 +129371,7 @@ use_preset_vocabulary: false
 虾	````
 翈	````
 匣	````
+呷	````
 吓	````
 柙	````
 瞎	````
@@ -128777,6 +129380,7 @@ use_preset_vocabulary: false
 狭	````
 侠	````
 硖	````
+叚	````
 瑕	````
 霞	````
 遐	````
@@ -128976,6 +129580,7 @@ use_preset_vocabulary: false
 疡	````
 痒	````
 泱	````
+殃	````
 洋	````
 漾	````
 阳	````
@@ -129015,16 +129620,19 @@ use_preset_vocabulary: false
 瘗	````
 癔	````
 疫	````
+痍	````
 肄	````
 𬟁	````
 苡	````
 艺	````
 薏	````
+艾	````
 荑	````
 殪	````
 浥	````
 潩	````
 沂	````
+漪	````
 溢	````
 义	````
 洢	````
@@ -129061,6 +129669,7 @@ use_preset_vocabulary: false
 医	````
 呓	````
 噫	````
+翳	````
 繄	````
 咿	````
 匜	````
@@ -129124,6 +129733,7 @@ use_preset_vocabulary: false
 羿	````
 刈	````
 怡	````
+翌	````
 怿	````
 忆	````
 诒	````
@@ -129142,6 +129752,7 @@ use_preset_vocabulary: false
 滟	````
 演	````
 渰	````
+奄	````
 淹	````
 沇	````
 漹	````
@@ -129155,11 +129766,14 @@ use_preset_vocabulary: false
 剡	````
 烟	````
 炎	````
+焱	````
 扊	````
+焰	````
 虤	````
 甗	````
 烻	````
 雁	````
+魇	````
 黡	````
 衍	````
 厣	````
@@ -129381,6 +129995,7 @@ use_preset_vocabulary: false
 渔	````
 鱼	````
 渝	````
+淤	````
 潏	````
 浴	````
 淯	````
