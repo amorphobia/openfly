@@ -136,7 +136,8 @@ $ofbd`d(标点)、，。	ofb
 
 ### 已知限制
 
-由于 librime-lua 的一个程序错误，直到 [00c999b](https://github.com/hchunhui/librime-lua/commit/00c999b3c9230d7a6a4f6410479e123b5010d9b8) 之后，才能正确地判断一个 `Composition` 是否为空，因此对于较旧的版本，候选展开不起作用，会直接上屏。请升级 rime 引擎到 [1.7.2](https://github.com/rime/librime/releases/tag/1.7.2) 或以上。
+1. 由于 librime-lua 的一个程序错误，直到 [00c999b](https://github.com/hchunhui/librime-lua/commit/00c999b3c9230d7a6a4f6410479e123b5010d9b8) 之后，才能正确地判断一个 `Composition` 是否为空，因此对于较旧的版本，候选展开不起作用，会直接上屏。请升级 rime 引擎到 [1.7.2](https://github.com/rime/librime/releases/tag/1.7.2) 或以上。
+2. 二重简码的切换开关暂时无法使用。目前 librime 最新的版本为 [1.7.3](https://github.com/rime/librime/releases/tag/1.7.3)，发布于2021年2月12日；二重简码切换开关依赖于 librime-lua 的 [88ba821](https://github.com/hchunhui/librime-lua/commit/88ba82165306ec6d49b9a9bfcd369d096a1f6d94)，代码合并于2021年3月5日。如果要将其打开，一个暂时的方案是在 `switches` 里加上一个名为 `openfly_enable_2nd_short` 的开关，设其值为 1，见[此例](https://github.com/amorphobia/my-rime-config/blob/ea4b310ea6336efa0626dc9ee1345a52152b7240/openfly.custom.yaml#L10)；有能力的可以使用最新的代码编译 librime 及其插件。
 
 ## 许可和授权条款
 
