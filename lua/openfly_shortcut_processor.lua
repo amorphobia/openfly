@@ -55,9 +55,12 @@ local function restore_saved_options(key, env)
 end
 
 local function processor(key, env)
-  restore_saved_options(key, env)
-  local context = env.engine.context
   local sys = common.detect_os()
+  if sys ~= "iOS" then
+    restore_saved_options(key, env)
+  end
+
+  local context = env.engine.context
   if key:release() or key:alt() then return common.kNoop end
   local index = common.select_index(env, key)
   if index < 0 then return common.kNoop end

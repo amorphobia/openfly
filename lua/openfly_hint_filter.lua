@@ -1,8 +1,11 @@
+local common = require("openfly_common")
+
 local function filter(input, env)
   local is_short = string.len(env.engine.context.input) < 3
   local yielded_count = 0
   local disable_2nd = false
-  if is_short then
+  local sys = common.detect_os()
+  if sys ~= "iOS" and is_short then
     disable_2nd = not env.engine.context:get_option("openfly_enable_2nd_short")
   end
   -- http://lua-users.org/lists/lua-l/2006-12/msg00440.html

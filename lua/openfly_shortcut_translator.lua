@@ -23,7 +23,8 @@ local labels = {
     ["ojf"] = {"[简繁切换]"},
     ["ojs"] = {"[计算器]"},
     ["owd"] = {"[Word]"},
-  }
+  },
+  ["iOS"] = {},
 }
 
 local function translator(input, seg)
