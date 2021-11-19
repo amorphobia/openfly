@@ -26,7 +26,8 @@ local command = {
     ["ogj"] = {'open "' .. user_path .. '"'},
     ["ojs"] = {'open -a Calculator.app'},
     ["owd"] = {'open -a "Microsoft Word.app"'},
-  }
+  },
+  ["iOS"] = {},
 }
 local option = {
   ["oei"] = {
