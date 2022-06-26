@@ -4,6 +4,10 @@
 
 词库开源的[小鹤音形](https://flypy.com) [Rime](https://rime.im) 输入方案
 
+## 现状
+
+由于小鹤官方的词库是「闭源」的，并且在禁止反编译的情况下难以导出，我已经放弃小鹤音形，转而使用[星空键道](https://github.com/xkinput/Rime_JD)（入门推荐[这个第三方教程](https://pingshunhuangalex.gitbook.io/rime-xkjd/)），词库版本就无限期停留在 [v9.9m](https://github.com/amorphobia/openfly/releases/tag/v9.9m)。但这个仓库不会归档，因此有任何词库上、lua 代码上的更新，欢迎提出拉取请求。如果有公认的更好的分叉仓库，我会更新 README 引流过去。
+
 ## 问题和资源
 
 ### 小鹤音形的使用相关
