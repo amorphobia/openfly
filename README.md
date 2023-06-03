@@ -18,6 +18,8 @@
 
 请参考 [Rime 官方帮助页面](https://rime.im/docs/), 以及网上也能搜索到许多教程。如果还是有问题，也可以在[讨论页面](https://github.com/amorphobia/openfly/discussions)提出。
 
+本配方使用了较新版本的 librime 的特性，而官方版小狼毫（Weasel）缺乏维护，其内置的 librime 版本可能不支持。如果遇到无法出字或部署出错的问题，请考虑改用有积极维护的 fork 版小狼毫 [fxliang/weasel](https://github.com/fxliang/weasel)。
+
 ### 本配方相关
 
 请先参考本文，如果是本文没有提到的使用上的问题，可以在[讨论页面](https://github.com/amorphobia/openfly/discussions)提出；如果怀疑是程序错误、词库错误、配置错误等，可以在[议题页面](https://github.com/amorphobia/openfly/issues)提出；如果想要贡献代码或修改词库，也可以提交[拉取请求](https://github.com/amorphobia/openfly/pulls)。
@@ -40,17 +42,6 @@ $ bash rime-install amorphobia/openfly:update
 $ bash rime-install amorphobia/openfly@merged_dict:update
 ```
 
-由于 plum 不能自动为 lua 脚本打补丁，因此还需手动在 `rime.lua` 文件中添加以下代码：
-<span id="patch"></span>
-```lua
-openfly_shortcut_processor = require("openfly_shortcut_processor")
-openfly_date_translator = require("openfly_date_translator")
-openfly_time_translator = require("openfly_time_translator")
-openfly_shortcut_translator = require("openfly_shortcut_translator")
-openfly_hint_filter = require("openfly_hint_filter")
-openfly_deletion_filter = require("openfly_deletion_filter")
-```
-
 ### 特定版本
 东风破 安装口令：
 ```bash
@@ -60,12 +51,11 @@ $ bash rime-install amorphobia/openfly@<tag>
 注意：
 - [版本列表](https://github.com/amorphobia/openfly/releases)
 - v9.9j 版本不支持自动复制 lua 脚本，需手动复制
-- 需要在 `rime.lua` 中添加[补丁代码](#patch)
 
 ### 手动安装
 1. 将所需文件复制（或软链）到 Rime 的用户目录
 
-2. 将 `lua` 目录中的所有 `*.lua` 文件复制（或软链）到 Rime 的用户目录中的 `lua` 目录下，若无此目录需要新建，并在用户目录中的 `rime.lua` 文件后添加[补丁代码](#patch)
+2. 将 `lua` 目录中的所有 `*.lua` 文件复制（或软链）到 Rime 的用户目录中的 `lua` 目录下，若无此目录需要新建
 
 3. 在 `defult.custom.yaml` 里启用此方案，然后重新部署
 

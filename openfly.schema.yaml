@@ -27,7 +27,7 @@ switches:
 
 engine:
   processors:
-    - lua_processor@openfly_shortcut_processor
+    - lua_processor@*openfly_shortcut_processor
     - ascii_composer
     - recognizer
     - key_binder
@@ -45,14 +45,14 @@ engine:
   translators:
     - punct_translator
     - table_translator
-    - lua_translator@openfly_date_translator
-    - lua_translator@openfly_time_translator
-    - lua_translator@openfly_shortcut_translator
+    - lua_translator@*openfly_date_translator
+    - lua_translator@*openfly_time_translator
+    - lua_translator@*openfly_shortcut_translator
     - reverse_lookup_translator
     - history_translator@history
   filters:
-    - lua_filter@openfly_hint_filter
-    - lua_filter@openfly_deletion_filter
+    - lua_filter@*openfly_hint_filter
+    - lua_filter@*openfly_deletion_filter
     - simplifier
     - simplifier@simplification
     - uniquifier
