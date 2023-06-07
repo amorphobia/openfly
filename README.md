@@ -18,7 +18,7 @@
 
 请参考 [Rime 官方帮助页面](https://rime.im/docs/), 以及网上也能搜索到许多教程。如果还是有问题，也可以在[讨论页面](https://github.com/amorphobia/openfly/discussions)提出。
 
-本配方使用了较新版本的 librime 的特性，而官方版小狼毫（Weasel）缺乏维护，其内置的 librime 版本可能不支持。如果遇到无法出字或部署出错的问题，请考虑改用有积极维护的 fork 版小狼毫 [fxliang/weasel](https://github.com/fxliang/weasel)。
+本配方使用了较新版本的 librime 的特性，Windows 用户请升级到[小狼毫 0.15.0](https://github.com/rime/weasel/releases/tag/0.15.0) 或以上版本。
 
 ### 本配方相关
 
