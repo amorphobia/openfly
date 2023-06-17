@@ -6,7 +6,7 @@
 
 ---
 name: openfly.off-table
-version: "v9.9m"
+version: "v10.9z"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -75,7 +75,6 @@ use_preset_vocabulary: false
 擝	mgfm
 尛	moxx
 搣	mpfh
-槑	mwk
 槑	mwkm
 躾	mwud
 嗱	naku

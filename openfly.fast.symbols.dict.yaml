@@ -10,32 +10,35 @@
 
 ---
 name: openfly.fast.symbols
-version: "v9.9m"
+version: "v10.9z"
 sort: by_weight
 use_preset_vocabulary: false
 ...
 ：	;
 ；	;
 ！	;a
-》	;b
+_	;b
 ”	;c
 、	;d
 （	;e
-《	;g
-《》	;h
-〈	;i
-“”	;j
-（）	;k
-—	;l
-〔〕	;m
-〉	;o
-～	;p
+|	;f
+·	;g
+=	;h
+-	;i
++	;j
+(	;k
+)	;l
+」	;m
+「	;n
+[	;o
+]	;p
 ：“	;q
 ）	;r
 ……	;s
 @	;t
+》	;u
 ——	;v
 ？	;w
 →	;x
-·	;y
+《	;y
 “	;z
