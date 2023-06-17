@@ -1,4 +1,5 @@
 # Rime dictionary
+
 # encoding: utf-8
 #
 # Credit: 何海峰 <flypy@qq.com>
@@ -6,14 +7,14 @@
 
 ---
 name: openfly.symbols
-version: "v9.9m"
+version: "v10.9z"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-！	oa
+&	oa
 %	ob
-一	oba	100
-鱼	oba	99
+一	oba	111
+鱼	oba
 冖	obb	100
 宀	obb	99
 丷	obb	98
@@ -22,11 +23,11 @@ use_preset_vocabulary: false
 比左部	obb	95
 艹	obc	100
 廾	obc	99
-丶	obd	100
-冫	obd	99
-氵	obd	98
-⺈	obd	97
-刂	obd	96
+丶	obd	111
+冫	obd	100
+氵	obd	99
+⺈	obd	98
+刂	obd	97
 阝	obe	100
 卩	obe	99
 彐	obe	98
@@ -56,20 +57,20 @@ use_preset_vocabulary: false
 凵	obk	98
 囗	obk	97
 㠯	obk	96
-丨	obl	100
-耂	obl	99
-立	obl	98
-龙	obl	97
+丨	obl	111
+耂	obl	100
+立	obl	99
+龙	obl	98
 朩	obm
-乀	obn	100
-⺧	obn	99
-牜	obn	98
+乀	obn	111
+⺧	obn	100
+牜	obn	99
 日	obo	100
 月	obo	99
 目	obo	98
-丿	obp	100
-礻	obp	99
-衤	obp	98
+丿	obp	111
+礻	obp	100
+衤	obp	99
 犭	obq	100
 求	obq	99
 具其上部	obq	98
@@ -84,9 +85,9 @@ use_preset_vocabulary: false
 𠂇	obu	98
 氺	obu	97
 石	obu	96
-乛	obv	100
-⺮	obv	99
-豸	obv	98
+乛	obv	111
+⺮	obv	100
+豸	obv	99
 亠	obw	100
 夂	obw	99
 攵	obw	98
@@ -104,33 +105,10 @@ use_preset_vocabulary: false
 ⻊	obz	100
 廴	obz	99
 辶	obz	98
-”	oc
-、	od
-$ofbd`bd(标点)、，。	of
-$ofpp`pp(偏旁)亻彳讠	of
-$ofdw`dw(单位)㎎㎏㎜	of
-$ofpy`py(拼音)āōē	of
-$ofjt`jt(箭头)←→↑	of
-$ofyu`yu(圆圈数字)①②③	of
-$ofku`ku(括号数字)⑴⑵⑶	of
-$ofdu`du(点号数字)⒈⒉⒊	of
-$ofvu`vu(中文数字)㈠㈡㈢	of
-$ofld`ld(罗马大写)ⅠⅡⅢ	of
-$oflx`lx(罗马小写)ⅰⅱⅲ	of
-$ofub`ub(上标)¹²³	of
-$ofxb`xb(下标)₁₂₃	of
-$oftu`tu(特殊符号)℃°‰	of
-$ofux`ux(数学符号)＋－＜	of
-$ofhb`hb(货币符号)€＄￠	of
-$ofvb`vb(制表符号)┌└┐	of
-$ofvy`vy(注音符号)ㄅㄆㄇ	of
-$ofxd`xd(希腊大写)ΑΒΓ	of
-$ofxx`xx(希腊小写)αβγ	of
-$ofed`ed(俄文大写)АБВ	of
-$ofex`ex(俄文小写)абв	of
-$ofrd`rd(日文大写)ァアィ	of
-$ofrx`rx(日文小写)ぁあぃ	of
-$ofbd`d(标点)、，。	ofb
+-	oc
+=	od
+^	of
+标点d	ofb
 “”	ofbd	100
 （）	ofbd	99
 《》	ofbd	98
@@ -162,11 +140,11 @@ $ofbd`d(标点)、，。	ofb
 ‖	ofbd	72
 ∶	ofbd	71
 ＂	ofbd	70
-＇	ofbd	69
+	ofbd	69
 ｀	ofbd	68
 ｜	ofbd	67
-$ofdw`w(单位)㎎㎏㎜	ofd	100
-$ofdu`u(点号数字)⒈⒉⒊	ofd	99
+点数u	ofd	100
+单位w	ofd	99
 ⒈	ofdu	100
 ⒉	ofdu	99
 ⒊	ofdu	98
@@ -201,8 +179,8 @@ nm	ofdw	94
 ㏑	ofdw	89
 ㏒	ofdw	88
 ㏕	ofdw	87
-$ofed`d(俄文大写)АБВ	ofe	100
-$ofex`x(俄文小写)абв	ofe	99
+俄大d	ofe	100
+俄小x	ofe	99
 А	ofed	100
 Б	ofed	99
 В	ofed	98
@@ -269,7 +247,7 @@ $ofex`x(俄文小写)абв	ofe	99
 ю	ofex	70
 я	ofex	69
 ё	ofex	68
-$ofhb`b(货币符号)€$￠	ofh
+货币b	ofh
 €	ofhb	100
 $	ofhb	99
 ￠	ofhb	98
@@ -278,7 +256,19 @@ $	ofhb	99
 ¥	ofhb	94
 ￥	ofhb	93
 ฿	ofhb	92
-$ofjt`t(箭头)←→↑	ofj
+═	ofht	100
+║	ofht	99
+╧	ofht	98
+╪	ofht	97
+╤	ofht	96
+╡	ofht	95
+╞	ofht	94
+▁	ofht	93
+╕	ofht	92
+╒	ofht	91
+╛	ofht	90
+╘	ofht	89
+箭头t	ofj
 ←	ofjt	100
 →	ofjt	99
 ↑	ofjt	98
@@ -289,7 +279,7 @@ $ofjt`t(箭头)←→↑	ofj
 ↖	ofjt	93
 ↔	ofjt	92
 ↕	ofjt	91
-$ofku`u(括号数字)⑴⑵⑶	ofk
+括数	ofk
 ⑴	ofku	100
 ⑵	ofku	99
 ⑶	ofku	98
@@ -310,8 +300,8 @@ $ofku`u(括号数字)⑴⑵⑶	ofk
 ⒅	ofku	83
 ⒆	ofku	82
 ⒇	ofku	81
-$ofld`d(罗马大写)ⅠⅡⅢ	ofl	100
-$oflx`x(罗马小写)ⅰⅱⅲ	ofl	99
+罗大d	ofl	100
+罗小x	ofl	99
 Ⅰ	ofld	100
 Ⅱ	ofld	99
 Ⅲ	ofld	98
@@ -334,8 +324,8 @@ $oflx`x(罗马小写)ⅰⅱⅲ	ofl	99
 ⅷ	oflx	93
 ⅸ	oflx	92
 ⅹ	oflx	91
-$ofpp`p(偏旁)亻彳讠	ofp	100
-$ofpy`y(拼音)āōē	ofp	99
+偏旁p	ofp	100
+拼音y	ofp	99
 勹	ofpp	100
 灬	ofpp	99
 冫	ofpp	98
@@ -403,8 +393,8 @@ $ofpy`y(拼音)āōē	ofp	99
 ú	ofpy	77
 ǔ	ofpy	76
 ù	ofpy	75
-$ofrd`d(日文大写)ァアィ	ofr	100
-$ofrx`x(日文小写)ぁあぃ	ofr	99
+日大d	ofr	100
+日小x	ofr	99
 ァ	ofrd	100
 ア	ofrd	99
 ィ	ofrd	98
@@ -581,7 +571,7 @@ $ofrx`x(日文小写)ぁあぃ	ofr	99
 ゜	ofrx	16
 ゝ	ofrx	15
 ゞ	ofrx	14
-$oftu`u(特殊符号)℃°‰	oft
+特殊u	oft
 ℃	oftu	100
 °	oftu	99
 ‰	oftu	98
@@ -609,8 +599,8 @@ $oftu`u(特殊符号)℃°‰	oft
 ＾	oftu	76
 ＿	oftu	75
 ￣	oftu	74
-$ofub`b(上标)¹²³	ofu	100
-$ofux`x(数学符号)＋－＜	ofu	99
+上标b	ofu	99
+数学x	ofu
 ¹	ofub	100
 ²	ofub	99
 ³	ofub	98
@@ -673,9 +663,9 @@ $ofux`x(数学符号)＋－＜	ofu	99
 ⊙	ofux	58
 ⊥	ofux	57
 ⊿	ofux	56
-$ofvu`u(中文数字)㈠㈡㈢	ofv	100
-$ofvb`b(制表符号)┌└┐	ofv	99
-$ofvy`y(注音符号)ㄅㄆㄇ	ofv	98
+中数u	ofv	100
+制表b	ofv	99
+注音y	ofv	99
 ┌	ofvb	100
 └	ofvb	99
 ┐	ofvb	98
@@ -687,17 +677,6 @@ $ofvy`y(注音符号)ㄅㄆㄇ	ofv	98
 ┬	ofvb	92
 ┴	ofvb	91
 ┼	ofvb	90
-┏	ofvb	89
-┗	ofvb	88
-┓	ofvb	87
-┛	ofvb	86
-━	ofvb	85
-┃	ofvb	84
-┣	ofvb	83
-┫	ofvb	82
-┳	ofvb	81
-┻	ofvb	80
-╋	ofvb	79
 ㈠	ofvu	100
 ㈡	ofvu	99
 ㈢	ofvu	98
@@ -745,9 +724,9 @@ $ofvy`y(注音符号)ㄅㄆㄇ	ofv	98
 ㄤ	ofvy	66
 ㄥ	ofvy	65
 ㄦ	ofvy	64
-$ofxb`b(下标)₁₂₃	ofx	100
-$ofxd`d(希腊大写)ΑΒΓ	ofx	99
-$ofxx`x(希腊小写)αβγ	ofx	98
+西大d	ofx	100
+下标b	ofx	99
+西小x	ofx	99
 ₁	ofxb	100
 ₂	ofxb	99
 ₃	ofxb	98
@@ -813,7 +792,7 @@ $ofxx`x(希腊小写)αβγ	ofx	98
 χ	ofxx	79
 ψ	ofxx	78
 ω	ofxx	77
-$ofyu`u(圆圈数字)①②③	ofy
+圆数u	ofy
 ①	ofyu	100
 ②	ofyu	99
 ③	ofyu	98
@@ -824,146 +803,260 @@ $ofyu`u(圆圈数字)①②③	ofy
 ⑧	ofyu	93
 ⑨	ofyu	92
 ⑩	ofyu	91
-(	oh
-/wx	oi
-)	oj
-《	ok
-》	ol
-〕	om
-〔	on
-～	op
+*	oh
+ā	oha	100
+á	oha	99
+ǎ	oha	98
+à	oha	97
+ē	ohe	100
+é	ohe	99
+ě	ohe	98
+è	ohe	97
+ê	ohe	96
+ī	ohi	100
+í	ohi	99
+ǐ	ohi	98
+ì	ohi	97
+ḿ	ohm	100
+m̀	ohm	99
+ń	ohn	100
+ň	ohn	99
+ǹ	ohn	98
+ō	oho	100
+ó	oho	99
+ǒ	oho	98
+ò	oho	97
+ū	ohu	100
+ú	ohu	99
+ǔ	ohu	98
+ù	ohu	97
+ü	ohv	100
+ǖ	ohv	99
+ǘ	ohv	98
+ǚ	ohv	97
+ǜ	ohv	96
+😊	oi
+😌	oia
+🤫	oiaj
+😌	oiax
+🤗	oib
+🤗	oibb
+☹	oibm
+🙏	oibt
+🤭	oibu
+🙄	oiby
+😒	oibz
+🤐	oibz
+😁	oic
+🖕	oicc
+🐹	oicu
+😁	oicy
+😄	oid
+💩	oidb
+🎂	oidg
+😭	oidk
+🙃	oidl
+🐘	oidx
+😄	oidx
+😏	oidy
+🤢	oie
+🤢	oiex
+🐊	oiey
+😡	oif
+🍚	oifj
+😡	oifn
+😘	oifw
+👏	oig
+🍻	oigb
+🥂	oigb
+🚶🐎👀🌸	oigh
+🇨🇳	oigq
+🐶	oigt
+👏	oigv
+✅	oigz
+🐕	oigz
+🥱	oih
+😀	oiha
+🦋	oihd
+🈵🍜🔴💥	oihg
+🙂	oihh
+😋	oihi
+😍	oihi
+😓	oihj
+🥱	oihq
+🐡	oiht
+🐬	oiht
+🐯	oiht
+🐵	oiht
+🐅	oihu
+🌸	oihx
+🍐🌹💰🌂	oihy
+😶	oii
+❎	oiia
+🍵	oiia
+🐛	oiii
+😯	oiij
+😶	oiim
+😤	oiiq
+😔	oiis
+😣	oij
+🐓	oiji
+🐔	oiji
+😣	oiji
+😱	oijk
+❗️	oijt
+🐋	oijy
+🐳	oijy
+🐾	oijy
+😲	oijy
+😢	oik
+☕️	oikf
+😕	oikh
+😨	oikj
+🐨	oikl
+😢	oiku
+😷	oikv
+😪	oiky
+😓	oil
+😓	oilh
+😰	oilh
+💔	oilk
+😐	oilm
+🐉	oils
+🐲	oils
+🐫	oilt
+🐺	oilt
+🐁	oilu
+😋	oim
+🐎	oima
+🐈	oimc
+🐝	oimf
+🌹	oimg
+🐎🐎🐅🐅	oimh
+😎	oimj
+🍜	oimm
+🐱	oimt
+🐴	oimt
+😋	oimw
+🐜	oimy
+💢	oin
+🐦	oinn
+🐂	oinq
+🐂🚶	oinr
+🐮	oint
+👌	oio
+😑	oiog
+👌	oiok
+🤮	oiot
+😕	oip
+😫	oipb
+🐞	oipi
+🍺️	oipj
+😕	oipz
+👍	oiq
+🐧	oiqe
+🐛	oiqi
+👍	oiql
+💰	oiqm
+😜	oiqp
+😚	oiqq
+🐸	oiqw
+👎	oir
+🚶	oirf
+👎	oiro
+🤔	ois
+🤔	oisk
+🤭	oit
+😧	oitk
+🤨	oitm
+😇	oitu
+😛	oitu
+🤭	oitx
+🍑	oitz
+🐇	oitz
+🐰	oitz
+😚	oitz
+😖	oiub
+🐍	oiue
+🤥	oiuh
+😴	oiuj
+😠	oiuq
+🐭	oiut
+🤕	oiuu
+💦	oiuv
+😞	oiuw
+😥	oiuw
+😉	oiv
+💣	oivd
+🐷	oivt
+🐖	oivu
+😉	oivy
+😙	oiw
+😙	oiwf
+🐢	oiwg
+❓	oiwh
+🐌	oiwn
+😊	oiwx
+😑	oiwy
+😂	oix
+🤣	oixd
+🍉	oixg
+🤡	oixi
+🐤	oixj
+😂	oixk
+🐼	oixm
+😊	oixn
+🐻	oixs
+🤫	oixu
+🤔	oixx
+😵	oiy
+🐏	oiyh
+🐑	oiyh
+👀	oiyj
+🌚	oiyl
+🌝	oiyl
+🐟	oiyu
+😟	oiyu
+😵	oiyy
+#	oj
+<	ok	90
+>	ol
+~	op
+ā	opa	90
+á	opa	80
+ǎ	opa	70
+à	opa	60
+ē	ope	90
+é	ope	80
+ě	ope	70
+è	ope	60
+ê	ope	50
+ī	opi	90
+í	opi	80
+ǐ	opi	70
+ì	opi	60
+ḿ	opm	90
+m̀	opm	80
+ń	opn	90
+ň	opn	80
+ǹ	opn	70
+ō	opo	90
+ó	opo	80
+ǒ	opo	70
+ò	opo	60
+ū	opu	90
+ú	opu	80
+ǔ	opu	70
+ù	opu	60
+ü	opv	90
+ǖ	opv	80
+ǘ	opv	70
+ǚ	opv	60
+ǜ	opv	50
 ‰	oq
-/doge	oqaj
-/am	oqam
-/aini	oqan
-/aiq	oqaq
-/bb	oqbb
-/bp	oqbp
-/bq	oqbq
-/bt	oqbt
-/bs	oqbu
-/baiy	oqby
-/bz	oqbz
-/cd	oqcd
-/ch	oqch
-/cs	oqcs
-/cy	oqcy
-/db	oqdb
-/dao	oqdc
-/dg	oqdg
-/dk	oqdk
-/dx	oqdx
-/dy	oqdy
-/dz	oqdz
-/emm	oqem
-/fd	oqfd
-/fendou	oqfd
-/fan	oqfj
-/fn	oqfn
-/fw	oqfw
-/gg	oqgg
-/azgc	oqgi
-/gz	oqgv
-/gy	oqgy
-/hb	oqhb
-/yhh	oqhh
-/zhh	oqhh
-/hn	oqhn
-/hq	oqhq
-/ht	oqht
-/hsh	oqhu
-/hanx	oqhx
-/huaix	oqhx
-/hx	oqhx
-/cg	oqig
-/chi	oqii
-/cj	oqij
-/cp	oqip
-/jd	oqjd
-/jie	oqje
-/xjj	oqjj
-/jk	oqjk
-/jw	oqjw
-/jx	oqjx
-/jy	oqjy
-/ka	oqka
-/kb	oqkb
-/kf	oqkf
-/kg	oqkg
-/kk	oqkk
-/kel	oqkl
-/kl	oqkl
-/kt	oqkt
-/kuk	oqku
-/kun	oqky
-/lb	oqlb
-/lengh	oqlh
-/lh	oqlh
-/ll	oqll
-/lw	oqlw
-/mg	oqmg
-/mm	oqmm
-/ng	oqng
-/nkt	oqnk
-/no	oqno
-/oh	oqoh
-/ok	oqok
-/tuu	oqot
-/oy	oqoy
-/pj	oqpj
-/px	oqpx
-/pz	oqpz
-/qq	oqqb
-/qiao	oqqd
-/qiang	oqql
-/qd	oqqq
-/qt	oqqt
-/ruo	oqro
-/se	oqse
-/sr	oqsr
-/tl	oqtl
-/tiao	oqtn
-/tp	oqtp
-/ts	oqts
-/tx	oqtx
-/ty	oqty
-/shuai	oquk
-/shl	oqul
-/shui	oquv
-/zhd	oqvd
-/zk	oqvk
-/zhem	oqvm
-/zhm	oqvm
-/zhq	oqvq
-/zt	oqvt
-/zyj	oqvy
-/whl	oqwh
-/wl	oqwl
-/wul	oqwl
-/wn	oqwn
-/wq	oqwq
-/ws	oqwu
-/wx	oqwx
-/xig	oqxg
-/xk	oqxk
-/xs	oqxs
-/xu...	oqxu
-/xw	oqxw
-/xia	oqxx
-/xyx	oqxy
-/yb	oqyb
-/yao	oqyc
-/yl	oqyl
-/youl	oqyl
-/yiw	oqyw
-/yx	oqyx
-/yun	oqyy
-/zj	oqzj
-/wzm	oqzm
-……	os
-α	ota	100
-＆	ota	99
-%	otb	100
+$	os
+＆	ota	100
+α	ota	99
 β	otb	99
 ©	otb	98
 ℃	otc
@@ -987,10 +1080,12 @@ $ofyu`u(圆圈数字)①②③	ofy
 ÷	oti	99
 ＋	otj	100
 －	otj	99
-m³	otl
+♪	otk	100
+␣	otk	99
+m³	otl	100
 ″	otm	100
 μ	otm	99
-$	otm	98
+﹩	otm	98
 ￠	otm	97
 ♂	otn	100
 ♀	otn	99
@@ -999,36 +1094,46 @@ $	otm	98
 Ω	oto	99
 ㎡	otp	100
 π	otp	99
-‰	otq
+☰	otq	100
+☷	otq	99
 ¥	otr	100
-￥	otr	99
 ∴	ots	100
 ∵	ots	99
 △	ots	98
 ▲	ots	97
 ฿	ott	100
 ℡	ott	99
-™	otu
+ϟ	otu	98
+囍	otu	97
+™	otu	96
 §	otv	100
 ®	otv	99
 ㈱	otv	98
-∞	otw	100
-卍	otw	99
-卐	otw	98
-≤	otx	100
-＜	otx	99
-☆	otx	98
-★	otx	97
+‱	otw	100
+∞	otw	99
+卍	otw	98
+卐	otw	97
+≤	otx	96
+＜	otx	95
+☆	otx	94
+★	otx	93
 £	oty	100
-≈	oty	99
-○	oty	98
-●	oty	97
-？	ow
+ü	oty	99
+≈	oty	98
+○	oty	97
+●	oty	96
+←	otz	100
+→	otz	99
+↑	otz	98
+↓	otz	97
+_	ow
 [傲慢]	owam
 [爱心]	owax
 [便便]	owbb
 [抱拳]	owbq
+[合十]	owbt
 [鄙视]	owbu
+[爆竹]	owbv
 [白眼]	owby
 [翻白眼]	owby
 [闭嘴]	owbz
@@ -1043,42 +1148,47 @@ $	otm	98
 [Emm]	owem
 [發]	owfa
 [发呆]	owfd
-[奋斗]	owfd
 [发抖]	owfd
+[奋斗]	owfd
 [发怒]	owfn
 [福]	owfu
 [尴尬]	owgg
 [鼓掌]	owgv
 [勾引]	owgy
 [红包]	owhb
-[左哼哼]	owhh
+[好的]	owhd
 [右哼哼]	owhh
 [嘿哈]	owhh
+[左哼哼]	owhh
 [汗]	owhj
 [哈欠]	owhq
+[合十]	owhu
+[坏笑]	owhx
 [害羞]	owhx
 [憨笑]	owhx
-[坏笑]	owhx
 [吃瓜]	owig
 [惊恐]	owjk
 [囧]	owjs
 [机智]	owjv
 [奸笑]	owjx
-[惊讶]	owjy
 [加油]	owjy
 [加油加油]	owjy
+[惊讶]	owjy
 [抠鼻]	owkb
 [咖啡]	owkf
+[恐惧]	owkj
 [快哭了]	owkk
 [让我看看]	owkk
-[骷髅]	owkl
 [可怜]	owkl
+[骷髅]	owkl
 [苦涩]	owks
 [困]	owky
 [流汗]	owlh
+[脸红]	owlh
 [裂开]	owlk
-[流泪]	owll
 [666]	owll
+[流泪]	owll
+[礼物]	owlw
 [玫瑰]	owmg
 [难过]	owng
 [怄火]	owoh
@@ -1089,19 +1199,23 @@ $	otm	98
 [强]	owql
 [亲亲]	owqq
 [拳头]	owqt
+[庆祝]	owqv
 [弱]	owro
 [色]	owse
 [天啊]	owta
+[天啊]	owtn
 [调皮]	owtp
 [叹气]	owtq
 [跳跳]	owtt
 [吐]	owtu
 [偷笑]	owtx
 [太阳]	owty
+[生病]	owub
 [社会社会]	owuh
 [衰]	owuk
 [胜利]	owul
 [睡]	owuv
+[失望]	owuw
 [炸弹]	owvd
 [抓狂]	owvk
 [咒骂]	owvm
@@ -1116,10 +1230,12 @@ $	otm	98
 [微笑]	owwx
 [西瓜]	owxg
 [破涕为笑]	owxk
+[笑脸]	owxl
 [心碎]	owxs
 [嘘]	owxu
 [拥抱]	owyb
 [耶]	owye
+[烟花]	owyh
 [愉快]	owyk
 [月亮]	owyl
 [疑问]	owyw
@@ -1361,28 +1477,29 @@ $	otm	98
 弋	oxy	75
 聿	oxy	74
 雨	oxy	73
-曳	oxy	72
 再	oxz	100
 自	oxz	99
 子	oxz	98
-⑧	oyb	100
-Ⅷ	oyb	99
-④	oyd	100
-Ⅳ	oyd	99
-②	oye	100
-Ⅱ	oye	99
-⑨	oyj	100
-Ⅸ	oyj	99
-⑥	oyl	100
-Ⅵ	oyl	99
-⑦	oyq	100
-Ⅶ	oyq	99
-③	oys	100
-Ⅲ	oys	99
-⑩	oyu	100
-Ⅹ	oyu	99
-⑤	oyw	100
-Ⅴ	oyw	99
-①	oyy	100
-Ⅰ	oyy	99
-“	oz
+⑧	oyb	90
+Ⅷ	oyb	30
+②	oye	90
+Ⅱ	oye	30
+④	oyf	90
+Ⅳ	oyf	30
+⑨	oyj	90
+Ⅸ	oyj	30
+⑥	oyl	90
+Ⅵ	oyl	30
+⑦	oyq	90
+Ⅶ	oyq	30
+③	oys	90
+Ⅲ	oys	30
+④	oysi	90
+Ⅳ	oysi	30
+⑩	oyu	90
+Ⅹ	oyu	30
+⑤	oyw	90
+Ⅴ	oyw	30
+①	oyy	90
+Ⅰ	oyy	30
++	oz

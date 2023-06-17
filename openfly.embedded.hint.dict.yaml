@@ -6,7 +6,7 @@
 
 ---
 name: openfly.embedded.hint
-version: "v9.9m"
+version: "v10.9z"
 sort: by_weight
 use_preset_vocabulary: false
 ...
