@@ -108,7 +108,31 @@ use_preset_vocabulary: false
 -	oc
 =	od
 ^	of
-标点d	ofb
+$ofbd`bd(标点)、，。	of
+$ofpp`pp(偏旁)亻彳讠	of
+$ofdw`dw(单位)㎎㎏㎜	of
+$ofpy`py(拼音)āōē	of
+$ofjt`jt(箭头)←→↑	of
+$ofyu`yu(圆圈数字)①②③	of
+$ofku`ku(括号数字)⑴⑵⑶	of
+$ofdu`du(点号数字)⒈⒉⒊	of
+$ofvu`vu(中文数字)㈠㈡㈢	of
+$ofld`ld(罗马大写)ⅠⅡⅢ	of
+$oflx`lx(罗马小写)ⅰⅱⅲ	of
+$ofub`ub(上标)¹²³	of
+$ofxb`xb(下标)₁₂₃	of
+$oftu`tu(特殊符号)℃°‰	of
+$ofux`ux(数学符号)＋－＜	of
+$ofhb`hb(货币符号)€＄￠	of
+$ofvb`vb(制表符号)┌└┐	of
+$ofvy`vy(注音符号)ㄅㄆㄇ	of
+$ofxd`xd(希腊大写)ΑΒΓ	of
+$ofxx`xx(希腊小写)αβγ	of
+$ofed`ed(俄文大写)АБВ	of
+$ofex`ex(俄文小写)абв	of
+$ofrd`rd(日文大写)ァアィ	of
+$ofrx`rx(日文小写)ぁあぃ	of
+$ofbd`d(标点)、，。	ofb
 “”	ofbd	100
 （）	ofbd	99
 《》	ofbd	98
@@ -143,8 +167,8 @@ use_preset_vocabulary: false
 	ofbd	69
 ｀	ofbd	68
 ｜	ofbd	67
-点数u	ofd	100
-单位w	ofd	99
+$ofdu`u(点号数字)⒈⒉⒊	ofd	100
+$ofdw`w(单位)㎎㎏㎜	ofd	99
 ⒈	ofdu	100
 ⒉	ofdu	99
 ⒊	ofdu	98
@@ -179,8 +203,8 @@ nm	ofdw	94
 ㏑	ofdw	89
 ㏒	ofdw	88
 ㏕	ofdw	87
-俄大d	ofe	100
-俄小x	ofe	99
+$ofed`d(俄文大写)АБВ	ofe	100
+$ofex`x(俄文小写)абв	ofe	99
 А	ofed	100
 Б	ofed	99
 В	ofed	98
@@ -247,7 +271,7 @@ nm	ofdw	94
 ю	ofex	70
 я	ofex	69
 ё	ofex	68
-货币b	ofh
+$ofhb`b(货币符号)€$￠	ofh
 €	ofhb	100
 $	ofhb	99
 ￠	ofhb	98
@@ -268,7 +292,7 @@ $	ofhb	99
 ╒	ofht	91
 ╛	ofht	90
 ╘	ofht	89
-箭头t	ofj
+$ofjt`t(箭头)←→↑	ofj
 ←	ofjt	100
 →	ofjt	99
 ↑	ofjt	98
@@ -279,7 +303,7 @@ $	ofhb	99
 ↖	ofjt	93
 ↔	ofjt	92
 ↕	ofjt	91
-括数	ofk
+$ofku`u(括号数字)⑴⑵⑶	ofk
 ⑴	ofku	100
 ⑵	ofku	99
 ⑶	ofku	98
@@ -300,8 +324,8 @@ $	ofhb	99
 ⒅	ofku	83
 ⒆	ofku	82
 ⒇	ofku	81
-罗大d	ofl	100
-罗小x	ofl	99
+$ofld`d(罗马大写)ⅠⅡⅢ	ofl	100
+$oflx`x(罗马小写)ⅰⅱⅲ	ofl	99
 Ⅰ	ofld	100
 Ⅱ	ofld	99
 Ⅲ	ofld	98
@@ -324,8 +348,8 @@ $	ofhb	99
 ⅷ	oflx	93
 ⅸ	oflx	92
 ⅹ	oflx	91
-偏旁p	ofp	100
-拼音y	ofp	99
+$ofpp`p(偏旁)亻彳讠	ofp	100
+$ofpy`y(拼音)āōē	ofp	99
 勹	ofpp	100
 灬	ofpp	99
 冫	ofpp	98
@@ -393,8 +417,8 @@ $	ofhb	99
 ú	ofpy	77
 ǔ	ofpy	76
 ù	ofpy	75
-日大d	ofr	100
-日小x	ofr	99
+$ofrd`d(日文大写)ァアィ	ofr	100
+$ofrx`x(日文小写)ぁあぃ	ofr	99
 ァ	ofrd	100
 ア	ofrd	99
 ィ	ofrd	98
@@ -571,7 +595,7 @@ $	ofhb	99
 ゜	ofrx	16
 ゝ	ofrx	15
 ゞ	ofrx	14
-特殊u	oft
+$oftu`u(特殊符号)℃°‰	oft
 ℃	oftu	100
 °	oftu	99
 ‰	oftu	98
@@ -599,8 +623,8 @@ $	ofhb	99
 ＾	oftu	76
 ＿	oftu	75
 ￣	oftu	74
-上标b	ofu	99
-数学x	ofu
+$ofub`b(上标)¹²³	ofu	99
+$ofux`x(数学符号)＋－＜	ofu
 ¹	ofub	100
 ²	ofub	99
 ³	ofub	98
@@ -663,9 +687,9 @@ $	ofhb	99
 ⊙	ofux	58
 ⊥	ofux	57
 ⊿	ofux	56
-中数u	ofv	100
-制表b	ofv	99
-注音y	ofv	99
+$ofvu`u(中文数字)㈠㈡㈢	ofv	100
+$ofvb`b(制表符号)┌└┐	ofv	99
+$ofvy`y(注音符号)ㄅㄆㄇ	ofv	99
 ┌	ofvb	100
 └	ofvb	99
 ┐	ofvb	98
@@ -724,9 +748,9 @@ $	ofhb	99
 ㄤ	ofvy	66
 ㄥ	ofvy	65
 ㄦ	ofvy	64
-西大d	ofx	100
-下标b	ofx	99
-西小x	ofx	99
+$ofxd`d(希腊大写)ΑΒΓ	ofx	100
+$ofxb`b(下标)₁₂₃	ofx	99
+$ofxx`x(希腊小写)αβγ	ofx	99
 ₁	ofxb	100
 ₂	ofxb	99
 ₃	ofxb	98
@@ -792,7 +816,7 @@ $	ofhb	99
 χ	ofxx	79
 ψ	ofxx	78
 ω	ofxx	77
-圆数u	ofy
+$ofyu`u(圆圈数字)①②③	ofy
 ①	ofyu	100
 ②	ofyu	99
 ③	ofyu	98

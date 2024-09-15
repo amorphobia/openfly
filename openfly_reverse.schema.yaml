@@ -4,7 +4,7 @@
 schema:
   schema_id: openfly_reverse
   name: 开源小鹤反查
-  version: "v9.9m"
+  version: "v10.9z"
   author:
     - amorphobia <xu350n9@gmail.com>
   description: |

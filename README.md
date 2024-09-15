@@ -10,7 +10,7 @@
 
 ## 现状
 
-由于小鹤官方的词库是「闭源」的，并且在禁止反编译的情况下难以导出，我已经放弃小鹤音形，转而使用[星空键道](https://github.com/xkinput/Rime_JD)（入门推荐[这个第三方教程](https://pingshunhuangalex.gitbook.io/rime-xkjd/)），词库版本就无限期停留在 [v9.9m](https://github.com/amorphobia/openfly/releases/tag/v9.9m)。但这个仓库不会归档，因此有任何词库上、lua 代码上的更新，欢迎提出拉取请求。如果有公认的更好的分叉仓库，我会更新 README 引流过去。
+由于小鹤官方的词库是「闭源」的，并且在禁止反编译的情况下难以导出，我已经放弃小鹤音形，转而使用[星空键道](https://github.com/xkinput/Rime_JD)（入门推荐[这个第三方教程](https://pingshunhuangalex.gitbook.io/rime-xkjd/)），词库版本就无限期停留在 [v10.9z](https://github.com/amorphobia/openfly/releases/tag/v10.9z)。但这个仓库不会归档，因此有任何词库上、lua 代码上的更新，欢迎提出拉取请求。如果有公认的更好的分叉仓库，我会更新 README 引流过去。
 
 ## 问题和资源
 
@@ -75,7 +75,7 @@ $ bash rime-install amorphobia/openfly@<tag>
 - **随心所欲** openfly.whimsicality.dict.yaml
 - **隐藏全码** 未直接收录，反查词典是基于全码首选的单字和隐藏全码的单字生成
 - **二重简码** openfly.secondary.short.code.dict.yaml, 默认开启，可在 `openfly.dict.yaml` 里注释掉以关闭
-- **内嵌提示** 官方未单独显示此词库 openfly.embedded.hint.dict.yaml
+- **一简词** openfly.secondary.single.word.dict.yaml, 默认开启，可在 `openfly.dict.yaml` 里注释掉以关闭
 
 ## 直通车
 
